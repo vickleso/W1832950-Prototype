@@ -1,0 +1,1602 @@
+[
+    {
+        "tweet_id": "1",
+        "ooc_tweet": {
+            "text": "Expert warns of public health emergency as Delhi's toxic air returns ",
+            "images": [
+                "./media/batch10/1/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1869267314509517279",
+                "date_posted": "2024-12-18 06:23:51",
+                "topic": "Society",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "2",
+        "ooc_tweet": {
+            "text": "Officials postpone Sugar Bowl in the wake of apparent terror attack on Bourbon Street ",
+            "images": [
+                "./media/batch10/2/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1874541049957253123",
+                "date_posted": "2025-01-01 19:39:48",
+                "topic": "Society",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "3",
+        "ooc_tweet": {
+            "text": "US homelessness hit record high in 2024 ",
+            "images": [
+                "./media/batch10/3/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1873081169056592142",
+                "date_posted": "2024-12-28 18:58:45",
+                "topic": "Society",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "4",
+        "ooc_tweet": {
+            "text": "Watch: Michael J Fox, Bono and Anna Wintour awarded Medal of Freedom ",
+            "images": [
+                "./media/batch10/4/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1875646052621041789",
+                "date_posted": "2025-01-04 20:50:41",
+                "topic": "Society",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "5",
+        "ooc_tweet": {
+            "text": "Ghana's Supreme Court dismisses challenges to anti-LGBT bill ",
+            "images": [
+                "./media/batch10/5/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1869434932302389447",
+                "date_posted": "2024-12-18 17:29:54",
+                "topic": "Society",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "6",
+        "ooc_tweet": {
+            "text": "Car driven into crowd at German Christmas market, reports say ",
+            "images": [
+                "./media/batch10/6/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1870188295457575354",
+                "date_posted": "2024-12-20 19:23:30",
+                "topic": "Society",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "7",
+        "ooc_tweet": {
+            "text": "Florida DEI leader sees revenue cut in half due to state policies: 'We're in trouble' ",
+            "images": [
+                "./media/batch10/7/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1875019281034830333",
+                "date_posted": "2025-01-03 03:20:07",
+                "topic": "Society",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "8",
+        "ooc_tweet": {
+            "text": "A Manhattan jury began deliberating Tuesday in the manslaughter trial of Daniel Penny, the former Marine charged in the chokehold death of a homeless man on a New York City subway last year. ",
+            "images": [
+                "./media/batch10/8/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "CNN",
+                "post_url": "https://x.com/CNN/status/1864027301316280344",
+                "date_posted": "2024-12-03 19:21:55",
+                "topic": "Society",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "9",
+        "ooc_tweet": {
+            "text": "Puerto Rico may enter new year in darkness after sudden blackout ",
+            "images": [
+                "./media/batch10/9/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1874157142627770599",
+                "date_posted": "2024-12-31 18:14:17",
+                "topic": "Society",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "10",
+        "ooc_tweet": {
+            "text": "'I bought my son's death': Families mourn victims of migrant shipwreck ",
+            "images": [
+                "./media/batch10/10/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1869943480228642952",
+                "date_posted": "2024-12-20 03:10:42",
+                "topic": "Society",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "11",
+        "ooc_tweet": {
+            "text": "Why Apple is offering rare iPhone discounts in China ",
+            "images": [
+                "./media/batch10/11/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1875028061097165053",
+                "date_posted": "2025-01-03 03:55:00",
+                "topic": "Society",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "12",
+        "ooc_tweet": {
+            "text": "LIVE UPDATES: President Biden speaks out on Bourbon Street attack: 'Terrible assault'\n",
+            "images": [
+                "./media/batch10/12/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1874611512049897806",
+                "date_posted": "2025-01-02 00:19:47",
+                "topic": "Society",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "13",
+        "ooc_tweet": {
+            "text": "LIVE UPDATES: Authorities investigate Texas home where suspect Shamsud Din Jabbar may have lived: FBI\n",
+            "images": [
+                "./media/batch10/13/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1874569172333535606",
+                "date_posted": "2025-01-01 21:31:33",
+                "topic": "Society",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "14",
+        "ooc_tweet": {
+            "text": "BREAKING: Death toll in Bourbon Street attack rises to 15 as authorities conduct autopsies\n",
+            "images": [
+                "./media/batch10/14/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1874590677188673746",
+                "date_posted": "2025-01-01 22:57:00",
+                "topic": "Society",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "15",
+        "ooc_tweet": {
+            "text": "At least 64 people were feared dead following a boat accident on a river in Zamfara State in northwest Nigeria, local officials said on Saturday. ",
+            "images": [
+                "./media/batch10/15/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "CNN",
+                "post_url": "https://x.com/CNN/status/1835084099419021502",
+                "date_posted": "2024-09-14 22:31:58",
+                "topic": "Society",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "16",
+        "ooc_tweet": {
+            "text": "LIVE UPDATES: Bourbon Street attack suspect identified as Shamsud Din Jabbar ",
+            "images": [
+                "./media/batch10/16/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1874518156112212436",
+                "date_posted": "2025-01-01 18:08:49",
+                "topic": "Society",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "17",
+        "ooc_tweet": {
+            "text": "North Dakota senator's son to serve 28 years in prison for crash that killed deputy ",
+            "images": [
+                "./media/batch10/17/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1874057961154187694",
+                "date_posted": "2024-12-31 11:40:10",
+                "topic": "Society",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "18",
+        "ooc_tweet": {
+            "text": "Woman feeds family for a week with 11-pound mushroom find: 'Twice the size of my head' ",
+            "images": [
+                "./media/batch10/18/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1867930122994536889",
+                "date_posted": "2024-12-14 13:50:20",
+                "topic": "Society",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "19",
+        "ooc_tweet": {
+            "text": "LIVE UPDATES: Authorities release photo of Bourbon Street attack suspect Shamsud Din Jabbar\n",
+            "images": [
+                "./media/batch10/19/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1874587668207550566",
+                "date_posted": "2025-01-01 22:45:02",
+                "topic": "Society",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "20",
+        "ooc_tweet": {
+            "text": "LIVE UPDATES: Who is Shamsud Din Jabbar? What we know about the New Orleans New Years' terrorist suspect\n",
+            "images": [
+                "./media/batch10/20/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1874577207957332332",
+                "date_posted": "2025-01-01 22:03:28",
+                "topic": "Society",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "21",
+        "ooc_tweet": {
+            "text": "LIVE UPDATES: Sugar Bowl postponed by officials in the wake of apparent terror attack on Bourbon Street\n",
+            "images": [
+                "./media/batch10/21/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1874538639620768071",
+                "date_posted": "2025-01-01 19:30:13",
+                "topic": "Society",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "22",
+        "ooc_tweet": {
+            "text": "Aviation expert casts doubt on bird strike theory in deadly South Korean plane crash: 'Doesn't make sense' ",
+            "images": [
+                "./media/batch10/22/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1873698040227242004",
+                "date_posted": "2024-12-30 11:49:59",
+                "topic": "Society",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "23",
+        "ooc_tweet": {
+            "text": "Four given jail terms for Amsterdam violence against football fans ",
+            "images": [
+                "./media/batch10/23/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1871530977979166792",
+                "date_posted": "2024-12-24 12:18:51",
+                "topic": "Sports",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "24",
+        "ooc_tweet": {
+            "text": "Jimmy Carter, former US president, remembered in sports world after death ",
+            "images": [
+                "./media/batch10/24/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1873529278119260217",
+                "date_posted": "2024-12-30 00:39:23",
+                "topic": "Sports",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "25",
+        "ooc_tweet": {
+            "text": "Shedeur Sanders receives custom Giants cleats before final college game as G-Men own No. 1 pick ",
+            "images": [
+                "./media/batch10/25/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1873376918126342371",
+                "date_posted": "2024-12-29 14:33:57",
+                "topic": "Sports",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "26",
+        "ooc_tweet": {
+            "text": "India dig deep to avoid follow-on against Australia ",
+            "images": [
+                "./media/batch10/26/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1868935127755001881",
+                "date_posted": "2024-12-17 08:23:52",
+                "topic": "Sports",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "27",
+        "ooc_tweet": {
+            "text": "Texas Tech defensive back accuses Arkansas lineman of 'dirty' play during bowl game ",
+            "images": [
+                "./media/batch10/27/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1873450398201123202",
+                "date_posted": "2024-12-29 19:25:56",
+                "topic": "Sports",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "28",
+        "ooc_tweet": {
+            "text": "Miami's Cam Ward opts out of bowl game in 2nd half after setting TD record, ignites social media debate ",
+            "images": [
+                "./media/batch10/28/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1873389314656092627",
+                "date_posted": "2024-12-29 15:23:13",
+                "topic": "Sports",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "29",
+        "ooc_tweet": {
+            "text": "World No. 2 Aryna Sabalenka defeats American Jessica Pegula to win her first US Open title. ",
+            "images": [
+                "./media/batch10/29/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "CNN",
+                "post_url": "https://x.com/CNN/status/1832548954401116636",
+                "date_posted": "2024-09-07 22:38:12",
+                "topic": "Sports",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "30",
+        "ooc_tweet": {
+            "text": "Navy pulls off upset over Army with Trump, star-studded group in attendance ",
+            "images": [
+                "./media/batch10/30/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1868088275040104835",
+                "date_posted": "2024-12-15 00:18:46",
+                "topic": "Sports",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "31",
+        "ooc_tweet": {
+            "text": "Teenage kicks - what makes history-making Littler so good? ",
+            "images": [
+                "./media/batch10/31/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1875512788757438556",
+                "date_posted": "2025-01-04 12:01:08",
+                "topic": "Sports",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "32",
+        "ooc_tweet": {
+            "text": "Remembering African sport's notable deaths in 2024 ",
+            "images": [
+                "./media/batch10/32/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1873671750547816906",
+                "date_posted": "2024-12-30 10:05:31",
+                "topic": "Sports",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "33",
+        "ooc_tweet": {
+            "text": "Australia win thriller to take series lead over India ",
+            "images": [
+                "./media/batch10/33/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1873638732236042448",
+                "date_posted": "2024-12-30 07:54:18",
+                "topic": "Sports",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "34",
+        "ooc_tweet": {
+            "text": "Nick Saban 'obvious choice' for possible college football commissioner, Penn State coach says ",
+            "images": [
+                "./media/batch10/34/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1873464782952563179",
+                "date_posted": "2024-12-29 20:23:06",
+                "topic": "Sports",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "35",
+        "ooc_tweet": {
+            "text": "Stamps, sticks and stories: looking for traces of baseball in North Korea ",
+            "images": [
+                "./media/batch10/35/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "The Guardian",
+                "post_url": "https://x.com/guardian/status/1836256764217430384",
+                "date_posted": "2024-09-18 04:11:43",
+                "topic": "Sports",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "36",
+        "ooc_tweet": {
+            "text": "Boise State leans into underdog role ahead of CFP game ",
+            "images": [
+                "./media/batch10/36/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1874085455936848188",
+                "date_posted": "2024-12-31 13:29:26",
+                "topic": "Sports",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "37",
+        "ooc_tweet": {
+            "text": "Oregon quarterback Dillon Gabriel suggests all football games should be played without bad weather ",
+            "images": [
+                "./media/batch10/37/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1874630293442777320",
+                "date_posted": "2025-01-02 01:34:25",
+                "topic": "Sports",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "38",
+        "ooc_tweet": {
+            "text": "LeBron James, now 40, says he can play at 'high level' for nearly another decade ",
+            "images": [
+                "./media/batch10/38/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1874212222613811642",
+                "date_posted": "2024-12-31 21:53:09",
+                "topic": "Sports",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "39",
+        "ooc_tweet": {
+            "text": "Sugar Bowl kicks off after New Orleans terror attack ",
+            "images": [
+                "./media/batch10/39/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1874929406528913609",
+                "date_posted": "2025-01-02 21:22:59",
+                "topic": "Sports",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "40",
+        "ooc_tweet": {
+            "text": "Caitlin Clark reveals 'welcome to the W' moment when she was injured early in 2024 season ",
+            "images": [
+                "./media/batch10/40/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1874977461751931224",
+                "date_posted": "2025-01-03 00:33:56",
+                "topic": "Sports",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "41",
+        "ooc_tweet": {
+            "text": "Fox News Sports Huddle Newsletter: Sugar Bowl will be played after New Orleans terror attack ",
+            "images": [
+                "./media/batch10/41/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1874915099632107830",
+                "date_posted": "2025-01-02 20:26:08",
+                "topic": "Sports",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "42",
+        "ooc_tweet": {
+            "text": "Trans athlete speaks out against colleges for not offering full scholarship to compete as women's runner ",
+            "images": [
+                "./media/batch10/42/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1874203761603653733",
+                "date_posted": "2024-12-31 21:19:32",
+                "topic": "Sports",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "43",
+        "ooc_tweet": {
+            "text": "Army-Navy set to clash in 125th meeting as President-elect Trump watches on alongside key political figures ",
+            "images": [
+                "./media/batch10/43/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1867940761074811184",
+                "date_posted": "2024-12-14 14:32:36",
+                "topic": "Sports",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "44",
+        "ooc_tweet": {
+            "text": "Ashton Jeanty prepared Heisman acceptance speech he'll never get to deliver after losing to Travis Hunter ",
+            "images": [
+                "./media/batch10/44/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1868127365064228870",
+                "date_posted": "2024-12-15 02:54:06",
+                "topic": "Sports",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "45",
+        "ooc_tweet": {
+            "text": "Titans would be 'absolute fools' if they don't draft Heisman Trophy winner Travis Hunter, ex-star says ",
+            "images": [
+                "./media/batch10/45/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1875734281898561651",
+                "date_posted": "2025-01-05 02:41:16",
+                "topic": "Sports",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "46",
+        "ooc_tweet": {
+            "text": "What to look out for in African sport in 2025 ",
+            "images": [
+                "./media/batch10/46/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1874723217815814387",
+                "date_posted": "2025-01-02 07:43:40",
+                "topic": "Sports",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "47",
+        "ooc_tweet": {
+            "text": "NFL addresses Super Bowl safety concerns in the wake of deadly Bourbon Street attack ",
+            "images": [
+                "./media/batch10/47/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1874573908357062850",
+                "date_posted": "2025-01-01 21:50:22",
+                "topic": "Sports",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "48",
+        "ooc_tweet": {
+            "text": "The endgame in Ukraine: How the war could come to a close in 2025 ",
+            "images": [
+                "./media/batch10/48/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1874610278479884388",
+                "date_posted": "2025-01-02 00:14:53",
+                "topic": "Politics-Warfare-War-in-Ukraine",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "49",
+        "ooc_tweet": {
+            "text": "General's assassination pierces Moscow's air of normality ",
+            "images": [
+                "./media/batch10/49/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1869155567178015074",
+                "date_posted": "2024-12-17 22:59:49",
+                "topic": "Politics-Warfare-War-in-Ukraine",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "50",
+        "ooc_tweet": {
+            "text": "Russia detains suspect in general’s killing, described as an Uzbek citizen recruited by Ukrainian intelligence services\n",
+            "images": [
+                "./media/batch10/50/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC Breaking News",
+                "post_url": "https://x.com/BBCBreaking/status/1869276027765014909",
+                "date_posted": "2024-12-18 06:58:29",
+                "topic": "Politics-Warfare-War-in-Ukraine",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "51",
+        "ooc_tweet": {
+            "text": "The famous Christmas carol inspiring Ukraine's defenders ",
+            "images": [
+                "./media/batch10/51/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1871434859563876777",
+                "date_posted": "2024-12-24 05:56:54",
+                "topic": "Politics-Warfare-War-in-Ukraine",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "52",
+        "ooc_tweet": {
+            "text": "Ukraine's spies target Russian figures in increasingly brazen attacks ",
+            "images": [
+                "./media/batch10/52/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1869066403782758536",
+                "date_posted": "2024-12-17 17:05:30",
+                "topic": "Politics-Warfare-War-in-Ukraine",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "53",
+        "ooc_tweet": {
+            "text": "Explosion in Moscow kills senior general who was in charge of Russia's nuclear protection forces, state media say \n",
+            "images": [
+                "./media/batch10/53/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC Breaking News",
+                "post_url": "https://x.com/BBCBreaking/status/1868902912413323718",
+                "date_posted": "2024-12-17 06:15:51",
+                "topic": "Politics-Warfare-War-in-Ukraine",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "54",
+        "ooc_tweet": {
+            "text": "Igor Kirillov: Notorious mouthpiece and man behind Russia's chemical weapons ",
+            "images": [
+                "./media/batch10/54/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1868936214356603315",
+                "date_posted": "2024-12-17 08:28:11",
+                "topic": "Politics-Warfare-War-in-Ukraine",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "55",
+        "ooc_tweet": {
+            "text": "'Hard to feel festive' says Ukrainian refugee ",
+            "images": [
+                "./media/batch10/55/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1871439444462416122",
+                "date_posted": "2024-12-24 06:15:07",
+                "topic": "Politics-Warfare-War-in-Ukraine",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "56",
+        "ooc_tweet": {
+            "text": "Nato must switch to a wartime mindset, warns secretary general ",
+            "images": [
+                "./media/batch10/56/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1867284880146502020",
+                "date_posted": "2024-12-12 19:06:22",
+                "topic": "Politics-Warfare-War-in-Ukraine",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "57",
+        "ooc_tweet": {
+            "text": "Can Ukraine face another year of war? ",
+            "images": [
+                "./media/batch10/57/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1873600891573403738",
+                "date_posted": "2024-12-30 05:23:57",
+                "topic": "Politics-Warfare-War-in-Ukraine",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "58",
+        "ooc_tweet": {
+            "text": "Tears as families reunited in Russia-Ukraine prisoner exchange ",
+            "images": [
+                "./media/batch10/58/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1873890095658418392",
+                "date_posted": "2024-12-31 00:33:08",
+                "topic": "Politics-Warfare-War-in-Ukraine",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "59",
+        "ooc_tweet": {
+            "text": "Baltic states join with Norway, Finland and Poland to build ‘drone wall’ against Russia ",
+            "images": [
+                "./media/batch10/59/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1794795407656018251",
+                "date_posted": "2024-05-26 18:19:05",
+                "topic": "Politics-Warfare-War-in-Ukraine",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "60",
+        "ooc_tweet": {
+            "text": "Russian soldiers are raising concerns about equipping and commanding North Korean soldiers, according to audio intercepts released by Ukraine ",
+            "images": [
+                "./media/batch10/60/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "CNN",
+                "post_url": "https://x.com/CNN/status/1849948334779142423",
+                "date_posted": "2024-10-25 22:57:08",
+                "topic": "Politics-Warfare-War-in-Ukraine",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "61",
+        "ooc_tweet": {
+            "text": "A Russian-controlled nuclear power plant in Ukraine was damaged in a drone attack, the facility is still safe, UN nuclear agency says. ",
+            "images": [
+                "./media/batch10/61/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "CNN",
+                "post_url": "https://x.com/CNN/status/1777128377457037314",
+                "date_posted": "2024-04-08 00:16:37",
+                "topic": "Politics-Warfare-War-in-Ukraine",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "62",
+        "ooc_tweet": {
+            "text": "Sunny Hostin laments Caitlin Clark's popularity is part of White, and 'pretty' privilege ",
+            "images": [
+                "./media/batch10/62/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1793354939516756020",
+                "date_posted": "2024-05-22 18:55:11",
+                "topic": "Politics-Warfare-War-in-Ukraine",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "63",
+        "ooc_tweet": {
+            "text": "Video obtained by CNN shows an apparent execution by Russian troops of three surrendering Ukrainians ",
+            "images": [
+                "./media/batch10/63/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "CNN",
+                "post_url": "https://x.com/CNN/status/1832027931851346174",
+                "date_posted": "2024-09-06 12:07:51",
+                "topic": "Politics-Warfare-War-in-Ukraine",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "64",
+        "ooc_tweet": {
+            "text": "Putin offers to pay off debts as recruitment tool in war against Ukraine ",
+            "images": [
+                "./media/batch10/64/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1873918715210739936",
+                "date_posted": "2024-12-31 02:26:52",
+                "topic": "Politics-Warfare-War-in-Ukraine",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "65",
+        "ooc_tweet": {
+            "text": "Zelenskyy says Trump could be ‘decisive’ in bringing an end to the war ",
+            "images": [
+                "./media/batch10/65/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1875217057257574575",
+                "date_posted": "2025-01-03 16:26:00",
+                "topic": "Politics-Warfare-War-in-Ukraine",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "66",
+        "ooc_tweet": {
+            "text": "Russian general killed in explosion in Moscow ",
+            "images": [
+                "./media/batch10/66/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1868899486862389420",
+                "date_posted": "2024-12-17 06:02:14",
+                "topic": "Politics-Warfare-War-in-Ukraine",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "67",
+        "ooc_tweet": {
+            "text": "Six killed in strike on Russia's Kursk after deadly missile attack on Kyiv ",
+            "images": [
+                "./media/batch10/67/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1870152578920493485",
+                "date_posted": "2024-12-20 17:01:35",
+                "topic": "Politics-Warfare-War-in-Ukraine",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "68",
+        "ooc_tweet": {
+            "text": "Inside the battle for Lyptsi, the small town that Ukraine cannot afford to lose to Russia ",
+            "images": [
+                "./media/batch10/68/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "CNN",
+                "post_url": "https://x.com/CNN/status/1793407491092394317",
+                "date_posted": "2024-05-22 22:24:00",
+                "topic": "Politics-Warfare-War-in-Ukraine",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "69",
+        "ooc_tweet": {
+            "text": "Exclusive: Ukraine's military chief reveals strategy behind surprise incursion into Russia, telling CNN's Christiane Amanpour it boosted waning army morale ",
+            "images": [
+                "./media/batch10/69/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "CNN International",
+                "post_url": "https://x.com/cnni/status/1831747171542081606",
+                "date_posted": "2024-09-05 17:32:12",
+                "topic": "Politics-Warfare-War-in-Ukraine",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "70",
+        "ooc_tweet": {
+            "text": "Ukraine receives US natural gas shipment for the 1st time amid fresh supply fears ",
+            "images": [
+                "./media/batch10/70/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1874160030867456237",
+                "date_posted": "2024-12-31 18:25:46",
+                "topic": "Politics-Warfare-War-in-Ukraine",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "71",
+        "ooc_tweet": {
+            "text": "Ukrainian President Zelensky cancels all his foreign visits as Russia continues its push into the country's northeast ",
+            "images": [
+                "./media/batch10/71/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "CNN",
+                "post_url": "https://x.com/CNN/status/1790691332115030208",
+                "date_posted": "2024-05-15 10:30:57",
+                "topic": "Politics-Warfare-War-in-Ukraine",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "72",
+        "ooc_tweet": {
+            "text": "US Secretary of State Antony Blinken announces $2 billion in foreign military aid for Ukraine, as Russia continues to advance in the northeast ",
+            "images": [
+                "./media/batch10/72/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "CNN",
+                "post_url": "https://x.com/CNN/status/1790716329948758198",
+                "date_posted": "2024-05-15 12:10:17",
+                "topic": "Politics-Warfare-War-in-Ukraine",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "73",
+        "ooc_tweet": {
+            "text": "Ukraine gave up its nuclear weapons. Now it's asking why ",
+            "images": [
+                "./media/batch10/73/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1864661848206741969",
+                "date_posted": "2024-12-05 13:23:23",
+                "topic": "Politics-Warfare-War-in-Ukraine",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "74",
+        "ooc_tweet": {
+            "text": "Ukraine fires US-supplied long range missiles into Russia, Kremlin says ",
+            "images": [
+                "./media/batch10/74/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1858851476161876389",
+                "date_posted": "2024-11-19 12:35:02",
+                "topic": "Politics-Warfare-War-in-Ukraine",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "75",
+        "ooc_tweet": {
+            "text": "Rod Stewart defends support for Ukraine after jeers ",
+            "images": [
+                "./media/batch10/75/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1802729448833224966",
+                "date_posted": "2024-06-17 15:46:08",
+                "topic": "Politics-Warfare-War-in-Ukraine",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "76",
+        "ooc_tweet": {
+            "text": "Russian newspaper says its reporter killed by Ukraine drone strike ",
+            "images": [
+                "./media/batch10/76/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1875809281594785981",
+                "date_posted": "2025-01-05 07:39:18",
+                "topic": "Politics-Warfare-War-in-Ukraine",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "77",
+        "ooc_tweet": {
+            "text": "Secretary of Defense Lloyd Austin says North Korea has deployed troops to Russia, the first US official to publicly confirm the development\n",
+            "images": [
+                "./media/batch10/77/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "CNN",
+                "post_url": "https://x.com/CNN/status/1849050410343907729",
+                "date_posted": "2024-10-23 11:29:06",
+                "topic": "Politics-Warfare-War-in-Ukraine",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "78",
+        "ooc_tweet": {
+            "text": "Zelensky condemns 'inhumane' Christmas Day attack ",
+            "images": [
+                "./media/batch10/78/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1871909534714749438",
+                "date_posted": "2024-12-25 13:23:06",
+                "topic": "Politics-Warfare-War-in-Ukraine",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "79",
+        "ooc_tweet": {
+            "text": "Russian foreign minister blasts Ukraine peace deal reportedly floated by Trump's team: 'Not happy' ",
+            "images": [
+                "./media/batch10/79/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1873938365101334844",
+                "date_posted": "2024-12-31 03:44:56",
+                "topic": "Politics-Warfare-War-in-Ukraine",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "80",
+        "ooc_tweet": {
+            "text": "Ukraine demands Fifa apology over Crimea map ",
+            "images": [
+                "./media/batch10/80/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1868653735745835071",
+                "date_posted": "2024-12-16 13:45:43",
+                "topic": "Politics-Warfare-War-in-Ukraine",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "81",
+        "ooc_tweet": {
+            "text": "Families prepare for another Christmas in exile ",
+            "images": [
+                "./media/batch10/81/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1869265634166452597",
+                "date_posted": "2024-12-18 06:17:11",
+                "topic": "Politics-Warfare-War-in-Ukraine",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "82",
+        "ooc_tweet": {
+            "text": "At least 100 North Koreans dead in Ukraine war, says South ",
+            "images": [
+                "./media/batch10/82/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1869618512592818670",
+                "date_posted": "2024-12-19 05:39:23",
+                "topic": "Politics-Warfare-War-in-Ukraine",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "83",
+        "ooc_tweet": {
+            "text": "UK considers sending troops to train Ukrainians ",
+            "images": [
+                "./media/batch10/83/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1869597646458876358",
+                "date_posted": "2024-12-19 04:16:29",
+                "topic": "Politics-Warfare-War-in-Ukraine",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "84",
+        "ooc_tweet": {
+            "text": "Ukraine's war stamps put humour, patriotism and swearing in the post ",
+            "images": [
+                "./media/batch10/84/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1871709984225968470",
+                "date_posted": "2024-12-25 00:10:09",
+                "topic": "Politics-Warfare-War-in-Ukraine",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "85",
+        "ooc_tweet": {
+            "text": "I should have invaded Ukraine earlier, Putin tells Russians in TV marathon ",
+            "images": [
+                "./media/batch10/85/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1869775769171324973",
+                "date_posted": "2024-12-19 16:04:16",
+                "topic": "Politics-Warfare-War-in-Ukraine",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "86",
+        "ooc_tweet": {
+            "text": "More than a million households left without power in Ukraine after widespread Russian attack targets critical energy infrastructure, authorities say ",
+            "images": [
+                "./media/batch10/86/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "CNN",
+                "post_url": "https://x.com/CNN/status/1862055822047498736",
+                "date_posted": "2024-11-28 08:47:57",
+                "topic": "Politics-Warfare-War-in-Ukraine",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "87",
+        "ooc_tweet": {
+            "text": "Ukraine to end transit of Russian gas into Europe ",
+            "images": [
+                "./media/batch10/87/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1874194647498551407",
+                "date_posted": "2024-12-31 20:43:19",
+                "topic": "Politics-Warfare-War-in-Ukraine",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "88",
+        "ooc_tweet": {
+            "text": "Slovakia threatens to cut benefit for Ukrainians ",
+            "images": [
+                "./media/batch10/88/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1874967830329761922",
+                "date_posted": "2025-01-02 23:55:40",
+                "topic": "Politics-Warfare-War-in-Ukraine",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "89",
+        "ooc_tweet": {
+            "text": "Ukraine: How the war shifted in 2024 ",
+            "images": [
+                "./media/batch10/89/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1874060477405286870",
+                "date_posted": "2024-12-31 11:50:10",
+                "topic": "Politics-Warfare-War-in-Ukraine",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "90",
+        "ooc_tweet": {
+            "text": "US gives $20bn to Ukraine funded by seized Russian assets ",
+            "images": [
+                "./media/batch10/90/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1866583950010790020",
+                "date_posted": "2024-12-10 20:41:07",
+                "topic": "Politics-Warfare-War-in-Ukraine",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "91",
+        "ooc_tweet": {
+            "text": "Russia and Ukraine exchange 300 prisoners ",
+            "images": [
+                "./media/batch10/91/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1873744705843814731",
+                "date_posted": "2024-12-30 14:55:25",
+                "topic": "Politics-Warfare-War-in-Ukraine",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "92",
+        "ooc_tweet": {
+            "text": "Ukrainians hope for a New Year prisoner exchange with Russia ",
+            "images": [
+                "./media/batch10/92/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1872883498458993069",
+                "date_posted": "2024-12-28 05:53:17",
+                "topic": "Politics-Warfare-War-in-Ukraine",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "93",
+        "ooc_tweet": {
+            "text": "US Defense Secretary Lloyd Austin announces $6 billion long-term military aid package for Ukraine, the largest to date ",
+            "images": [
+                "./media/batch10/93/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "CNN",
+                "post_url": "https://x.com/CNN/status/1783924182444560841",
+                "date_posted": "2024-04-26 18:20:43",
+                "topic": "Politics-Warfare-War-in-Ukraine",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "94",
+        "ooc_tweet": {
+            "text": "PM and Zelensky discuss UK training of Ukrainian forces ",
+            "images": [
+                "./media/batch10/94/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1871205872166199408",
+                "date_posted": "2024-12-23 14:46:59",
+                "topic": "Politics-Warfare-War-in-Ukraine",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "95",
+        "ooc_tweet": {
+            "text": "Finland investigates Russia 'shadow fleet' ship after cable damage ",
+            "images": [
+                "./media/batch10/95/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1872298850179760493",
+                "date_posted": "2024-12-26 15:10:06",
+                "topic": "Politics-Warfare-War-in-Ukraine",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "96",
+        "ooc_tweet": {
+            "text": "Everyone on board a Russian military plane that crashed in the Belgorod region has died, governor says. Follow live updates. ",
+            "images": [
+                "./media/batch10/96/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "CNN",
+                "post_url": "https://x.com/CNN/status/1750125181794746793",
+                "date_posted": "2024-01-24 11:55:33",
+                "topic": "Politics-Warfare-War-in-Ukraine",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "97",
+        "ooc_tweet": {
+            "text": "Biden's Defense Department announces new multi-billion-dollar aid packages for Ukraine ",
+            "images": [
+                "./media/batch10/97/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1873808744242430246",
+                "date_posted": "2024-12-30 19:09:52",
+                "topic": "Politics-Warfare-War-in-Ukraine",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "98",
+        "ooc_tweet": {
+            "text": "Ukrainian refugee's third Christmas away from home ",
+            "images": [
+                "./media/batch10/98/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1871509169502646747",
+                "date_posted": "2024-12-24 10:52:11",
+                "topic": "Politics-Warfare-War-in-Ukraine",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "99",
+        "ooc_tweet": {
+            "text": "Russia batters Ukraine power grid amid rising concern Putin could order ballistic missile attack this weekend ",
+            "images": [
+                "./media/batch10/99/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1867675264857047307",
+                "date_posted": "2024-12-13 20:57:37",
+                "topic": "Politics-Warfare-War-in-Ukraine",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "100",
+        "ooc_tweet": {
+            "text": "Navy watches Russian vessels in Channel operation ",
+            "images": [
+                "./media/batch10/100/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1874469644066500934",
+                "date_posted": "2025-01-01 14:56:03",
+                "topic": "Politics-Warfare-War-in-Ukraine",
+                "label": true
+            }
+        }
+    }
+]

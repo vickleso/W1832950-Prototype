@@ -1,0 +1,2953 @@
+[
+    {
+        "tweet_id": "1",
+        "ooc_tweet": {
+            "text": "Henry Ford sits in his first automobile the Ford Quadricycle. Ford made three Quadricycles in total. Ca. 1896.",
+            "images": [
+                "./media/batch6/1/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Past Perspectives",
+                "post_url": "https://x.com/fakehistoryhunt/status/1793310473204420813/photo/1",
+                "date_posted": "2024-05-20 00:00:00",
+                "topic": "History",
+                "error_category": "Deepfakes",
+                "label": false
+            }
+        },
+        "flagging_tweet": [
+            {
+                "text": "AI created fake history is flooding facebook.\nThis is just from one page in the last week. https://t.co/j1onBGDAqO",
+                "metadata": {
+                    "evidence": [],
+                    "author_id": "Fake History Hunter",
+                    "post_url": "https://x.com/fakehistoryhunt/status/1793310473204420813",
+                    "date_posted": "2024-05-22 15:58:29"
+                }
+            }
+        ]
+    },
+    {
+        "tweet_id": "2",
+        "ooc_tweet": {
+            "text": "BREAKING: Muhammad Shabana, the Hamas commander of the Rafah brigade and number five in Hamas, was eliminated today. This is big!!!",
+            "images": [
+                "./media/batch6/2/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Raylan Givens",
+                "post_url": "https://x.com/JewishWarrior13/status/1794027324855202033",
+                "date_posted": "2024-05-24 11:27:00",
+                "topic": "Politics-Warfare-Israel-Palestine",
+                "error_category": "Misattributed Images",
+                "label": false
+            }
+        },
+        "flagging_tweet": [
+            {
+                "text": "This image is currently circulating online with claims it shows Muhammad Shabana, a senior Hamas commander, who's been killed in Rafah.\n\nIn fact, the image shows Egyptian sports journalist Mohamed Shabana, who has nothing to do with Hamas. https://t.co/ha5kgg0L3F",
+                "metadata": {
+                    "evidence": [
+                        "./media/batch6/2/images/img1.jpeg"
+                    ],
+                    "author_id": "Shayan Sardarizadeh",
+                    "post_url": "https://x.com/Shayan86/status/1794069688428777587",
+                    "date_posted": "2024-05-24 18:15:20"
+                }
+            }
+        ]
+    },
+    {
+        "tweet_id": "3",
+        "ooc_tweet": {
+            "text": "BIIIIITCH...... Please.",
+            "images": [
+                "./media/batch6/3/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "",
+                "post_url": "https://x.com/Partisangirl/status/1793659666276458993",
+                "date_posted": "",
+                "topic": "Politics-Warfare-Israel-Palestine",
+                "error_category": "Incorrectly Captioned Images",
+                "label": false
+            }
+        },
+        "flagging_tweet": [
+            {
+                "text": "Standard Syrian Girl not fact checking before posting, these two are not the same girl. This was debunked months ago but this image has arisen again after the footage was released from Nahal Oz.",
+                "metadata": {
+                    "evidence": [],
+                    "author_id": "Aurora Intel",
+                    "post_url": "https://x.com/AuroraIntel/status/1793889188254777406",
+                    "date_posted": "2024-05-24 06:18:05"
+                }
+            }
+        ]
+    },
+    {
+        "tweet_id": "4",
+        "ooc_tweet": {
+            "text": "Here’s one thing they’ll never tell you about the 7th of October. ",
+            "images": [
+                "./media/batch6/4/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Suppressed News.",
+                "post_url": "https://x.com/SuppressedNws/status/1793746585328955797",
+                "date_posted": "2024-05-23 20:51:26",
+                "topic": "Politics-Warfare-Israel-Palestine",
+                "error_category": "Incorrectly Captioned Images",
+                "label": false
+            }
+        },
+        "flagging_tweet": [
+            {
+                "text": "The woman in this video (Avital Alajem) isn't the mother of the two children showcased, Negev and Eshel. \nTheir mother, Adi Vital-Kaploun, was reportedly killed in front of her children who were then filmed in the video by al-Qassam.\nHer photo: https://t.co/zhGRyKK2uA",
+                "metadata": {
+                    "evidence": [
+                        "./media/batch6/4/images/img1.jpeg"
+                    ],
+                    "author_id": "Tal Hagin",
+                    "post_url": "https://x.com/talhagin/status/1793877888690688099",
+                    "date_posted": "2024-05-24 05:33:11"
+                }
+            }
+        ]
+    },
+    {
+        "tweet_id": "5",
+        "ooc_tweet": {
+            "text": "Antartica Ice Wall. Why do you think Robert Scott’s expedition failed in 1912? 🥶 ",
+            "images": [
+                "./media/batch6/5/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "vegastar",
+                "post_url": "https://x.com/vegastarr/status/1793418217375006904",
+                "date_posted": "2024-05-22 23:06:37",
+                "topic": "History",
+                "error_category": "Incorrectly Captioned Images",
+                "label": false
+            }
+        },
+        "flagging_tweet": [
+            {
+                "text": "That’s not a real photo. It’s AI generated. Possible source: a  ‘news’ article from future: https://t.co/Vff1hYUFAC via @atlantiantimes 😂 https://t.co/FkFiSPnKUI",
+                "metadata": {
+                    "evidence": [],
+                    "author_id": "HoaxEye",
+                    "post_url": "https://x.com/hoaxeye/status/1793653997863338269",
+                    "date_posted": "2024-05-23 14:43:32"
+                }
+            }
+        ]
+    },
+    {
+        "tweet_id": "6",
+        "ooc_tweet": {
+            "text": "Almost 50% of people in London &amp; Birmingham have never worked. \n\nHow are they able to live in the 1st &amp; 2nd largest cities in the country? ",
+            "images": [
+                "./media/batch6/6/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Respect Order Manager",
+                "post_url": "https://x.com/LeoMars75/status/1861806183507497393",
+                "date_posted": "2024-11-27 16:15:59",
+                "topic": "Society",
+                "error_category": "Incorrectly Captioned Images",
+                "label": false
+            }
+        },
+        "flagging_tweet": [
+            {
+                "text": "The percentage in this map does not apply to all adults, just the subset that are currently not in employment.About 20% of total adults in Newham have never worked.Calculated by combining the original stat with the population that are not 'in employment' here:",
+                "metadata": {
+                    "evidence": [
+                        "https://www.ons.gov.uk/census/maps/choropleth/work/economic-activity-status/economic-activity-status-4a/economically-active-in-employment-including-full-time-students?lad=E09000025"
+                    ],
+                    "author_id": "Helpful Community Notes",
+                    "post_url": "https://x.com/i/birdwatch/n/1861818960930377742",
+                    "date_posted": "2024-11-28 08:41:35"
+                }
+            }
+        ]
+    },
+    {
+        "tweet_id": "7",
+        "ooc_tweet": {
+            "text": "🚨🇵🇸 BREAKING: These are fire belts Rafah is under heavy bombing right now!",
+            "images": [
+                "./media/batch6/7/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Aditya Juans Mandagie",
+                "post_url": "https://x.com/AdityaMandagie/status/1795593402572329058",
+                "date_posted": "2024-05-28 23:10:02",
+                "topic": "Politics-Warfare-Israel-Palestine",
+                "error_category": "De-contextualization",
+                "label": false
+            }
+        },
+        "flagging_tweet": [
+            {
+                "text": "The footage showcased was already used by the TimesOfGaza on November 10th, 2023 to showcase airstrikes in the vicinity of the al-Awda hospital in Gaza.\nThis is the second time I've seen it being used to showcase a recent strike. https://t.co/LsI48fAnhC",
+                "metadata": {
+                    "evidence": [
+                        "./media/batch6/7/images/img1.jpeg"
+                    ],
+                    "author_id": "Tal Hagin",
+                    "post_url": "https://x.com/talhagin/status/1795737237277356176",
+                    "date_posted": "2024-05-29 08:41:35"
+                }
+            }
+        ]
+    },
+    {
+        "tweet_id": "8",
+        "ooc_tweet": {
+            "text": "🚨BREAKING: The farmers are currently blockading Dover. ",
+            "images": [
+                "./media/batch6/8/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Inevitable West",
+                "post_url": "https://x.com/Inevitablewest/status/1861770072198431079",
+                "date_posted": "2024-11-27 13:52:29",
+                "topic": "Society",
+                "error_category": "De-contextualization",
+                "label": false
+            }
+        },
+        "flagging_tweet": [
+            {
+                "text": "The protest happened in February 2024 ",
+                "metadata": {
+                    "evidence": [
+                        "https://amp.theguardian.com/environment/2024/feb/10/uk-farmers-vow-to-mount-more-blockades-over-cheap-post-brexit-imports-and-supermarket-prices"
+                    ],
+                    "author_id": "Helpful Community Notes",
+                    "post_url": "https://x.com/i/birdwatch/n/1861774244423622802",
+                    "date_posted": "2024-11-28 08:41:35"
+                }
+            }
+        ]
+    },
+    {
+        "tweet_id": "9",
+        "ooc_tweet": {
+            "text": "8-year-old coal miner in Utah - USA, early 1900's",
+            "images": [
+                "./media/batch6/9/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Past Perspectives",
+                "post_url": "https://x.com/fakehistoryhunt/status/1793310473204420813/photo/2",
+                "date_posted": "2024-05-20 07:27:14",
+                "topic": "History",
+                "error_category": "Deepfakes",
+                "label": false
+            }
+        },
+        "flagging_tweet": [
+            {
+                "text": "AI created fake history is flooding facebook.\nThis is just from one page in the last week. https://t.co/j1onBGDAqO",
+                "metadata": {
+                    "evidence": [],
+                    "author_id": "Fake History Hunter",
+                    "post_url": "https://x.com/fakehistoryhunt/status/1793310473204420813",
+                    "date_posted": "2024-05-22 15:58:29"
+                }
+            }
+        ]
+    },
+    {
+        "tweet_id": "10",
+        "ooc_tweet": {
+            "text": "A historic black-and-white photograph of the Wright brothers' first successful powered flight in 1903. The plane, with its delicate wooden structure, is airborne against a clear blue sky. In the foreground, the brothers stand proudly, their faces illuminated by the sun. The background shows the launch site, with a sense of open fields and early 20th-century charm. The overall ambiance of the image is one of celebration and the dawn of a new era in aviation.",
+            "images": [
+                "./media/batch6/10/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Past Perspectives",
+                "post_url": "https://x.com/fakehistoryhunt/status/1793310473204420813/photo/2",
+                "date_posted": "2024-05-18 07:27:14",
+                "topic": "History",
+                "error_category": "Incorrectly Captioned Images",
+                "label": false
+            }
+        },
+        "flagging_tweet": [
+            {
+                "text": "AI created fake history is flooding facebook.\nThis is just from one page in the last week. https://t.co/j1onBGDAqO",
+                "metadata": {
+                    "evidence": [],
+                    "author_id": "Fake History Hunter",
+                    "post_url": "https://x.com/fakehistoryhunt/status/1793310473204420813",
+                    "date_posted": "2024-05-22 15:58:29"
+                }
+            }
+        ]
+    },
+    {
+        "tweet_id": "11",
+        "ooc_tweet": {
+            "text": "It was a beautiful scene pulling back up to Trump Tower! Such unbelievable love!  ",
+            "images": [
+                "./media/batch6/11/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Eric Trump",
+                "post_url": "https://x.com/EricTrump/status/1792717228292608345",
+                "date_posted": "2024-05-21 00:41:08",
+                "topic": "Politics-United-States-Presidential-Election",
+                "error_category": "Misattributed Images",
+                "label": false
+            }
+        },
+        "flagging_tweet": [
+            {
+                "text": "The community note under this Eric Trump post, showing a crowd watching Donald Trump's motorcade in NYC, is inaccurate.\n\nThe note falsely claims the clip shows people watching Joe Biden in April. But it was filmed yesterday by Trump's director of comms outside Trump Tower in NYC. https://t.co/xdFB2uWGac",
+                "metadata": {
+                    "evidence": [],
+                    "author_id": "Shayan Sardarizadeh",
+                    "post_url": "https://x.com/Shayan86/status/1793031069974884556",
+                    "date_posted": "2024-05-21 21:28:14"
+                }
+            }
+        ]
+    },
+    {
+        "tweet_id": "12",
+        "ooc_tweet": {
+            "text": "BREAKING The wreckage of Iranian President Raisi's helicopter has been found.#Iran #Reuters #HelicopterCrash #EbrahimRaisi #IranianPresident #HelicopterWreckage #IranianPresidentHelicopterCrash #Iran #PlaneCrash #Azerbaidjan #Arsparam #Teheran",
+            "images": [
+                "./media/batch6/12/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "null",
+                "post_url": "https://x.com/billdmccarthy/status/1793019530660159830/photo/1",
+                "date_posted": "2024-05-19 15:15:00",
+                "topic": "Politics-other",
+                "error_category": "Misattributed Images",
+                "label": false
+            }
+        },
+        "flagging_tweet": [
+            {
+                "text": "This photo shared across platforms does not show Iranian president Ebrahim Raisi's crashed helicopter.\n\nThe chopper depicted belongs to the Texas Department of Public Safety and crashed in January.\n\nhttps://t.co/u0k9JqMZUK https://t.co/PsfgSNHvpY",
+                "metadata": {
+                    "evidence": [
+                        "./media/batch6/12/images/img1.jpeg"
+                    ],
+                    "author_id": "Bill McCarthy",
+                    "post_url": "https://x.com/billdmccarthy/status/1793019530660159830",
+                    "date_posted": "2024-05-21 20:42:23"
+                }
+            }
+        ]
+    },
+    {
+        "tweet_id": "13",
+        "ooc_tweet": {
+            "text": "A group of young men, presumably drafted during World War I, standing on the Long Island Rail Road terminal at Flatbush Avenue. They are preparing to board a train to Camp Upton, with their luggage and equipment at their feet. The men's expressions convey a mix of anticipation, camaraderie, and nervousness. The background reveals the busy urban streets of Brooklyn, with pedestrians and horse-drawn carriages adding to the nostalgic atmosphere.#usa #history #explore #americanmade #american",
+            "images": [
+                "./media/batch6/13/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Past Perspectives",
+                "post_url": "https://x.com/fakehistoryhunt/status/1793310473204420813/photo/4",
+                "date_posted": "2024-05-18 00:00:00",
+                "topic": "History",
+                "error_category": "Deepfakes",
+                "label": false
+            }
+        },
+        "flagging_tweet": [
+            {
+                "text": "AI created fake history is flooding facebook.\nThis is just from one page in the last week. https://t.co/j1onBGDAqO",
+                "metadata": {
+                    "evidence": [],
+                    "author_id": "Fake History Hunter",
+                    "post_url": "https://x.com/fakehistoryhunt/status/1793310473204420813",
+                    "date_posted": "2024-05-22 15:58:29"
+                }
+            }
+        ]
+    },
+    {
+        "tweet_id": "14",
+        "ooc_tweet": {
+            "text": "Terrifying footage captures the moment severe turbulence struck a Singapore Airlines flight from London today. Tragically, one person, a 73-year-old British man, died, “likely” from a heart attack.53 passengers and one crew member were also injured during the incident. Seven...",
+            "images": [
+                "./media/batch6/14/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "null",
+                "post_url": "https://x.com/lee_georgina/status/1792917438989795444/photo/1",
+                "date_posted": "2024-05-21 12:00:00",
+                "topic": "Nature",
+                "error_category": "Misattributed Images",
+                "label": false
+            }
+        },
+        "flagging_tweet": [
+            {
+                "text": "Footage of turbulence knocking a flight attendant off her feet is being shared online. \n\nBut it is not from today's Singapore Airlines incident. It's from a 2019 flight to Basel. https://t.co/XTF7gviL9o",
+                "metadata": {
+                    "evidence": [
+                        "./media/batch6/14/images/img1.jpeg"
+                    ],
+                    "author_id": "Georgina Lee",
+                    "post_url": "https://x.com/lee_georgina/status/1792917438989795444",
+                    "date_posted": "2024-05-21 13:56:42"
+                }
+            }
+        ]
+    },
+    {
+        "tweet_id": "15",
+        "ooc_tweet": {
+            "text": "🚨 WW3 ALERT 🚨 NEW PICTURE RELEASED OF HELICOPTER CRASH THAT KILLED IRAN PRESIDENT EBRAHIM RAISI ⚠️",
+            "images": [
+                "./media/batch6/15/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Matt Wallace",
+                "post_url": "https://x.com/Shayan86/status/1792470815620911248/photo/1",
+                "date_posted": "2024-05-20 04:04:00",
+                "topic": "Politics-Warfare-Middle-East-Conflict",
+                "error_category": "Misattributed Images",
+                "label": false
+            }
+        },
+        "flagging_tweet": [
+            {
+                "text": "2.8 million views for this alleged image of the wreckage of Iranian President Ebrahim Raisi's helicopter.\n\nThe problem? the image is from another plane crash in Iran that happened in 2020, and has nothing to do with Raisi's death. https://t.co/bAzl6GRGYz",
+                "metadata": {
+                    "evidence": [],
+                    "author_id": "Shayan Sardarizadeh",
+                    "post_url": "https://x.com/Shayan86/status/1792470815620911248",
+                    "date_posted": "2024-05-20 08:21:59"
+                }
+            }
+        ]
+    },
+    {
+        "tweet_id": "16",
+        "ooc_tweet": {
+            "text": "If nobody else is going to say it then I will.\n\nThe president of Iran obviously had his helicopter shot out of the sky by a space laser! ",
+            "images": [
+                "./media/batch6/16/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Diana Wallace",
+                "post_url": "https://x.com/DianaWallace888/status/1792435786022883723",
+                "date_posted": "2024-05-20 06:02:47",
+                "topic": "Politics-Warfare-Middle-East-Conflict",
+                "error_category": "Incorrectly Captioned Images",
+                "label": false
+            }
+        },
+        "flagging_tweet": [
+            {
+                "text": "Nobody else is saying it because it's absolute and utter nonsense. https://t.co/NbI53K2xcp",
+                "metadata": {
+                    "evidence": [],
+                    "author_id": "Shayan Sardarizadeh",
+                    "post_url": "https://x.com/Shayan86/status/1792462441827484084",
+                    "date_posted": "2024-05-20 07:48:43"
+                }
+            }
+        ]
+    },
+    {
+        "tweet_id": "17",
+        "ooc_tweet": {
+            "text": "BREAKING: MANY BODIES OF THOSE DIED IN IRAN PRESIDENT RAISI HELICOPTER CRASH HAVE BEEN BURNT AND CANNOT BE IDENTIFIED",
+            "images": [
+                "./media/batch6/17/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Sulaiman Ahmed",
+                "post_url": "https://x.com/Shayan86/status/1792416978763952293/photo/1",
+                "date_posted": "2024-05-20 05:02:00",
+                "topic": "Politics-Warfare-Middle-East-Conflict",
+                "error_category": "Misattributed Images",
+                "label": false
+            }
+        },
+        "flagging_tweet": [
+            {
+                "text": "Three of the images in this tweet, which claims to show wreckage of the helicopter carrying the late Iranian President Ebrahim Raisi, are from 2020. \n\nThe three photos were taken in the aftermath of a police plane crash in Mazandaran province, fact-checked by @GhonchehAzad. https://t.co/vDK5i80GAL",
+                "metadata": {
+                    "evidence": [
+                        "./media/batch6/17/images/img1.jpeg"
+                    ],
+                    "author_id": "Shayan Sardarizadeh",
+                    "post_url": "https://x.com/Shayan86/status/1792416978763952293",
+                    "date_posted": "2024-05-20 04:48:03"
+                }
+            }
+        ]
+    },
+    {
+        "tweet_id": "18",
+        "ooc_tweet": {
+            "text": "🚨 BREAKING: President of Iran, Ebrahim Raisi, known as the Butcher of Tehran, is dead after his half-century-old helicopter crashed in thick fog while on official business. He is responsible for the execution of thousands of political prisoners. ",
+            "images": [
+                "./media/batch6/18/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Igor Sushko",
+                "post_url": "https://x.com/igorsushko/status/1792305474462982517",
+                "date_posted": "2024-05-19 21:24:59",
+                "topic": "Politics-Warfare-Middle-East-Conflict",
+                "error_category": "Misattributed Images",
+                "label": false
+            }
+        },
+        "flagging_tweet": [
+            {
+                "text": "This account regularly tweets misinformation and disinformation. \n\nNo official announcement has been made on President Raisi’s survival and even if he were indeed dead, this account certainly wouldn’t have insight into the matter. https://t.co/vrNPMgMTW0",
+                "metadata": {
+                    "evidence": [],
+                    "author_id": "Yashar Ali 🐘",
+                    "post_url": "https://x.com/yashar/status/1792320979374666110",
+                    "date_posted": "2024-05-19 22:26:35"
+                }
+            }
+        ]
+    },
+    {
+        "tweet_id": "19",
+        "ooc_tweet": {
+            "text": "#BREAKING: Massive News⚠️\n\nReports are coming in that Iranian intelligence and special forces have raided Indian embassy in Tehran.\n\nIran got a tip from unknown sources that India might be acting on Israel's behalf to assassinate Iran's President Ibrahim Raisi. ",
+            "images": [
+                "./media/batch6/19/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Ironclad",
+                "post_url": "https://x.com/NavCom24/status/1792246481249833460",
+                "date_posted": "2024-05-19 17:30:34",
+                "topic": "Politics-Warfare-Middle-East-Conflict",
+                "error_category": "Misattributed Images",
+                "label": false
+            }
+        },
+        "flagging_tweet": [
+            {
+                "text": "This viral post by a fake OSINT account baselessly claims Iranian intelligence has raided the Indian embassy in Tehran after a helicopter accident for President Raisi.\n\nThe image dates back to 2015, and shows German elite special forces (KSK) during an exercise in Putgarten. https://t.co/ZQZGdlkmQq",
+                "metadata": {
+                    "evidence": [
+                        "./media/batch6/19/images/img1.jpeg"
+                    ],
+                    "author_id": "Shayan Sardarizadeh",
+                    "post_url": "https://x.com/Shayan86/status/1792322099190591731",
+                    "date_posted": "2024-05-19 22:31:02"
+                }
+            }
+        ]
+    },
+    {
+        "tweet_id": "20",
+        "ooc_tweet": {
+            "text": "BREAKING: Iranian President Ebrahim Raisi has been confirmed deceased.\n\nRescue teams could be seen searching through thick fog on mountain roads and hillsides.\n\nIranian state media is currently calling on the public to pray for Raisi.\n\nThe helicopter was also reportedly carrying ",
+            "images": [
+                "./media/batch6/20/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Full Story",
+                "post_url": "https://x.com/FullStoryPress/status/1792265533490127199",
+                "date_posted": "2024-05-19 18:46:16",
+                "topic": "Politics-Warfare-Middle-East-Conflict",
+                "error_category": "Incorrectly Captioned Images",
+                "label": false
+            }
+        },
+        "flagging_tweet": [
+            {
+                "text": "This \"breaking\" tweet, viewed 430,000 times, baselessly claims Iranian President Ebrahim Raisi has been confirmed dead in today's helicopter accident.\n\nThere's currently no official info on the fate of Raisi and others on board. Search and recuse efforts are still ongoing. https://t.co/I4yS5n9gfZ",
+                "metadata": {
+                    "evidence": [],
+                    "author_id": "Shayan Sardarizadeh",
+                    "post_url": "https://x.com/Shayan86/status/1792309428047294727",
+                    "date_posted": "2024-05-19 21:40:41"
+                }
+            }
+        ]
+    },
+    {
+        "tweet_id": "21",
+        "ooc_tweet": {
+            "text": "$TSLA &amp; xAI are reportedly in talks for a deal granting xAI a share of Tesla revenue in exchange for access to its technology &amp; resources  👀 ",
+            "images": [
+                "./media/batch6/21/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Shay Boloor",
+                "post_url": "https://x.com/StockSavvyShay/status/1861819732879606235",
+                "date_posted": "2024-11-27 17:09:49",
+                "topic": "Science",
+                "error_category": "Incorrectly Captioned Images",
+                "label": false
+            }
+        },
+        "flagging_tweet": [
+            {
+                "text": "Elon stated this was inaccurate months ago. ",
+                "metadata": {
+                    "evidence": [
+                        "https://x.com/elonmusk/status/1832618127189774374?s=46&t=JC1IXrs_aK4AS8QcIzid0w"
+                    ],
+                    "author_id": "Helpful Community Notes",
+                    "post_url": "https://x.com/i/birdwatch/n/1861902043222548980",
+                    "date_posted": "2024-11-28 21:40:41"
+                }
+            }
+        ]
+    },
+    {
+        "tweet_id": "22",
+        "ooc_tweet": {
+            "text": "Multiple Israeli accounts &amp; other well known accounts now reports that it was an assassination done by Israeli Mossad.\n\nIf Iran finds any evidence that Israel was behind this incident then we are about to witness a dramatic geopolitical shift that will light up the whole region. ",
+            "images": [
+                "./media/batch6/22/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "War Intel",
+                "post_url": "https://x.com/warintel4u/status/1792221921691471893",
+                "date_posted": "2024-05-19 15:52:58",
+                "topic": "Politics-Warfare-Israel-Palestine",
+                "error_category": "De-contextualization",
+                "label": false
+            }
+        },
+        "flagging_tweet": [
+            {
+                "text": "Good example of #OSHIT, a bunch of accounts claiming something without evidence doesn't make it true, but it sure is good for likes and retweets!",
+                "metadata": {
+                    "evidence": [],
+                    "author_id": "eliothiggins.bsky.social",
+                    "post_url": "https://x.com/EliotHiggins/status/1792239418864013811",
+                    "date_posted": "2024-05-19 19:40:31"
+                }
+            }
+        ]
+    },
+    {
+        "tweet_id": "23",
+        "ooc_tweet": {
+            "text": "The Iranian capital Tehran has increased security levels. ",
+            "images": [
+                "./media/batch6/23/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "S p r i n t e r",
+                "post_url": "https://x.com/SprinterFamily/status/1792243923131285855",
+                "date_posted": "2024-05-19 17:20:24",
+                "topic": "Politics-Warfare-Middle-East-Conflict",
+                "error_category": "Misattributed Images",
+                "label": false
+            }
+        },
+        "flagging_tweet": [
+            {
+                "text": "This is not Tehran. There's no sea front in Tehran. This is a pier in Gaza. https://t.co/SbJYj3DRWg",
+                "metadata": {
+                    "evidence": [],
+                    "author_id": "Shayan Sardarizadeh",
+                    "post_url": "https://x.com/Shayan86/status/1792256829340160468",
+                    "date_posted": "2024-05-19 18:11:41"
+                }
+            }
+        ]
+    },
+    {
+        "tweet_id": "24",
+        "ooc_tweet": {
+            "text": "Rescuers are searching for a helicopter that crashed while carrying Iranian President Ebrahim Raisi, according to Iranian officials. ",
+            "images": [
+                "./media/batch6/24/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "CNN",
+                "post_url": "https://x.com/CNN/status/1792257839689310398",
+                "date_posted": "2024-05-19 18:15:42",
+                "topic": "Politics-other",
+                "error_category": "Misattributed Images",
+                "label": false
+            }
+        },
+        "flagging_tweet": [
+            {
+                "text": "Iranian President Ebrahim Raisi's helicopter did not crash in the country of Azerbaijan, as this CNN tweet suggests. The accident happened in the Iranian province of East Azarbaijan. https://t.co/9i8ykXyRqW",
+                "metadata": {
+                    "evidence": [],
+                    "author_id": "Shayan Sardarizadeh",
+                    "post_url": "https://x.com/Shayan86/status/1792225879713632572",
+                    "date_posted": "2024-05-19 16:08:42"
+                }
+            }
+        ]
+    },
+    {
+        "tweet_id": "25",
+        "ooc_tweet": {
+            "text": "من يقف خلف حادثة سقوط طائرة؟ #الرئيس_الإيراني إبراهيم رئيسي و مرافقه في غابات ورزغان 😎",
+            "images": [
+                "./media/batch6/25/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Donald Trump (Informal)",
+                "post_url": "https://x.com/Shayan86/status/1792223384853500024/photo/1",
+                "date_posted": "2024-05-19 15:05:00",
+                "topic": "Politics-other",
+                "error_category": "Misattributed Images",
+                "label": false
+            }
+        },
+        "flagging_tweet": [
+            {
+                "text": "This video, viewed 400,000 times, falsely claims to show footage of a helicopter carrying Iranian President Ebrahim Raisi crashing today.\n\nThe video is from July 2022, showing a border police rescue helicopter crashing in Gudauri, Georgia; fact-checked by @AuroraIntel. https://t.co/p98KjV51nE",
+                "metadata": {
+                    "evidence": [
+                        "https://pbs.twimg.com/media/GN9Biz9XUAEHxCb.jpg",
+                        "https://pbs.twimg.com/media/GN9Bl-hXYAA7-2n.jpg"
+                    ],
+                    "author_id": "Shayan Sardarizadeh",
+                    "post_url": "https://x.com/Shayan86/status/1792223384853500024",
+                    "date_posted": "2024-05-19 15:58:47"
+                }
+            }
+        ]
+    },
+    {
+        "tweet_id": "26",
+        "ooc_tweet": {
+            "text": "امروز یکشنبه، هلی کوپتر حامل رئیسی به دلیل مه‌آلود بودن هوای منطقه شمال آذربایجان شرقی بر زمین نشست و کاروان رئیس‌جمهور به صورت زمینی راهی تبریز شد.دقایقی قبل، شایعه بروز حادثه برای یکی از هلی کوپتر کاروان رئیس‌جمهور در فضای مجازی منتشر شده بود.",
+            "images": [
+                "./media/batch6/26/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "خبرگزاری فارس",
+                "post_url": "https://x.com/talhagin/status/1792181441586954281",
+                "date_posted": " 2024-05-19 15:22:00",
+                "topic": "Politics-other",
+                "error_category": "Misattributed Images",
+                "label": false
+            }
+        },
+        "flagging_tweet": [
+            {
+                "text": "The photo used in this report by FarsNews is from 2022 - It isn't recent. https://t.co/wd9tYvcae6",
+                "metadata": {
+                    "evidence": [
+                        "./media/batch6/26/images/img1.jpeg"
+                    ],
+                    "author_id": "Tal Hagin",
+                    "post_url": "https://x.com/talhagin/status/1792181285831458876",
+                    "date_posted": "2024-05-19 13:11:30"
+                }
+            }
+        ]
+    },
+    {
+        "tweet_id": "27",
+        "ooc_tweet": {
+            "text": "A Hamas child actor in Gaza.",
+            "images": [
+                "./media/batch6/27/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Ofir Gendelman",
+                "post_url": "https://x.com/ofirgendelman/status/1790759077674360856",
+                "date_posted": "2024-05-15 15:00:09",
+                "topic": "Politics-Warfare-Israel-Palestine",
+                "error_category": "De-contextualization",
+                "label": false
+            }
+        },
+        "flagging_tweet": [
+            {
+                "text": "Ofir Gendelman, the Israeli PM's spokesperson to the Arab world, is falsely claiming this video shows a Palestinian \"child actor\" faking injury for Hamas in Gaza.\n\nThe clip, posted to TikTok in 2022, is behind-the-scenes footage of a short film made for Palestinian Civil Defence. https://t.co/DeJfMmrl0E",
+                "metadata": {
+                    "evidence": [
+                        "./media/batch6/27/images/img1.jpeg",
+                        "./media/batch6/27/images/img2.jpeg"
+                    ],
+                    "author_id": "Shayan Sardarizadeh",
+                    "post_url": "https://x.com/Shayan86/status/1791843665574309952",
+                    "date_posted": "2024-05-18 14:49:55"
+                }
+            }
+        ]
+    },
+    {
+        "tweet_id": "28",
+        "ooc_tweet": {
+            "text": "The Palestinians are fooling the international media and public opinion. DON'T FALL FOR IT.See for yourselves how they fake injuries and evacuating 'injured' civilians, all in front of thr cameras.Pallywood gets busted again.",
+            "images": [
+                "./media/batch6/28/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Ofir Gendelma",
+                "post_url": "https://x.com/Shayan86/status/1722591021635166630",
+                "date_posted": "2023-11-09 11:24:38",
+                "topic": "Politics-Warfare-Israel-Palestine",
+                "error_category": "De-contextualization",
+                "label": false
+            }
+        },
+        "flagging_tweet": [
+            {
+                "text": "The Israeli PM's spokesperson to the Arab world falsely claims this video shows Palestinian civilians \"fake injuries\", using the term \"Pallywood\".\n\nIt's behind-the-scenes footage of a Lebanese short film about Palestinians called \"The Reality\", as stated by the film's director. https://t.co/gkkjcOPzBG",
+                "metadata": {
+                    "evidence": [
+                        "./media/batch6/28/images/img1.jpeg",
+                        "./media/batch6/28/images/img2.jpeg"
+                    ],
+                    "author_id": "Shayan Sardarizadeh",
+                    "post_url": "https://x.com/Shayan86/status/1722591021635166630",
+                    "date_posted": "2023-11-09 12:24:38"
+                }
+            }
+        ]
+    },
+    {
+        "tweet_id": "29",
+        "ooc_tweet": {
+            "text": "Behind the scenes video in Gaza shows a group of journalists filming a staged video with a young boy, playing the role of an air strike victim. After the cameras stop rolling, the men laugh and lift the boy up as he breaks out in a smile.",
+            "images": [
+                "./media/batch6/29/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Oli London",
+                "post_url": "https://x.com/OliLondonTV/status/1791232505548321276",
+                "date_posted": "2024-05-16 22:21:23",
+                "topic": "Politics-Warfare-Israel-Palestine",
+                "error_category": "De-contextualization",
+                "label": false
+            }
+        },
+        "flagging_tweet": [
+            {
+                "text": "Oli London, who has also shared many false claims of Palestinians faking injury and death, claimed the \"staged\" video was filmed by Al-Jazeera journalists to be used in their coverage of the war in Gaza.\n\nThe post has been viewed 1.6 million times. https://t.co/4dI7nSOqUa",
+                "metadata": {
+                    "evidence": [],
+                    "author_id": "Shayan Sardarizadeh",
+                    "post_url": "https://x.com/Shayan86/status/1791847060871790719",
+                    "date_posted": "2024-05-18 15:03:24"
+                }
+            }
+        ]
+    },
+    {
+        "tweet_id": "30",
+        "ooc_tweet": {
+            "text": "Exclusive Breaking: The Mass Numbers of Illegal Migrants that are pouring into our respective countries are in fact UN soldiers. 'these are UN Soldiers and they will be deployed by the World Health Organisation (WHO) when they announce the next Pandemic Lockdown' The Black Watch a Scottish Infantry regiment based in Perth Scotland has been instructed to train illegal migrants to carry out crowd control and other measures to force compliance within the British population in the event of a civil uprising of the population against the government. There are bird flu Avian influenza H5N1 vaccines being flown into the UK right now ready to be used on the British Public! UK Businessman John O' Looney raises the alarm and says he has conclusive evidence that these UN soldiers are being trained by British forces who are being ordered to do so by globalist's infesting the British Government.  John has stated that he has surveillance and video evidence of what is going on along with detailed vehicle and registration numbers of the vehicles that are in use. The details that are emerging suggest that British Forces will be sent abroad to fight Russia in Ukraine that will effectively leave no patriotic soldiers within Britain to protect the British population and that Illegal migrants will be issued Uniforms and given powers by the Globalists to Police, control and order the British people to stay at home and will have the powers to get physical and arrest anyone who does not comply.  This explains why Canada, The United States, Australia, New Zealand and parts of Europe are all facing the same plan by the Globalists. These Illegal migrants have no loyalty to the host countries and will gleefully follow orders from the globalists to subjugate and control the people in our respective countries. This is a betrayal of biblical proportions.",
+            "images": [
+                "./media/batch6/30/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Jim Ferguson",
+                "post_url": "https://x.com/JimFergusonUK/status/1789317957488685195",
+                "date_posted": "2024-05-11 15:33:39",
+                "topic": "Society",
+                "error_category": "De-contextualization",
+                "label": false
+            }
+        },
+        "flagging_tweet": [
+            {
+                "text": "Very scary story if true (it's not true). Completely evidence-free, and despite 1.2m views, no Community Note. \n\nhttps://t.co/7Wiqk0CrAO",
+                "metadata": {
+                    "evidence": [],
+                    "author_id": "Mike Wendling",
+                    "post_url": "https://x.com/mwendling/status/1791160620139589799",
+                    "date_posted": "2024-05-16 17:35:44"
+                }
+            }
+        ]
+    },
+    {
+        "tweet_id": "31",
+        "ooc_tweet": {
+            "text": "🚨 🇸🇰 Breaking: Slovakia \n\nThe Prime Minister of Slovakia Robert Fico has just been shot in public.\n\nThis comes only days after Fico formally &amp; publicly rejected The WHO Global Pandemic Accord ‼️ ",
+            "images": [
+                "./media/batch6/31/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Concerned Citizen",
+                "post_url": "https://x.com/BGatesIsaPyscho/status/1790734452722725330",
+                "date_posted": "2024-05-15 13:22:18",
+                "topic": "Politics-other",
+                "error_category": "De-contextualization",
+                "label": false
+            }
+        },
+        "flagging_tweet": [
+            {
+                "text": "The assassination attempt on Slovak PM Robert Fico has promoted a wave of unevidenced claims already. While Russian media figures and Telegram channels blame it on Ukraine, some blue ticks on X speculate about a Covid pandemic link.The motive is unknown so far. ",
+                "metadata": {
+                    "evidence": [],
+                    "author_id": "Olga Robinson",
+                    "post_url": "https://x.com/O_Rob1nson/status/1790760098618290229",
+                    "date_posted": "2024-05-15 15:04:12"
+                }
+            }
+        ]
+    },
+    {
+        "tweet_id": "32",
+        "ooc_tweet": {
+            "text": "Gee I wonder why the UN revised the death toll in Gaza down in half.\n\nFaking atrocities would be their national sport if \"Palestine\" was a country. ",
+            "images": [
+                "./media/batch6/32/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "𝗡𝗶𝗼𝗵 𝗕𝗲𝗿𝗴 ♛ ✡︎",
+                "post_url": "https://x.com/NiohBerg/status/1790698260593623457",
+                "date_posted": "2024-05-15 10:58:29",
+                "topic": "Politics-Warfare-Israel-Palestine",
+                "error_category": "Misattributed Images",
+                "label": false
+            }
+        },
+        "flagging_tweet": [
+            {
+                "text": "This video, which falsely claims to show fake Palestinian body bags with one pretending to be dead staring at the camera, is being shared once again.\n\nIt was filmed during a presentation at a Malaysian mosque and posted on TikTok in August 2023. It's unrelated to the war in Gaza. https://t.co/PAYbw9YXkv",
+                "metadata": {
+                    "evidence": [
+                        "./media/batch6/32/images/img1.jpeg"
+                    ],
+                    "author_id": "Shayan Sardarizadeh",
+                    "post_url": "https://x.com/Shayan86/status/1790754765292323018",
+                    "date_posted": "2024-05-15 14:43:01"
+                }
+            }
+        ]
+    },
+    {
+        "tweet_id": "33",
+        "ooc_tweet": {
+            "text": "Leaked image taken by israeli soldiers after being targeted in Jabalia, North Gaza by the resistance.\n\nSeems like 2 of them found out. ",
+            "images": [
+                "./media/batch6/33/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "War Intel",
+                "post_url": "https://x.com/warintel4u/status/1790719395095810155",
+                "date_posted": "2024-05-15 12:22:28",
+                "topic": "Politics-Warfare-Israel-Palestine",
+                "error_category": "Incorrectly Captioned Images",
+                "label": false
+            }
+        },
+        "flagging_tweet": [
+            {
+                "text": "This photo was first uploaded to Twitter on February 8th, 2024.  (4 months before February 8th was October 8th)\nThe image has a geotag and a caption stating \"4 months ago💔\" - Geolocation: Kissufim Post, Gaza.\n\nKissufim Post was attacked by Palestinian militants on October 7th, https://t.co/DPISmMX5sy",
+                "metadata": {
+                    "evidence": [
+                        "./media/batch6/33/images/img1.jpeg"
+                    ],
+                    "author_id": "Tal Hagin",
+                    "post_url": "https://x.com/talhagin/status/1790730065413578766",
+                    "date_posted": "2024-05-15 13:04:52"
+                }
+            }
+        ]
+    },
+    {
+        "tweet_id": "34",
+        "ooc_tweet": {
+            "text": "In her book, Psaki writes that : the president looked at his watch only after the ceremony had ended. Moments later, he and the First Lady headed toward their car.",
+            "images": [
+                "./media/batch6/34/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Psaki",
+                "post_url": "https://x.com/AlexThomp/status/1790012866545729821",
+                "date_posted": "2024-05-15 12:22:28",
+                "topic": "Politics-United-States-Presidential-Election",
+                "error_category": "Incorrectly Captioned Images",
+                "label": false
+            }
+        },
+        "flagging_tweet": [
+            {
+                "text": "New: Psaki wrote in her new book Biden didn’t check his watch during ceremony for the Abbey Gate soldiers\n\nIt was “misinformation,” she wrote, contradicting news photos &amp; the Gold Star families\n\nPsaki initially didnt comment but says it will be corrected\nhttps://t.co/EAd4lnJA9n https://t.co/KYZWl0PW0f",
+                "metadata": {
+                    "evidence": [
+                        "./media/batch6/34/images/img1.jpeg"
+                    ],
+                    "author_id": "Alex Thompson",
+                    "post_url": "https://x.com/AlexThomp/status/1790010500039778577",
+                    "date_posted": "2024-05-13 13:25:34"
+                }
+            }
+        ]
+    },
+    {
+        "tweet_id": "35",
+        "ooc_tweet": {
+            "text": "War scenes",
+            "images": [
+                "./media/batch6/35/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "null",
+                "post_url": "null",
+                "date_posted": "2024-05-13 10:58:29",
+                "topic": "Society",
+                "error_category": "De-contextualization",
+                "label": false
+            }
+        },
+        "flagging_tweet": [
+            {
+                "text": "🚨Misleading🚨\n\n1/2 These scenes were filmed at the Islamic University of Gaza on March 11, 2018, as part of an activity called \"Medical Awareness Day Activities\" which is implemented by the Palestinian Medical Forum in the Faculty of Medicine.\n\nSources:\n\nhttps://t.co/1dKChf3K0O https://t.co/JoGqIJHxxN",
+                "metadata": {
+                    "evidence": [
+                        "./media/batch6/35/images/img1.jpeg",
+                        "./media/batch6/35/images/img2.jpeg",
+                        "./media/batch6/35/images/img3.jpeg",
+                        "./media/batch6/35/images/img4.jpeg"
+                    ],
+                    "author_id": "Bara'a O. Al-Ma'any",
+                    "post_url": "https://x.com/BMaany/status/1790189192456073217",
+                    "date_posted": "2024-05-14 01:15:38"
+                }
+            }
+        ]
+    },
+    {
+        "tweet_id": "36",
+        "ooc_tweet": {
+            "text": "Netanyahu’s statements made me sick- “no nation came to our aid against the Nazi’s” he said. While 17.8 million Americans were deployed to fight in World War 2- leaving over 400k dead. \n\nDuring that time , the ADL and Israeli interest groups were holding secret conferences in the ",
+            "images": [
+                "./media/batch6/36/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Lauren Witzke",
+                "post_url": "https://x.com/LaurenWitzkeDE/status/1789353683416744347",
+                "date_posted": "2024-05-11 17:55:37",
+                "topic": "History",
+                "error_category": "De-contextualization",
+                "label": false
+            }
+        },
+        "flagging_tweet": [
+            {
+                "text": "This is text copied from a fraudulent handbill printed by Nationalist Press Association, a small New York based print house that disseminated bigoted and pro-Nazi leaflets, pamphlets, newspapers, and flyers across the United States.\n\nhttps://t.co/NjlANfw2BE\n\n@CommunityNotes https://t.co/jp9itLenU2",
+                "metadata": {
+                    "evidence": [
+                        "./media/batch6/36/images/img1.jpeg",
+                        "./media/batch6/36/images/img2.jpeg",
+                        "./media/batch6/36/images/img3.jpeg"
+                    ],
+                    "author_id": "Gabe Hoffman",
+                    "post_url": "https://x.com/GabeHoff/status/1789833212107133034",
+                    "date_posted": "2024-05-13 01:41:05"
+                }
+            }
+        ]
+    },
+    {
+        "tweet_id": "37",
+        "ooc_tweet": {
+            "text": "Four days ago, @UNOCHA reduced the reported number of women and children casualties in Gaza by 50%. \n\nInterestingly, they did not release any press releases or statements, almost as if this reduction was a secret. ",
+            "images": [
+                "./media/batch6/37/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Israel Foreign Ministry",
+                "post_url": "https://x.com/IsraelMFA/status/1789689385677431215",
+                "date_posted": "2024-05-12 16:09:35",
+                "topic": "Politics-Warfare-Israel-Palestine",
+                "error_category": "De-contextualization",
+                "label": false
+            }
+        },
+        "flagging_tweet": [
+            {
+                "text": "This is misleading:\nThe change was from reported Gazan casualties to identified Gazan casualties - Not a total reduction. https://t.co/dCoqV2e4YQ",
+                "metadata": {
+                    "evidence": [
+                        "./media/batch6/37/images/img1.jpeg",
+                        "./media/batch6/37/images/img2.jpeg"
+                    ],
+                    "author_id": "Tal Hagin",
+                    "post_url": "https://x.com/talhagin/status/1789701189887520929",
+                    "date_posted": "2024-05-12 16:56:29"
+                }
+            }
+        ]
+    },
+    {
+        "tweet_id": "38",
+        "ooc_tweet": {
+            "text": "I’m sorry but this is literally not the king of Denmark, it’s just some guy who was on his balcony with his kid when our demonstration in Malmö passed his flat this week. Disinformation is not helpful for the cause. It was super cute though, the kid blew bubbles!",
+            "images": [
+                "./media/batch6/38/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "lizzie 🇵🇸",
+                "post_url": "https://x.com/Shayan86/status/1789692130165674056/photo/2",
+                "date_posted": "2024-05-12 16:09:35",
+                "topic": "Politics-Warfare-Israel-Palestine",
+                "error_category": "Misattributed Images",
+                "label": false
+            }
+        },
+        "flagging_tweet": [
+            {
+                "text": "This widely shared video claims to show the King of Denmark Frederik X waving the Palestinian flag.\n\nThe video was filmed at a pro-Palestinian rally in Malmo, Sweden, during Eurovision. As explained by someone at the rally, it's just a man on the balcony of his flat. https://t.co/tJ4pduNClG",
+                "metadata": {
+                    "evidence": [],
+                    "author_id": "Shayan Sardarizadeh",
+                    "post_url": "https://x.com/Shayan86/status/1789692130165674056",
+                    "date_posted": "2024-05-12 16:20:29"
+                }
+            }
+        ]
+    },
+    {
+        "tweet_id": "39",
+        "ooc_tweet": {
+            "text": "Ayatollah Khamenei’s granddaughter visits New York and decides to wear a dress.",
+            "images": [
+                "./media/batch6/39/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": " Visegrád 24",
+                "post_url": "https://x.com/Shayan86/status/1789684633753546900/photo/1",
+                "date_posted": "2024-05-12 16:09:35",
+                "topic": "Politics-other",
+                "error_category": "Incorrectly Captioned Images",
+                "label": false
+            }
+        },
+        "flagging_tweet": [
+            {
+                "text": "A viral video falsely claims to show Iranian supreme leader Ali Khamenei's granddaughter wearing a dress in New York.\n\nThe video's from 2019, showing protests outside a Los Angeles event hosted by the National Iranian American Council, accused of lobbying for the Iranian regime. https://t.co/e5Tvh234Re",
+                "metadata": {
+                    "evidence": [
+                        "./media/batch6/39/images/img1.jpeg"
+                    ],
+                    "author_id": "Shayan Sardarizadeh",
+                    "post_url": "https://x.com/Shayan86/status/1789684633753546900",
+                    "date_posted": "2024-05-12 15:50:42"
+                }
+            }
+        ]
+    },
+    {
+        "tweet_id": "40",
+        "ooc_tweet": {
+            "text": "Did Mossad rig Eurovision so that Israeli apocalypse barbie Eden Golan would win? ",
+            "images": [
+                "./media/batch6/40/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Benjamin Rubinstein",
+                "post_url": "https://x.com/BenFRubinstein/status/1788680644421099860",
+                "date_posted": "2024-05-09 21:21:12",
+                "topic": "Entertainment",
+                "error_category": "De-contextualization",
+                "label": false
+            }
+        },
+        "flagging_tweet": [
+            {
+                "text": "I'm going to take a bold guess and say no. https://t.co/MfTsfsNtCF",
+                "metadata": {
+                    "evidence": [],
+                    "author_id": "Shayan Sardarizadeh",
+                    "post_url": "https://x.com/Shayan86/status/1788904103461949814",
+                    "date_posted": "2024-05-10 12:09:09"
+                }
+            }
+        ]
+    },
+    {
+        "tweet_id": "41",
+        "ooc_tweet": {
+            "text": "🔻🔻 Urgent Earth-shattering news for Tel Aviv: The largest and most elaborate ambush of a group  From the Zionist Special Forces in Rafah",
+            "images": [
+                "./media/batch6/41/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "analysis_2024",
+                "post_url": "https://x.com/analysis_2024/status/1788666664034369801",
+                "date_posted": "2024-05-09 21:21:12",
+                "topic": "Politics-Warfare-Israel-Palestine",
+                "error_category": "Misattributed Images",
+                "label": false
+            }
+        },
+        "flagging_tweet": [
+            {
+                "text": "The image used is the thumbnail of a YouTube video. The video is a military simulation using Arma 3.",
+                "metadata": {
+                    "evidence": [],
+                    "author_id": "Tal Hagin",
+                    "post_url": "https://x.com/talhagin/status/1788799775166320846",
+                    "date_posted": "2024-05-10 05:14:35"
+                }
+            }
+        ]
+    },
+    {
+        "tweet_id": "42",
+        "ooc_tweet": {
+            "text": "At the Eurovision Contest, Israel's Eden Golan is escorted around Malmo by 100 police cars.The pro-Palestinian thugs attack the vehicles travelling with her.  Show them by voting for her.",
+            "images": [
+                "./media/batch6/42/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Imtiaz Mahmood",
+                "post_url": "https://x.com/ImtiazMadmood/status/1788635843688890756",
+                "date_posted": "2024-05-09 18:23:11",
+                "topic": "Entertainment",
+                "error_category": "Misattributed Images",
+                "label": false
+            }
+        },
+        "flagging_tweet": [
+            {
+                "text": "A video is circulating to falsely claim that Eden Golan's police escort was attacked in Malmö during Eurovison. \n\nBut the claim is false. Video is from a Tennis cup in Malmö in 2009\n\nOriginal footage: https://t.co/DE57FXCw6Q\n\n#Eurovision2024\n#Eurovision\n#FactCheck https://t.co/XL9Ol3iruX",
+                "metadata": {
+                    "evidence": [
+                        "./media/batch6/42/images/img1.jpeg"
+                    ],
+                    "author_id": "Christian Haag",
+                    "post_url": "https://x.com/ChristianHaag93/status/1788651877770403984",
+                    "date_posted": "2024-05-09 19:26:53"
+                }
+            }
+        ]
+    },
+    {
+        "tweet_id": "43",
+        "ooc_tweet": {
+            "text": "Idk 🤷🏻‍♀️ Betty…does she have a twin?  Or have we been bamboozled? Asking ⬇️",
+            "images": [
+                "./media/batch6/43/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "0️⃣BlackBetty ⚓️",
+                "post_url": "https://x.com/BabyD1111229/status/1857138621184168110",
+                "date_posted": "2024-11-14 19:08:45",
+                "topic": "Society",
+                "error_category": "De-contextualization",
+                "label": false
+            }
+        },
+        "flagging_tweet": [
+            {
+                "text": "Five million views and 44,000 likes for this Sandy Hook conspiracy theory tweet with no community note, which means it can be monetised.Principal Dawn Hochsprung was one of the victims of Sandy Hook. Have some respect and leave her and her family alone.",
+                "metadata": {
+                    "evidence": [],
+                    "author_id": "Shayan Sardarizadeh",
+                    "post_url": "https://x.com/Shayan86/status/1857747269598032267",
+                    "date_posted": "2024-11-16 11:27:19"
+                }
+            }
+        ]
+    },
+    {
+        "tweet_id": "44",
+        "ooc_tweet": {
+            "text": "صورة المروحيه ",
+            "images": [
+                "./media/batch6/44/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "الأحداث الايرانية🇮🇷",
+                "post_url": "https://x.com/M_B_H_N/status/1792261462645194794",
+                "date_posted": "2024-05-19 18:30:05",
+                "topic": "Society",
+                "error_category": "Incorrectly Captioned Images",
+                "label": false
+            }
+        },
+        "flagging_tweet": [
+            {
+                "text": "This photo isn't recent - It's a helicopter that crashed in Morocco in 2019 that was carrying cocaine. https://t.co/KCA0CnADcK",
+                "metadata": {
+                    "evidence": [
+                        "./media/batch6/44/images/img1.jpeg"
+                    ],
+                    "author_id": "Tal Hagin",
+                    "post_url": "https://x.com/talhagin/status/1792275820905370036",
+                    "date_posted": "2024-05-19 19:27:09"
+                }
+            }
+        ]
+    },
+    {
+        "tweet_id": "45",
+        "ooc_tweet": {
+            "text": "The people need to know.",
+            "images": [
+                "./media/batch6/45/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Dom Lucre | Breaker of Narratives",
+                "post_url": "https://x.com/dom_lucre/status/1786556678172749946",
+                "date_posted": "2024-05-04 00:41:19",
+                "topic": "Society",
+                "error_category": "Incorrectly Captioned Images",
+                "label": false
+            }
+        },
+        "flagging_tweet": [
+            {
+                "text": "Dom Lucre keeps posting this QAnon garbage every few months for engagement. He got 7 million views for it in January, and has another 7 million views now.   His deranged post hasn't been community noted despite being up for three days, which means it can be monetised.",
+                "metadata": {
+                    "evidence": [],
+                    "author_id": "Shayan Sardarizadeh",
+                    "post_url": "https://x.com/Shayan86/status/1787821018406428977",
+                    "date_posted": "2024-05-07 12:25:21"
+                }
+            }
+        ]
+    },
+    {
+        "tweet_id": "46",
+        "ooc_tweet": {
+            "text": "Trump’s new press Secretary is a WOULD",
+            "images": [
+                "./media/batch6/46/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Dan Baltic",
+                "post_url": "https://x.com/baltic_dan/status/1857573653321306338",
+                "date_posted": "2024-11-15 23:57:25",
+                "topic": "Politics-United-States-Presidential-Election",
+                "error_category": "Misattributed Images",
+                "label": false
+            }
+        },
+        "flagging_tweet": [
+            {
+                "text": "Trump’s Press Secretary is Karoline Leavitt.The woman in the photo is Sydney Thomas.",
+                "metadata": {
+                    "evidence": [
+                        "https://www.foxnews.com/politics/trump-picks-karoline-leavitt-serve-white-house-press-secretary.amp"
+                    ],
+                    "author_id": "Helpful Community Notes",
+                    "post_url": "https://x.com/i/birdwatch/n/1857635144305127449",
+                    "date_posted": "2024-11-16 19:28:25"
+                }
+            }
+        ]
+    },
+    {
+        "tweet_id": "47",
+        "ooc_tweet": {
+            "text": "really...",
+            "images": [
+                "./media/batch6/47/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Trumplicans2024.com",
+                "post_url": "https://x.com/trumplicans2024/status/1856465851282514033",
+                "date_posted": "2024-11-12 22:35:25",
+                "topic": "Politics-United-States-Presidential-Election",
+                "error_category": "Misattributed Images",
+                "label": false
+            }
+        },
+        "flagging_tweet": [
+            {
+                "text": "Marcus Lemonis was misquoted. In a 2017 interview he was referring to Trump supporters who may have supported Donald Trump’s response to the violent white supremacist rally in Charlottesville, Virginia. He later apologized:",
+                "metadata": {
+                    "evidence": [
+                        "https://www.cnbc.com/2017/08/16/marcus-lemonis-if-youre-ok-with-what-trump-said-dont-shop-at-my-business.html",
+                        "https://www.usatoday.com/story/news/factcheck/2020/08/31/fact-check-camping-world-ceo-misquoted-viral-meme/5660368002/",
+                        "https://www.cnbc.com/2017/08/25/camping-world-ceo-lemonis-apologizes-for-charlottesville-remarks.html"
+                    ],
+                    "author_id": "Helpful Community Notes",
+                    "post_url": "https://x.com/i/birdwatch/n/1856510518355509378",
+                    "date_posted": "2024-11-16 08:34:17"
+                }
+            }
+        ]
+    },
+    {
+        "tweet_id": "48",
+        "ooc_tweet": {
+            "text": "Assassination attempt on Saudi Crown Prince Mohammed bin Salman ",
+            "images": [
+                "./media/batch6/48/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "The_Real_Fly",
+                "post_url": "https://x.com/The_Real_Fly/status/1787602096323203500",
+                "date_posted": "2024-05-06 21:55:26",
+                "topic": "Politics-Warfare-Middle-East-Conflict",
+                "error_category": "De-contextualization",
+                "label": false
+            }
+        },
+        "flagging_tweet": [
+            {
+                "text": "A totally baseless claim about an assassination attempt on Saudi Crown Prince Mohammed bin Salman is going viral on X after being shared by fake osint accounts and well-known misinformation spreaders seeking engagement.\n\nThere's zero evidence for the claim. https://t.co/cUD6Z1x2RU",
+                "metadata": {
+                    "evidence": [],
+                    "author_id": "Shayan Sardarizadeh",
+                    "post_url": "https://x.com/Shayan86/status/1787653106060194062",
+                    "date_posted": "2024-05-07 01:18:08"
+                }
+            }
+        ]
+    },
+    {
+        "tweet_id": "49",
+        "ooc_tweet": {
+            "text": " Gazans evacuating from Rafah",
+            "images": [
+                "./media/batch6/49/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Noga Tarnopolsky",
+                "post_url": "https://x.com/Shayan86/status/1787603482268086485/photo/1",
+                "date_posted": "2024-05-06 14:10:00",
+                "topic": "Politics-Warfare-Israel-Palestine",
+                "error_category": "De-contextualization",
+                "label": false
+            }
+        },
+        "flagging_tweet": [
+            {
+                "text": "This video, viewed 700,000 times, falsely claims to show Gazans evacuating Rafah in large numbers ahead of an expected Israeli operation there.\n\nBut the video is from November, showing Gazans move from the north of the strip to the south, as advised by Israel at the time. https://t.co/Pn37pYLH2z",
+                "metadata": {
+                    "evidence": [
+                        "./media/batch6/49/images/img1.jpeg"
+                    ],
+                    "author_id": "Shayan Sardarizadeh",
+                    "post_url": "https://x.com/Shayan86/status/1787603482268086485",
+                    "date_posted": "2024-05-06 22:00:56"
+                }
+            }
+        ]
+    },
+    {
+        "tweet_id": "50",
+        "ooc_tweet": {
+            "text": " WATCH. Rafah actors are preparing, and we may soon witness disturbing footage from Rafah. Via @GAZAWOOD1",
+            "images": [
+                "./media/batch6/50/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Open Source Intel",
+                "post_url": "https://x.com/talhagin/status/1787569334690410544",
+                "date_posted": "2024-05-06 14:10:00",
+                "topic": "Entertainment",
+                "error_category": "De-contextualization",
+                "label": false
+            }
+        },
+        "flagging_tweet": [
+            {
+                "text": "This is behind-the-scenes footage from a Palestinian TV series called 'Bleeding Dirt'. The exact scene, in the cemetery, can be seen at 22:00.  ",
+                "metadata": {
+                    "evidence": [
+                        "./media/batch6/50/images/img1.jpeg",
+                        "./media/batch6/50/images/img2.jpeg",
+                        "./media/batch6/50/images/img3.jpeg"
+                    ],
+                    "author_id": "Tal Hagin",
+                    "post_url": "https://x.com/talhagin/status/1787563922247053814",
+                    "date_posted": "2024-05-06 19:23:45"
+                }
+            }
+        ]
+    },
+    {
+        "tweet_id": "51",
+        "ooc_tweet": {
+            "text": "Florida.\nVery Normal. \nJust the clouds just got tired of imitating rabbits, elephants, angels. ",
+            "images": [
+                "./media/batch6/51/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Bronze Giant",
+                "post_url": "https://x.com/RjNol/status/1787457734759080114",
+                "date_posted": "2024-05-06 12:21:47",
+                "topic": "Nature",
+                "error_category": "Incorrectly Captioned Images",
+                "label": false
+            }
+        },
+        "flagging_tweet": [
+            {
+                "text": "They're called cloud streets, my man. https://t.co/dEp0R9IAyI",
+                "metadata": {
+                    "evidence": [
+                        "./media/batch6/51/images/img1.jpeg"
+                    ],
+                    "author_id": "Shayan Sardarizadeh",
+                    "post_url": "https://x.com/Shayan86/status/1787560650278875512",
+                    "date_posted": "2024-05-06 19:10:44"
+                }
+            }
+        ]
+    },
+    {
+        "tweet_id": "52",
+        "ooc_tweet": {
+            "text": "🚨Breaking🚨 Donald Trump has nominated Coinbase CEO Brian Armstrong for Secretary of the Treasury",
+            "images": [
+                "./media/batch6/251/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Alan Carroll",
+                "post_url": "https://x.com/alancarroII/status/1856813842472288746",
+                "date_posted": "2024-11-13 21:38:12.000Z",
+                "topic": "Politics-United-States-Presidential-Election",
+                "error_category": "Incorrectly Captioned Images",
+                "label": false
+            }
+        },
+        "flagging_tweet": [
+            {
+                "text": "The image on the right is of a singer Pitbull and the claim about the nomination is false. While this is possibly satire, this post does claim a fact that is indeed verifiably false, necessitating a Community Note.",
+                "metadata": {
+                    "evidence": [
+                        "https://en.wikipedia.org/wiki/Pitbull_(rapper)"
+                    ],
+                    "author_id": "Helpful Community Notes",
+                    "post_url": "https://x.com/i/birdwatch/n/1856857605273993433",
+                    "date_posted": "2024-11-16 08:34:11"
+                }
+            }
+        ]
+    },
+    {
+        "tweet_id": "53",
+        "ooc_tweet": {
+            "text": "See, @realDonaldTrump is truly dumber than a stump 🤣 ",
+            "images": [
+                "./media/batch6/53/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Heidi 🏖 🐬💙🍹🌊",
+                "post_url": "https://x.com/Brodiesmom68/status/1786570464023687195",
+                "date_posted": "2024-05-04 01:36:06",
+                "topic": "Politics-United-States-Presidential-Election",
+                "error_category": "Incorrectly Captioned Images",
+                "label": false
+            }
+        },
+        "flagging_tweet": [
+            {
+                "text": "This is a fake article. Trump's IQ test results were not found in a closet. Trump's IQ was not measured at 73. \nhttps://t.co/E5pMGCgH60",
+                "metadata": {
+                    "evidence": [],
+                    "author_id": "david emery",
+                    "post_url": "https://x.com/debunker/status/1786811019077296373",
+                    "date_posted": "2024-05-04 17:31:58"
+                }
+            }
+        ]
+    },
+    {
+        "tweet_id": "54",
+        "ooc_tweet": {
+            "text": "UCLA 🚨: Group of Pro Palestine protestors praying as the sun sets on campus. ",
+            "images": [
+                "./media/batch6/54/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Anthony Cabassa (IWA)",
+                "post_url": "https://x.com/AnthonyCabassa_/status/1785877170625323130",
+                "date_posted": "2024-05-02 03:41:12",
+                "topic": "Society",
+                "error_category": "De-contextualization",
+                "label": false
+            }
+        },
+        "flagging_tweet": [
+            {
+                "text": "Weird how this video of a few dozen Muslims praying became \"hundreds of students convert to Islam.\" Nobody try to confirm the facts in a video, it could slow you down and diminish your ad revenue share https://t.co/kYqPzyHGej",
+                "metadata": {
+                    "evidence": [],
+                    "author_id": "David Weigel",
+                    "post_url": "https://x.com/daveweigel/status/1786410543512682862",
+                    "date_posted": "2024-05-03 15:00:38"
+                }
+            }
+        ]
+    },
+    {
+        "tweet_id": "55",
+        "ooc_tweet": {
+            "text": "The attacks against Christians continue.\n\nAn African migrant just set a church on fire in Cuenca, Spain 🇪🇸\n\nVia @herqles_es ",
+            "images": [
+                "./media/batch6/55/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Visegrád 24",
+                "post_url": "https://x.com/visegrad24/status/1786331538696642996",
+                "date_posted": "2024-05-03 09:46:41",
+                "topic": "Society",
+                "error_category": "De-contextualization",
+                "label": false
+            }
+        },
+        "flagging_tweet": [
+            {
+                "text": "This is pure speculation. Local media make no mention of the perpetrator being an “African migrant”. \nIn fact, they say that the alleged perpetrator, who’s been detained, has been previously involved in a range of  public disorder incidents (see Google translated screenshots) https://t.co/EkiRqCLHQF",
+                "metadata": {
+                    "evidence": [
+                        "./media/batch6/55/images/img1.jpeg",
+                        "./media/batch6/55/images/img2.jpeg"
+                    ],
+                    "author_id": "Olga Robinson",
+                    "post_url": "https://x.com/O_Rob1nson/status/1786339390601498928",
+                    "date_posted": "2024-05-03 10:17:53"
+                }
+            }
+        ]
+    },
+    {
+        "tweet_id": "56",
+        "ooc_tweet": {
+            "text": "Biden owns this… ",
+            "images": [
+                "./media/batch6/56/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "@amuse",
+                "post_url": "https://x.com/amuse/status/1860855399378735462",
+                "date_posted": "2024-11-25 01:17:54",
+                "topic": "Politics-United-States-Presidential-Election",
+                "error_category": "Incorrectly Captioned Images",
+                "label": false
+            }
+        },
+        "flagging_tweet": [
+            {
+                "text": "The OP's video shows spotlights being shone on clouds.",
+                "metadata": {
+                    "evidence": [
+                        "https://www.youtube.com/watch?v=1_Xs2A3-FqY"
+                    ],
+                    "author_id": "Helpful Community Notes",
+                    "post_url": "https://x.com/i/birdwatch/n/1860857952057651231",
+                    "date_posted": "2024-11-28 10:17:53"
+                }
+            }
+        ]
+    },
+    {
+        "tweet_id": "57",
+        "ooc_tweet": {
+            "text": "🚨BREAKING: Hollywood legend Kurt Russell just said that Illegal immigrants should be forcibly deported from America.\n\nWhat's your reaction? ",
+            "images": [
+                "./media/batch6/57/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Wake Up America",
+                "post_url": "https://x.com/_wake_up_USA/status/1786019559365075005",
+                "date_posted": "2024-05-02 13:07:00",
+                "topic": "Society",
+                "error_category": "Incorrectly Captioned Images",
+                "label": false
+            }
+        },
+        "flagging_tweet": [
+            {
+                "text": "29k likes on tweet about a comment Kurt Russell doesn't appear to have made in any interview I can find.",
+                "metadata": {
+                    "evidence": [],
+                    "author_id": "Mike Rothschild (patreon.com/MikeRothschild)",
+                    "post_url": "https://x.com/rothschildmd/status/1786110150396502229",
+                    "date_posted": "2024-05-02 19:06:58"
+                }
+            }
+        ]
+    },
+    {
+        "tweet_id": "58",
+        "ooc_tweet": {
+            "text": "This is NOT #China This is NOT #Russia This is NOT #Iran This is THE #USA !📢 Jake Shields @jakeshieldsajj · 1d.Riot police attack peaceful protesters in Georgia using water cannons",
+            "images": [
+                "./media/batch6/58/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "TheAlexs",
+                "post_url": "https://x.com/ConspiracyBull1/status/1786049579839815951/photo/3",
+                "date_posted": "2024-05-02 01:06:17",
+                "topic": "Society",
+                "error_category": "Misattributed Images",
+                "label": false
+            }
+        },
+        "flagging_tweet": [
+            {
+                "text": "Pro Kremlin/CCP Twitter confusing the nation of Georgia with the US state of Georgia is a funny way to start off the new month. https://t.co/N4vPBsHawz",
+                "metadata": {
+                    "evidence": [],
+                    "author_id": "Conspiracy Bullshit",
+                    "post_url": "https://x.com/ConspiracyBull1/status/1786049579839815951",
+                    "date_posted": "2024-05-02 15:06:17"
+                }
+            }
+        ]
+    },
+    {
+        "tweet_id": "59",
+        "ooc_tweet": {
+            "text": "Trump is really, really looking bad.",
+            "images": [
+                "./media/batch6/59/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "null",
+                "post_url": "https://x.com/Seana_Davis/status/1785712944673644974/photo/1",
+                "date_posted": "2024-05-01 01:06:17",
+                "topic": "Politics-United-States-Presidential-Election",
+                "error_category": "Incorrectly Captioned Images",
+                "label": false
+            }
+        },
+        "flagging_tweet": [
+            {
+                "text": "❌This altered photo of Trump is making the rounds with claims the former president is looking poorly in court.\n\nExcept it's altered. The real photo (R) was taken in Jan this year. https://t.co/Y7svbi4R8z",
+                "metadata": {
+                    "evidence": [
+                        "./media/batch6/59/images/img1.jpeg"
+                    ],
+                    "author_id": "Seana Davis",
+                    "post_url": "https://x.com/Seana_Davis/status/1785712944673644974",
+                    "date_posted": "2024-05-01 16:48:37"
+                }
+            }
+        ]
+    },
+    {
+        "tweet_id": "60",
+        "ooc_tweet": {
+            "text": "Tyson stands with Palestine.Like and retweet to respect him.",
+            "images": [
+                "./media/batch6/60/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Naila Ayad🇵🇸",
+                "post_url": "https://x.com/Naila_Ayad/status/1857338849745125632",
+                "date_posted": "2024-11-15 08:24:24",
+                "topic": "Politics-Warfare-Israel-Palestine",
+                "error_category": "Deepfakes",
+                "label": false
+            }
+        },
+        "flagging_tweet": [
+            {
+                "text": "This image is AI/faked.There's no credible evidence to suggest he's said such a thing.  ",
+                "metadata": {
+                    "evidence": [
+                        "https://newschecker.in/fact-check/viral-photo-of-mike-tyson-with-palestine-flag-is-ai-generated/",
+                        "https://fullfact.org/online/mike-tyson-palestine-speech-cnbc/"
+                    ],
+                    "author_id": "Helpful Community Notes",
+                    "post_url": "https://x.com/i/birdwatch/n/1857499521061663144",
+                    "date_posted": "2024-11-16 05:34:15"
+                }
+            }
+        ]
+    },
+    {
+        "tweet_id": "61",
+        "ooc_tweet": {
+            "text": "I’m still afraid to report on Wayfair.",
+            "images": [
+                "./media/batch6/61/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Dom Lucre | Breaker of Narratives",
+                "post_url": "https://x.com/dom_lucre/status/1731850180452900926",
+                "date_posted": "2024-04-29 01:37:28",
+                "topic": "Society",
+                "error_category": "De-contextualization",
+                "label": false
+            }
+        },
+        "flagging_tweet": [
+            {
+                "text": "Dom Lucre is \"afraid to report on Wayfair\", the utterly ridiculous conspiracy theory created in 2020 by a Canadian QAnon promoter about Wayfair openly selling trafficked children placed in cabinets and pillows.\n\nThis post has 7.7 million views. https://t.co/bTxhwK2Oah",
+                "metadata": {
+                    "evidence": [
+                        "https://pbs.twimg.com/media/GMWl_pkWMAAWID9.png"
+                    ],
+                    "author_id": "Shayan Sardarizadeh",
+                    "post_url": "https://x.com/Shayan86/status/1785015561761775667",
+                    "date_posted": "2024-04-29 18:37:28"
+                }
+            }
+        ]
+    },
+    {
+        "tweet_id": "62",
+        "ooc_tweet": {
+            "text": "'What next for the future?' University of Lynchburg athlete Frank Csorba talks in this heartbreaking video recorded one month ago about his plans, shortly after helping bring a national track and field title home. Now he's dead. Cause of death has not been released. His university mandated Covid 19 vaccinations in 2021.  lynchburg.edu/news/2021/06/Ι...... #diedsuddenly (April 2024) newsadvance.com/ sports/college...",
+            "images": [
+                "./media/batch6/62/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Andrew Bridgen MP",
+                "post_url": "https://x.com/_johnbye/status/1784705538862772655/photo/1",
+                "date_posted": "2024-04-28 01:37:28",
+                "topic": "Society",
+                "error_category": "De-contextualization",
+                "label": false
+            }
+        },
+        "flagging_tweet": [
+            {
+                "text": "Despite admitting he didn't know the cause of death, Andrew Bridgen this week implied covid vaccines were to blame for the death of a young athlete in America. A Facebook post from his mother says he died from an accidental gunshot wound.\n\nAbsolute ghouls.\n\nh/t @thereal_truther https://t.co/97ZIEWvovN",
+                "metadata": {
+                    "evidence": [
+                        "https://pbs.twimg.com/media/GMSMOp3X0AA1kQm.jpg",
+                        "https://pbs.twimg.com/media/GMSMOrrWkAARSxc.jpg",
+                        "https://pbs.twimg.com/media/GMSMOueWIAAyjHv.jpg"
+                    ],
+                    "author_id": "John Bye",
+                    "post_url": "https://x.com/_johnbye/status/1784705538862772655",
+                    "date_posted": "2024-04-28 22:05:33"
+                }
+            }
+        ]
+    },
+    {
+        "tweet_id": "63",
+        "ooc_tweet": {
+            "text": "Every time the “Patriot Front” gets “arrested” there is not one single bit of footage of them unmasked. \n\nHoly Fed Psyop.  ",
+            "images": [
+                "./media/batch6/63/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Steve 🇺🇸",
+                "post_url": "https://x.com/SteveLovesAmmo/status/1784667764000497968",
+                "date_posted": "2024-04-28 19:35:27",
+                "topic": "Society",
+                "error_category": "Incorrectly Captioned Images",
+                "label": false
+            }
+        },
+        "flagging_tweet": [
+            {
+                "text": "This video shows 31 masked members of the white supremacist group Patriot Front being arrested in Idaho in 2022. \n\nUnmasked mug shots and names of all of them were subsequently released by police. It certainly wasn't a \"Fed psyop\". https://t.co/BZC6nbRgfS",
+                "metadata": {
+                    "evidence": [
+                        "./media/batch6/63/images/img1.jpeg"
+                    ],
+                    "author_id": "Shayan Sardarizadeh",
+                    "post_url": "https://x.com/Shayan86/status/1784775120457707679",
+                    "date_posted": "2024-04-29 02:42:02"
+                }
+            }
+        ]
+    },
+    {
+        "tweet_id": "64",
+        "ooc_tweet": {
+            "text": "You thought Michelle Obama was a tranny?  You thought maybe Macron's wife was a tranny?  This is German Chancellor Olaf Scholz's wife.",
+            "images": [
+                "./media/batch6/64/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Wall Street Silver",
+                "post_url": "https://x.com/SteveLovesAmmo/status/1784667764000497968",
+                "date_posted": "2024-04-27 21:55:28",
+                "topic": "Society",
+                "error_category": "Incorrectly Captioned Images",
+                "label": false
+            }
+        },
+        "flagging_tweet": [
+            {
+                "text": "One of Elon Musk's favourite \"citizen journalists\". https://t.co/kUA10Kj1Ll",
+                "metadata": {
+                    "evidence": [],
+                    "author_id": "Shayan Sardarizadeh",
+                    "post_url": "https://x.com/Shayan86/status/1784612404480942346",
+                    "date_posted": "2024-04-28 15:55:28"
+                }
+            }
+        ]
+    },
+    {
+        "tweet_id": "65",
+        "ooc_tweet": {
+            "text": "Why does Israel want to make it illegal for Americans to question events surrounding 9/11??",
+            "images": [
+                "./media/batch6/65/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Daniel Haqiqatjou",
+                "post_url": "https://x.com/Shayan86/status/1784374654355788164/photo/1",
+                "date_posted": "2024-04-27 21:55:28",
+                "topic": "Politics-other",
+                "error_category": "Incorrectly Captioned Images",
+                "label": false
+            }
+        },
+        "flagging_tweet": [
+            {
+                "text": "Israel does not want to make it illegal for Americans to question 9/11. This is a fake New York Post article. https://t.co/icHEGinYjE",
+                "metadata": {
+                    "evidence": [],
+                    "author_id": "Shayan Sardarizadeh",
+                    "post_url": "https://x.com/Shayan86/status/1784374654355788164",
+                    "date_posted": "2024-04-28 00:10:44"
+                }
+            }
+        ]
+    },
+    {
+        "tweet_id": "66",
+        "ooc_tweet": {
+            "text": "I NOTICE THIS ZIONIST LEFT OUT THE GUY CARRYING THE ISRAELI FLAG FROM HIS VIDEO.Now write your tweet and swap the ‘right’ with ‘Zionists’ or ‘Israel’",
+            "images": [
+                "./media/batch6/66/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Sulaiman Ahmed",
+                "post_url": "https://x.com/talhagin/status/1784307279090561149",
+                "date_posted": "2024-04-27 03:43:28",
+                "topic": "Politics-other",
+                "error_category": "Misattributed Images",
+                "label": false
+            }
+        },
+        "flagging_tweet": [
+            {
+                "text": "The Israeli flag has been photoshopped into this photo from August 17th, 2017. https://t.co/X2pmHnbjHe",
+                "metadata": {
+                    "evidence": [
+                        "https://pbs.twimg.com/media/GMMh5PNWIAANQX-.jpg"
+                    ],
+                    "author_id": "Tal Hagin",
+                    "post_url": "https://x.com/talhagin/status/1784307147284631617",
+                    "date_posted": "2024-04-27 19:42:29"
+                }
+            }
+        ]
+    },
+    {
+        "tweet_id": "67",
+        "ooc_tweet": {
+            "text": "Phone boxes refurbed into defibrillators... what a time to be alive",
+            "images": [
+                "./media/batch6/67/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Right Said Fred",
+                "post_url": "https://x.com/Shayan86/status/1784191382405410997/photo/1",
+                "date_posted": "2024-04-26 22:02:28",
+                "topic": "Society",
+                "error_category": "De-contextualization",
+                "label": false
+            }
+        },
+        "flagging_tweet": [
+            {
+                "text": "I think Right Said Fred are implying these public defibrillators are being installed because of the Covid vaccine. They've been around for over a decade. https://t.co/FGVGXKWtz1",
+                "metadata": {
+                    "evidence": [],
+                    "author_id": "Shayan Sardarizadeh",
+                    "post_url": "https://x.com/Shayan86/status/1784191382405410997",
+                    "date_posted": "2024-04-27 12:02:28"
+                }
+            }
+        ]
+    },
+    {
+        "tweet_id": "68",
+        "ooc_tweet": {
+            "text": "Mayor of London Sadiq Khan “What a 15 Minute City actually is, it is something that the WEF has created called C40, and it's called C40 cities”\n\n“You won't be able to drive a petrol or diesel car anymore. You'll have to buy electric. If you want food, you will get a ",
+            "images": [
+                "./media/batch6/68/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Wall Street Apes",
+                "post_url": "https://x.com/WallStreetApes/status/1783931611324801333",
+                "date_posted": "2024-04-26 18:50:14",
+                "topic": "Politics-other",
+                "error_category": "Misattributed Images",
+                "label": false
+            }
+        },
+        "flagging_tweet": [
+            {
+                "text": "It really does seem like there are a whole lot of people on this app who cannot be bothered to spend 10 seconds to find out what London mayor Sadiq Khan actually looks like. https://t.co/Um4AJqE0ER",
+                "metadata": {
+                    "evidence": [],
+                    "author_id": "Shayan Sardarizadeh",
+                    "post_url": "https://x.com/Shayan86/status/1784006169184375110",
+                    "date_posted": "2024-04-26 23:46:30"
+                }
+            }
+        ]
+    },
+    {
+        "tweet_id": "69",
+        "ooc_tweet": {
+            "text": "The US Navy is in shock ‼️‼️‼️‼️‼️\n\nIranian media publishes footage of the damaged and burning aircraft carrier Abraham Lincoln, which was attacked by Yemeni Houthis the day before (with cruise missiles and drones supplied by Iran and eventually, apparently, China).\n\nIf this is ",
+            "images": [
+                "./media/batch6/69/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Peacemaker",
+                "post_url": "https://x.com/peacemaket71/status/1857487098070159776",
+                "date_posted": "2024-11-15 18:13:29",
+                "topic": "Politics-Warfare-Middle-East-Conflict",
+                "error_category": "Incorrectly Captioned Images",
+                "label": false
+            }
+        },
+        "flagging_tweet": [
+            {
+                "text": "This is a video of the USS Bonhomme Richard, destroyed by accidental fire in July 2020 while undergoing maintenance. ",
+                "metadata": {
+                    "evidence": [
+                        "https://www.nbcsandiego.com/news/local/cause-of-fire-that-destroyed-uss-bonhomme-richard-in-san-diego-revealed-during-trial/3051557/#:~:text=The%20CFI%20determined%20the%20cause,without%20finding%20the%20ignition%20source."
+                    ],
+                    "author_id": "Helpful Community Notes",
+                    "post_url": "https://x.com/i/birdwatch/n/1857496015667859882",
+                    "date_posted": "2024-11-16 04:27:52"
+                }
+            }
+        ]
+    },
+    {
+        "tweet_id": "70",
+        "ooc_tweet": {
+            "text": "Today is my birthday, I just want a wish",
+            "images": [
+                "./media/batch6/70/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Sarah Khan",
+                "post_url": "https://x.com/Shayan86/status/1782522500477333905/photo/1",
+                "date_posted": "2024-04-22 05:30:56",
+                "topic": "Society",
+                "error_category": "De-contextualization",
+                "label": false
+            }
+        },
+        "flagging_tweet": [
+            {
+                "text": "Another day, another couple of AI-generated images of veterans and more fake birthdays posted by this account, which is part of a larger scam network of accounts pretending to be female sketch artists selling their artwork. https://t.co/lxzfL9gI08",
+                "metadata": {
+                    "evidence": [],
+                    "author_id": "Shayan Sardarizadeh",
+                    "post_url": "https://x.com/Shayan86/status/1782522500477333905",
+                    "date_posted": "2024-04-22 21:30:56"
+                }
+            }
+        ]
+    },
+    {
+        "tweet_id": "71",
+        "ooc_tweet": {
+            "text": "Today is my birthday, I just want a wish #birthdaymemories, #celebration, #birthdaygirl, #birthdaywish, #happybirthday",
+            "images": [
+                "./media/batch6/71/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Sarah Khan",
+                "post_url": "https://x.com/Shayan86/status/1782522500477333905/photo/2",
+                "date_posted": "2024-04-22 20:43:56",
+                "topic": "Society",
+                "error_category": "Incorrectly Captioned Images",
+                "label": false
+            }
+        },
+        "flagging_tweet": [
+            {
+                "text": "Another day, another couple of AI-generated images of veterans and more fake birthdays posted by this account, which is part of a larger scam network of accounts pretending to be female sketch artists selling their artwork. https://t.co/lxzfL9gI08",
+                "metadata": {
+                    "evidence": [],
+                    "author_id": "Shayan Sardarizadeh",
+                    "post_url": "https://x.com/Shayan86/status/1782522500477333905",
+                    "date_posted": "2024-04-22 21:30:56"
+                }
+            }
+        ]
+    },
+    {
+        "tweet_id": "72",
+        "ooc_tweet": {
+            "text": "Today is my birthday .I know my tweets go into the abyss, cuz I'm Disabled but if you see this please say hi follow make my day.",
+            "images": [
+                "./media/batch6/72/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "jasmine khan",
+                "post_url": "https://x.com/Shayan86/status/1782805741864099949/photo/2",
+                "date_posted": " 2024-04-21 21:48:00",
+                "topic": "Society",
+                "error_category": "De-contextualization",
+                "label": false
+            }
+        },
+        "flagging_tweet": [
+            {
+                "text": "X has now suspended this account, along with several others that are part of this scam network of fake sketch artists.\n\nSome still remain active, but the platform seems to be spotting them. https://t.co/8C6AG0PBII",
+                "metadata": {
+                    "evidence": [],
+                    "author_id": "Shayan Sardarizadeh",
+                    "post_url": "https://x.com/Shayan86/status/1782805741864099949",
+                    "date_posted": "2024-04-23 16:16:26"
+                }
+            }
+        ]
+    },
+    {
+        "tweet_id": "73",
+        "ooc_tweet": {
+            "text": "@jacksonhinklle @Nero Computer, enhance ",
+            "images": [
+                "./media/batch6/73/images/img0.jpeg",
+                "./media/batch6/73/images/img1.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Nicholas J. Fuentes",
+                "post_url": "https://x.com/NickJFuentes/status/1857506377322619243",
+                "date_posted": "2024-11-15 19:30:05",
+                "topic": "Society",
+                "error_category": "Incorrectly Captioned Images",
+                "label": false
+            }
+        },
+        "flagging_tweet": [
+            {
+                "text": "This image is edited. Here is the original image, from Jackson Hinkle's high school newspaper: https://tritontimes.com/16854/meet-our-staff/jackson-hinkle-writer/",
+                "metadata": {
+                    "evidence": [
+                        "./media/batch6/73/images/img2.jpeg"
+                    ],
+                    "author_id": "Helpful Community Notes",
+                    "post_url": "https://x.com/i/birdwatch/n/1857524897922101272",
+                    "date_posted": "2024-11-16 03:57:34"
+                }
+            }
+        ]
+    },
+    {
+        "tweet_id": "74",
+        "ooc_tweet": {
+            "text": "🔥🚨BREAKING: I want to thank Elon Musk and X for monetizing my account again and giving me 3 months of backpay. Although the Muslims took my pay away Elon Musk and Linda Yaccarino personally reinstated my pay. This man is a hero, he is a true champion of Free Speech. \n\nTo X, ",
+            "images": [
+                "./media/batch6/74/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Dom Lucre | Breaker of Narratives",
+                "post_url": "https://x.com/dom_lucre/status/1781731086990557632",
+                "date_posted": "2024-04-20 17:06:08",
+                "topic": "Society",
+                "error_category": "Incorrectly Captioned Images",
+                "label": false
+            }
+        },
+        "flagging_tweet": [
+            {
+                "text": "$70k to someone who posted child sexual abuse material. \n\nWe agree on one thing, I too think X's advertisers ought to be aware of this. https://t.co/wcbQdcZz4O",
+                "metadata": {
+                    "evidence": [
+                        "https://pbs.twimg.com/media/GLw8FCGaUAALJab.png"
+                    ],
+                    "author_id": "Elise Thomas",
+                    "post_url": "https://x.com/elisethoma5/status/1782366004372517250",
+                    "date_posted": "2024-04-22 11:09:04"
+                }
+            }
+        ]
+    },
+    {
+        "tweet_id": "75",
+        "ooc_tweet": {
+            "text": "Today is my birthday and I'm disabled  can i get 1 follow me happy birthday wishes.",
+            "images": [
+                "./media/batch6/75/images/img0.jpeg",
+                "./media/batch6/75/images/img1.jpeg",
+                "./media/batch6/75/images/img2.jpeg",
+                "./media/batch6/75/images/img3.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Sarah Khan",
+                "post_url": "null",
+                "date_posted": "2024-04-21 20:43:56",
+                "topic": "Society",
+                "error_category": "Misattributed Images",
+                "label": false
+            }
+        },
+        "flagging_tweet": [
+            {
+                "text": "Notice a pattern? These images are either AI-generated or stolen, posted to appeal to your sense of empathy for engagement and a follow. \n\nOnce that's been achieved, the hope is you will buy this account's artwork, all of which is either fake or stolen from real artists. https://t.co/3sWySUw5tJ",
+                "metadata": {
+                    "evidence": [
+                        "https://pbs.twimg.com/media/GLuqEXeXIAAu-0h.jpg",
+                        "https://pbs.twimg.com/media/GLuqFzKWEAA-qfh.jpg",
+                        "https://pbs.twimg.com/media/GLupviiXsAA1BId.jpg",
+                        "https://pbs.twimg.com/media/GLurPxdXQAAOMpL.jpg"
+                    ],
+                    "author_id": "Shayan Sardarizadeh",
+                    "post_url": "https://x.com/Shayan86/status/1782206618421063882",
+                    "date_posted": "2024-04-22 00:35:44"
+                }
+            }
+        ]
+    },
+    {
+        "tweet_id": "76",
+        "ooc_tweet": {
+            "text": "#Breaking: The commander of the #French mercenary group “Les Commandos,” who fought in #Gaza for a monthly salary of €15,000 paid by #Israel, has been killed along with five of his unit in a booby-trapped tunnel in Gaza. #GazaConflict #france",
+            "images": [
+                "./media/batch6/76/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "SilencedSirs◼️",
+                "post_url": "https://x.com/SilentlySirs/status/1781610099015909513",
+                "date_posted": "2024-04-20 09:05:22",
+                "topic": "Politics-Warfare-Israel-Palestine",
+                "error_category": "Misattributed Images",
+                "label": false
+            }
+        },
+        "flagging_tweet": [
+            {
+                "text": "This image, viewed half a million times, falsely claims to show the commander of a \"French mercenary group\" - paid by Israel - who's been killed along with his unit in Gaza.\n\nBut the image, taken in 2013, shows Israeli soldiers taking part in an exercise in the Golan Heights. https://t.co/fJP4Oa5uOq",
+                "metadata": {
+                    "evidence": [
+                        "./media/batch6/76/images/img1.jpeg"
+                    ],
+                    "author_id": "Shayan Sardarizadeh",
+                    "post_url": "https://x.com/Shayan86/status/1781913550954406327",
+                    "date_posted": "2024-04-21 05:11:11"
+                }
+            }
+        ]
+    },
+    {
+        "tweet_id": "77",
+        "ooc_tweet": {
+            "text": "@SecretaryPete You went on a 3 month maternity leave during the worst supply chain disaster in the history of America. ",
+            "images": [
+                "./media/batch6/77/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Vince Langman",
+                "post_url": "https://x.com/LangmanVince/status/1857425801412841570",
+                "date_posted": "2024-11-15 14:09:55",
+                "topic": "Politics-other",
+                "error_category": "Deepfakes",
+                "label": false
+            }
+        },
+        "flagging_tweet": [
+            {
+                "text": "This photo is NOT Pete Butigeige. It is a digitally altered photo. The original photo is linked here:",
+                "metadata": {
+                    "evidence": [
+                        "https://youtu.be/lQ7WHKc-ksg?feature=shared",
+                        "https://www.snopes.com/fact-check/pete-buttigieg-breastfeeding-device/"
+                    ],
+                    "author_id": "Helpful Community Notes",
+                    "post_url": "https://x.com/i/birdwatch/n/1857444819414503892",
+                    "date_posted": "2024-11-16 03:32:39"
+                }
+            }
+        ]
+    },
+    {
+        "tweet_id": "78",
+        "ooc_tweet": {
+            "text": "Ермак заплатил 27 млн долларов, чтобы попасть в топ-100 от Time.\n\nBellingcat раскопали информацию о том, кто заплатил, чтобы Time внесли их в топ-100 самых влиятельных людей. Среди прочих оказался и Андрей Ермак. Средний чек за такое место от 10 до 30 млн долларов, Ермаку это ",
+            "images": [
+                "./media/batch6/78/images/img0.jpeg",
+                "./media/batch6/78/images/img1.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Чайка",
+                "post_url": "https://x.com/ice_gull1/status/1781636177633931736",
+                "date_posted": "2024-04-20 10:49:00",
+                "topic": "Politics-other",
+                "error_category": "De-contextualization",
+                "label": false
+            }
+        },
+        "flagging_tweet": [
+            {
+                "text": "A mass fake-news campaign with forged \"BBC\" videos has been launched claiming falsely that @bellingcat has found that Andrey Yermak paid for being included in the @TIME list of influential people. Interestingly, the campaign also tries to discredit @yulia_navalnaya appearing on https://t.co/YAKZJYo0Gd",
+                "metadata": {
+                    "evidence": [],
+                    "author_id": "Christo Grozev",
+                    "post_url": "https://x.com/christogrozev/status/1781675680607916067",
+                    "date_posted": "2024-04-20 13:25:58"
+                }
+            }
+        ]
+    },
+    {
+        "tweet_id": "79",
+        "ooc_tweet": {
+            "text": "🚨 BREAKING: Israel appears to have attacked Esfahan, Iran.\n\nThis video was posted by the IRGC. ",
+            "images": [
+                "./media/batch6/79/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Holly Dagres",
+                "post_url": "https://x.com/hdagres/status/1781134730341089689",
+                "date_posted": "2024-04-19 01:36:26",
+                "topic": "Politics-Warfare-Middle-East-Conflict",
+                "error_category": "Incorrectly Captioned Images",
+                "label": false
+            }
+        },
+        "flagging_tweet": [
+            {
+                "text": "Geolocated this footage, shows activity in the sky to the east of the city. \n\nFlagpole visible is here: https://t.co/ObQ62Yt9qq\n\nWas filmed from a building over the road from Laleh Park. https://t.co/04LwqQAgya",
+                "metadata": {
+                    "evidence": [
+                        "./media/batch6/79/images/img1.jpeg"
+                    ],
+                    "author_id": "Sam Doak",
+                    "post_url": "https://x.com/SamDoak5/status/1781364374113812601",
+                    "date_posted": "2024-04-19 16:48:57"
+                }
+            }
+        ]
+    },
+    {
+        "tweet_id": "80",
+        "ooc_tweet": {
+            "text": "IRANIAN PRESIDENT CLAIMS VICTORY AFTER ISRAELI ATTACK. We are fighting a war of wills, and Iran has won and will continue to achieve victories. 'The True Promise' reflected our strength, the iron will of our people, and our unity. All segments of the people and all... Show more",
+            "images": [
+                "./media/batch6/80/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Mario Nawfal",
+                "post_url": "https://x.com/Shayan86/status/1781312656999112790/photo/1",
+                "date_posted": "2024-04-19 09:23:26",
+                "topic": "Politics-Warfare-Middle-East-Conflict",
+                "error_category": "Misattributed Images",
+                "label": false
+            }
+        },
+        "flagging_tweet": [
+            {
+                "text": "The image on the right shows Hassan Rouhani, who hasn't been the president of Iran since 2021. https://t.co/6sV6hvCLH4",
+                "metadata": {
+                    "evidence": [],
+                    "author_id": "Shayan Sardarizadeh",
+                    "post_url": "https://x.com/Shayan86/status/1781312656999112790",
+                    "date_posted": "2024-04-19 13:23:27"
+                }
+            }
+        ]
+    },
+    {
+        "tweet_id": "81",
+        "ooc_tweet": {
+            "text": "BREAKING: ISRAEL ARMY BOMBED AREAS NEAR ISFAHAN AND NATANZ WHICH CONTAINS IMPORTANT FACILITIES OF IRAN'S NUCLEAR PROGRAM",
+            "images": [
+                "./media/batch6/81/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Ghoncheh Habibiazad | غنچه",
+                "post_url": "https://x.com/GhonchehAzad/status/1781221237613531244",
+                "date_posted": "2024-04-19 06:25:36",
+                "topic": "Politics-Warfare-Middle-East-Conflict",
+                "error_category": "Incorrectly Captioned Images",
+                "label": false
+            }
+        },
+        "flagging_tweet": [
+            {
+                "text": "This video has been shared widely today, claiming to show the aftermath of an apparent retaliatory strike by Israel on Isfahan, Iran. But the video is old and unrelated to the events today.",
+                "metadata": {
+                    "evidence": [],
+                    "author_id": "Shayan Sardarizadeh",
+                    "post_url": "https://x.com/Shayan86/status/1781305900340502627",
+                    "date_posted": "2024-04-19 12:56:36"
+                }
+            }
+        ]
+    },
+    {
+        "tweet_id": "82",
+        "ooc_tweet": {
+            "text": "🚨BREAKING: Israel has responded and is currently attacking Iran inside Iran as well as Syria and Iraq.\n\nBaghdad / Babylon in Iraq, \nIsfahan in Iran, and Suwayda in Syria.\n\nABC News\n\n ",
+            "images": [
+                "./media/batch6/82/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "AJ Huber",
+                "post_url": "https://x.com/Huberton/status/1781149118229860425",
+                "date_posted": "2024-04-19 02:33:36",
+                "topic": "Politics-Warfare-Middle-East-Conflict",
+                "error_category": "De-contextualization",
+                "label": false
+            }
+        },
+        "flagging_tweet": [
+            {
+                "text": "This video, viewed over 400,000 times, claims to show footage of an alleged retaliatory attack by Israel in Isfahan, Iran, today.\n\nBut the same video was posted yesterday, claiming to show missiles fired from Lebanon landing in northern Israel. https://t.co/BfHh3WkkM1",
+                "metadata": {
+                    "evidence": [],
+                    "author_id": "Shayan Sardarizadeh",
+                    "post_url": "https://x.com/Shayan86/status/1781198153472938163",
+                    "date_posted": "2024-04-19 05:48:27"
+                }
+            }
+        ]
+    },
+    {
+        "tweet_id": "83",
+        "ooc_tweet": {
+            "text": "Biden humiliated with back-corner spot in APEC family photo as China’s Xi get place of honor in front row  ",
+            "images": [
+                "./media/batch6/83/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "New York Post",
+                "post_url": "https://x.com/nypost/status/1857844976840765936",
+                "date_posted": "2024-11-16 17:55:34",
+                "topic": "Politics-other",
+                "error_category": "De-contextualization",
+                "label": false
+            }
+        },
+        "flagging_tweet": [
+            {
+                "text": "The Heads of State are standing in alphabetical order, with China towards the front of the alphabet and United States right before Vietnam at the end. ",
+                "metadata": {
+                    "evidence": [
+                        "https://en.m.wikipedia.org/wiki/Alphabet"
+                    ],
+                    "author_id": "Helpful Community Notes",
+                    "post_url": "https://x.com/i/birdwatch/n/1857907971818148100",
+                    "date_posted": "2024-11-17 04:35:11"
+                }
+            }
+        ]
+    },
+    {
+        "tweet_id": "84",
+        "ooc_tweet": {
+            "text": "WW3 ALERT ISRAEL JUST LAUNCHED A MASSIVE ATTACK ON IRAN AND IS RUMORED TO HAVE HIT CRITCAL NUCLEAR FACILITIES WHICH COULD CAUSE RADIATION TO LEAK OUT INTO THE WORLD !",
+            "images": [
+                "./media/batch6/84/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Matt Wallace",
+                "post_url": "https://x.com/Shayan86/status/1781161371821854788/photo/1",
+                "date_posted": "2024-04-19 02:22:18",
+                "topic": "Politics-Warfare-Middle-East-Conflict",
+                "error_category": "De-contextualization",
+                "label": false
+            }
+        },
+        "flagging_tweet": [
+            {
+                "text": "This guy is the absolute worst, and it says a lot that he's become one of the biggest influencers on this platform by posting utter garbage like this all the time. https://t.co/7D4TY6pH0X",
+                "metadata": {
+                    "evidence": [],
+                    "author_id": "Shayan Sardarizadeh",
+                    "post_url": "https://x.com/Shayan86/status/1781161371821854788",
+                    "date_posted": "2024-04-19 03:22:18"
+                }
+            }
+        ]
+    },
+    {
+        "tweet_id": "85",
+        "ooc_tweet": {
+            "text": "! IRAN AND ISRAEL ARE NOW IN A FULL BLOWN WAR AND WE COULD BE ABOUT TO SEE A GLOBAL NUCLEAR HOLOCAUST WW3 WILL BE THE MOST TERRIFYING THING HUMANITY HAS EVER EXPERIENCED PREPARE FAST THIS FOOTAGE IS ABSOLUTELY INSANE!!!",
+            "images": [
+                "./media/batch6/85/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Matt Wallace",
+                "post_url": "https://x.com/Shayan86/status/1781161371821854788/photo/2",
+                "date_posted": "2024-04-19 02:56:18",
+                "topic": "Politics-Warfare-Middle-East-Conflict",
+                "error_category": "De-contextualization",
+                "label": false
+            }
+        },
+        "flagging_tweet": [
+            {
+                "text": "This guy is the absolute worst, and it says a lot that he's become one of the biggest influencers on this platform by posting utter garbage like this all the time. https://t.co/7D4TY6pH0X",
+                "metadata": {
+                    "evidence": [],
+                    "author_id": "Shayan Sardarizadeh",
+                    "post_url": "https://x.com/Shayan86/status/1781161371821854788",
+                    "date_posted": "2024-04-19 03:22:18"
+                }
+            }
+        ]
+    },
+    {
+        "tweet_id": "86",
+        "ooc_tweet": {
+            "text": "a crypto live streamer just got hacked and lost $100k live ",
+            "images": [
+                "./media/batch6/86/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Pasta 🍝",
+                "post_url": "https://x.com/pastagotsauce/status/1857639294854377558",
+                "date_posted": "2024-11-16 04:18:15",
+                "topic": "Society",
+                "error_category": "Incorrectly Captioned Images",
+                "label": false
+            }
+        },
+        "flagging_tweet": [
+            {
+                "text": "The streamer did not lose money. The seed phrase from the stream is fake and comes up invalid thus meaning it is not linked to the streamer’s crypto wallet.",
+                "metadata": {
+                    "evidence": [],
+                    "author_id": "Helpful Community Notes",
+                    "post_url": "https://x.com/i/birdwatch/n/1857767680566243341",
+                    "date_posted": "2024-11-17 01:31:38"
+                }
+            }
+        ]
+    },
+    {
+        "tweet_id": "87",
+        "ooc_tweet": {
+            "text": "Ayatollah Ali Khamenei is featured on the cover of Forbes magazine with the caption. The Most Powerful Man in the World .",
+            "images": [
+                "./media/batch6/87/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "S p r i n t e r",
+                "post_url": "https://x.com/ArsenKeklikoglu/status/1780974112287973827/photo/1",
+                "date_posted": "2024-04-18 14:38:11",
+                "topic": "Politics-other",
+                "error_category": "Incorrectly Captioned Images",
+                "label": false
+            }
+        },
+        "flagging_tweet": [
+            {
+                "text": "Your daily 'Sprinter' fake.\n\n❌ This is a fabricated cover of the FORBES magazine, purportedly featuring 🇮🇷 Khamenei.\n\nThe @Forbes magazine has never published such a cover. See https://t.co/GqEyZn9mwS\n\n@Shayan86 @DavidPuente @ArbiterOfTweets @billdmccarthy @LGalrao https://t.co/iZ1Z2nV0Rx",
+                "metadata": {
+                    "evidence": [
+                        "./media/batch6/87/images/img1.jpeg"
+                    ],
+                    "author_id": "Arsenios Keklikoğlu 🇬🇷",
+                    "post_url": "https://x.com/ArsenKeklikoglu/status/1780974112287973827",
+                    "date_posted": "2024-04-18 14:58:11"
+                }
+            },
+            {
+                "text": "This supposed Forbes issue honoring Ayatollah Ali Khamenei as \"the most powerful man\" is fake.\n\nIt is \"not a real Forbes cover and was never published on any of our platforms,\" a Forbes spokesperson said. And it uses an old photo of Iran's supreme leader.\n\nhttps://t.co/rkwrXGidKm https://t.co/lpyZmk7jxP",
+                "metadata": {
+                    "evidence": [
+                        "./media/batch6/87/images/img2.jpeg",
+                        "./media/batch6/87/images/img3.jpeg"
+                    ],
+                    "author_id": "Bill McCarthy",
+                    "post_url": "https://x.com/billdmccarthy/status/1781405071567110468",
+                    "date_posted": "2024-04-19 19:30:40"
+                }
+            }
+        ]
+    },
+    {
+        "tweet_id": "88",
+        "ooc_tweet": {
+            "text": "Did Columbia students use dummies of paragliders as decor in their Gaza solidarity camp? \nIf you don’t know, some Hamas terrorists reportedly used paragliders to fly over fence and commit Oct 7 massacre that killed 1200 Israelis.\nWhat next? A giant mural of Hamas chief Sinwar, ",
+            "images": [
+                "./media/batch6/88/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Hussain Abdul-Hussain",
+                "post_url": "https://x.com/hahussain/status/1780642512714993675",
+                "date_posted": "2024-04-17 17:00:32",
+                "topic": "Politics-Warfare-Israel-Palestine",
+                "error_category": "Incorrectly Captioned Images",
+                "label": false
+            }
+        },
+        "flagging_tweet": [
+            {
+                "text": "@hahussain That's a doctored image. Those are clearly parachute emojis added to the original image. Neither of those two parachutes can be found in other images of the same protest published by news outlets. https://t.co/2DKc2YUSyZ",
+                "metadata": {
+                    "evidence": [
+                        "./media/batch6/88/images/img1.jpeg",
+                        "./media/batch6/88/images/img2.jpeg"
+                    ],
+                    "author_id": "Shayan Sardarizadeh",
+                    "post_url": "https://x.com/Shayan86/status/1780750886530093139",
+                    "date_posted": "2024-04-18 00:11:10"
+                }
+            }
+        ]
+    },
+    {
+        "tweet_id": "89",
+        "ooc_tweet": {
+            "text": "🇯🇴 Air defense over Jordan trying to intercept Iranian drones. ",
+            "images": [
+                "./media/batch6/89/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "DD Geopolitics",
+                "post_url": "https://x.com/DD_Geopolitics/status/1779260949461074156",
+                "date_posted": "2024-04-13 21:30:42",
+                "topic": "Politics-Warfare-Israel-Palestine",
+                "error_category": "Incorrectly Captioned Images",
+                "label": false
+            }
+        },
+        "flagging_tweet": [
+            {
+                "text": "Another fake by Sprinter and Donbas Devushka.\n\nThis image has been taken from Motaz Akef Arabiat  https://t.co/yMNwF07SjK and shows flare bombs used over Palestinian towns in West Bank by Israeli forces reportedly in search of a 14 yo person.\n\nInitial fact check by @misbar_en 🧵 https://t.co/bfHlBNfGxh",
+                "metadata": {
+                    "evidence": [],
+                    "author_id": "Arsenios Keklikoğlu 🇬🇷",
+                    "post_url": "https://x.com/ArsenKeklikoglu/status/1780824091622006981",
+                    "date_posted": "2024-04-18 05:02:04"
+                }
+            }
+        ]
+    },
+    {
+        "tweet_id": "90",
+        "ooc_tweet": {
+            "text": "A river in Hormuz, Iran turned red like the biblical plague that turned the Nile River to blood. \n\n….In case you were wondering whose side God is on. \n",
+            "images": [
+                "./media/batch6/90/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Aviva Klompas",
+                "post_url": "https://x.com/AvivaKlompas/status/1780338706953449744",
+                "date_posted": "2024-04-16 20:53:19",
+                "topic": "Nature",
+                "error_category": "De-contextualization",
+                "label": false
+            }
+        },
+        "flagging_tweet": [
+            {
+                "text": "That's the red beach of Hormuz Island, a famous tourist attraction in the Persian Gulf, and it hasn't suddenly turned red because of Israel-Iran tensions, biblical plagues, God's wrath or Passover. \n\nIt's always been red because of red oxide in the soil. https://t.co/xSs1tOUH1W",
+                "metadata": {
+                    "evidence": [
+                        "./media/batch6/90/images/img1.jpeg",
+                        "./media/batch6/90/images/img2.jpeg"
+                    ],
+                    "author_id": "Shayan Sardarizadeh",
+                    "post_url": "https://x.com/Shayan86/status/1780611482679443775",
+                    "date_posted": "2024-04-17 14:57:14"
+                }
+            }
+        ]
+    },
+    {
+        "tweet_id": "91",
+        "ooc_tweet": {
+            "text": "why do we have 30 military bases surrounding Iran?\n\nIran isn't a threat to America but America is a threat to Iran 🇮🇷 ",
+            "images": [
+                "./media/batch6/91/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Jake Shields",
+                "post_url": "https://x.com/jakeshieldsajj/status/1779468277565317392",
+                "date_posted": "2024-04-14 11:14:32",
+                "topic": "Politics-Warfare-Middle-East-Conflict",
+                "error_category": "Misattributed Images",
+                "label": false
+            }
+        },
+        "flagging_tweet": [
+            {
+                "text": "The US does not have military bases in Pakistan, Afghanistan or Turkmenistan, Jake. https://t.co/kPmuqI4kXF",
+                "metadata": {
+                    "evidence": [],
+                    "author_id": "Shayan Sardarizadeh",
+                    "post_url": "https://x.com/Shayan86/status/1779546370715557939",
+                    "date_posted": "2024-04-14 16:24:51"
+                }
+            }
+        ]
+    },
+    {
+        "tweet_id": "92",
+        "ooc_tweet": {
+            "text": "ISRAELIS in FULL PANIC as IRANIAN missiles land in ISRAEL.",
+            "images": [
+                "./media/batch6/92/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Jackson Hinkle",
+                "post_url": "https://x.com/Shayan86/status/1779372922596958687/photo/1",
+                "date_posted": "2024-04-14 12:21:00",
+                "topic": "Politics-Warfare-Israel-Palestine",
+                "error_category": "Incorrectly Captioned Images",
+                "label": false
+            }
+        },
+        "flagging_tweet": [
+            {
+                "text": "This video, posted by Jackson Hinkle and others and viewed nearly 5 million times, claims to show \"Israelis panicking\" as Iran's missiles and drones reach Israel.\n\nin fact, it shows Louis Tomlinson fans near Four Seasons Hotel in Buenos Aires, Argentina last week; verified by https://t.co/11tX9bL0sh",
+                "metadata": {
+                    "evidence": [
+                        "./media/batch6/92/images/img1.jpeg",
+                        "./media/batch6/92/images/img2.jpeg"
+                    ],
+                    "author_id": "Shayan Sardarizadeh",
+                    "post_url": "https://x.com/Shayan86/status/1779372922596958687",
+                    "date_posted": "2024-04-14 04:55:38"
+                }
+            }
+        ]
+    },
+    {
+        "tweet_id": "93",
+        "ooc_tweet": {
+            "text": "This can’t be the noodles I am eating 😭\n ",
+            "images": [
+                "https://pbs.twimg.com/ext_tw_video_thumb/1834488186153668608/pu/img/jUz5LluXzzks-BTv.jpg"
+            ],
+            "metadata": {
+                "author_id": "Interesting STEM",
+                "post_url": "https://x.com/InterestingSTEM/status/1857681379015671941",
+                "date_posted": "2024-11-16 07:05:29",
+                "ooc_type": "Misattributed Image",
+                "topic": "Society",
+                "error_category": "Incorrectly Captioned Images",
+                "label": false
+            }
+        },
+        "flagging_tweet": [
+            {
+                "text": "These are not noodles. This is a basic production of soap or beauty soap. The author is lying to get views and attention.",
+                "metadata": {
+                    "evidence": [
+                        "https://youtu.be/cZd5QMb9om0?si=XKHK4Degy2_vF2ts"
+                    ],
+                    "author_id": "Helpful Community Notes",
+                    "post_url": "https://x.com/i/birdwatch/n/1857849097971265745",
+                    "date_posted": "2024-11-17 01:18:41"
+                }
+            }
+        ]
+    },
+    {
+        "tweet_id": "94",
+        "ooc_tweet": {
+            "text": "Lets go! Israeli settlement hit! Eat shit racist!",
+            "images": [
+                "./media/batch6/94/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Ryan Dawson",
+                "post_url": "https://x.com/RyLiberty/status/1779291530169098681",
+                "date_posted": "2024-04-13 23:32:13",
+                "topic": "Politics-Warfare-Israel-Palestine",
+                "error_category": "De-contextualization",
+                "label": false
+            }
+        },
+        "flagging_tweet": [
+            {
+                "text": "This video, widely shared last night, falsely claims to show an Israeli settlement struck by Iranian missiles.\n\nThe video dates back to the Israel-Hamas war in May 2021, showing a Hamas rocket destory a house in Rishon LeZion. https://t.co/CDVkyE7JEw",
+                "metadata": {
+                    "evidence": [],
+                    "author_id": "Shayan Sardarizadeh",
+                    "post_url": "https://x.com/Shayan86/status/1779463410129780999",
+                    "date_posted": "2024-04-14 10:55:12"
+                }
+            }
+        ]
+    },
+    {
+        "tweet_id": "95",
+        "ooc_tweet": {
+            "text": "⚠️ 𝐁𝐫𝐞𝐚𝐤𝐢𝐧𝐠 𝐍𝐞𝐰𝐬 ⚠️ 🇮🇷| 𝗧𝗵𝗲 𝗦𝗵𝗮𝗵𝗲𝗱 𝗗𝗿𝗼𝗻𝗲𝘀 𝗮𝗽𝗽𝗲𝗮𝗿 𝘁𝗼 𝗵𝗮𝘃𝗲 𝗿𝗲𝗮𝗰𝗵𝗲𝗱 𝗜𝘀𝗿𝗮𝗲𝗹 𝗿𝗶𝗴𝗵𝘁 𝗻𝗼𝘄 Video confirmation has been provided: ",
+            "images": [
+                "./media/batch6/95/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Iran Spectator",
+                "post_url": "https://x.com/IranSpec/status/1779266254089736388",
+                "date_posted": "2024-04-14 05:21:13",
+                "topic": "Politics-Warfare-Israel-Palestine",
+                "error_category": "De-contextualization",
+                "label": false
+            }
+        },
+        "flagging_tweet": [
+            {
+                "text": "Whoever provided you with video confirmation should be fired because this footage is from October 2023. https://t.co/V3CW5kmMQa",
+                "metadata": {
+                    "evidence": [
+                        "./media/batch6/95/images/img1.jpeg"
+                    ],
+                    "author_id": "Tal Hagin",
+                    "post_url": "https://x.com/talhagin/status/1779274439122653265",
+                    "date_posted": "2024-04-13 22:24:18"
+                }
+            }
+        ]
+    },
+    {
+        "tweet_id": "96",
+        "ooc_tweet": {
+            "text": "Iran's missiles launching on full speed against Israel! Finally! #Israel #Iran #Iranians ",
+            "images": [
+                "./media/batch6/96/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "SAIHYA",
+                "post_url": "https://x.com/Saihya_/status/1779291904750063650",
+                "date_posted": "2024-04-13 23:33:42",
+                "topic": "Politics-Warfare-Middle-East-Conflict",
+                "error_category": "Misattributed Images",
+                "label": false
+            }
+        },
+        "flagging_tweet": [
+            {
+                "text": "This video, viewed nearly 700,000 times, falsely claims to show the launch of Iranian missiles against Israel last night.\n\nBut the video is from 2020, and shows rockets fired by the Turkish military in Syria. https://t.co/FYuSAS5QLO",
+                "metadata": {
+                    "evidence": [],
+                    "author_id": "Shayan Sardarizadeh",
+                    "post_url": "https://x.com/Shayan86/status/1779361100422693287",
+                    "date_posted": "2024-04-14 04:08:39"
+                }
+            }
+        ]
+    },
+    {
+        "tweet_id": "97",
+        "ooc_tweet": {
+            "text": "Tel Aviv airport...save who can...",
+            "images": [
+                "./media/batch6/97/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Long Fa",
+                "post_url": "https://x.com/ArsenKeklikoglu/status/1779298109983433215/photo/1",
+                "date_posted": "2024-04-13 11:52:00",
+                "topic": "Politics-other",
+                "error_category": "Incorrectly Captioned Images",
+                "label": false
+            }
+        },
+        "flagging_tweet": [
+            {
+                "text": "NOT a video from Tel Aviv airport tonight.\n\nThis is Paris Metro, 2019\n@Shayan86\n@talhagin @alexcapron @DavidPuente https://t.co/NmYi87l0lW",
+                "metadata": {
+                    "evidence": [
+                        "./media/batch6/97/images/img1.jpeg"
+                    ],
+                    "author_id": "Arsenios Keklikoğlu 🇬🇷",
+                    "post_url": "https://x.com/ArsenKeklikoglu/status/1779298109983433215",
+                    "date_posted": "2024-04-13 23:58:21"
+                }
+            }
+        ]
+    },
+    {
+        "tweet_id": "98",
+        "ooc_tweet": {
+            "text": "Hell on Earth as Fires continue to Follow 4 burn out of control. Reports suggest that over 80% of ALL of TexasCattle Feed in the impacted area !!!",
+            "images": [
+                "./media/batch6/98/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Ghoncheh Habibiazad | غنچه",
+                "post_url": "https://x.com/GhonchehAzad/status/1779307601295036862",
+                "date_posted": "2024-04-13 19:58:00",
+                "topic": "Nature",
+                "error_category": "Misattributed Images",
+                "label": false
+            }
+        },
+        "flagging_tweet": [
+            {
+                "text": "Iran's state TV has been continuously running this video tonight as evidence of its missiles making impact on the ground and hitting targets in Israel. \n\nBut it's old footage of farm fire in Texas and completely unrelated to tonight's attack.",
+                "metadata": {
+                    "evidence": [],
+                    "author_id": "Shayan Sardarizadeh",
+                    "post_url": "https://x.com/Shayan86/status/1779312359195984093",
+                    "date_posted": "2024-04-14 00:54:59"
+                }
+            }
+        ]
+    },
+    {
+        "tweet_id": "99",
+        "ooc_tweet": {
+            "text": "How would you like to be on this flight? ",
+            "images": [
+                "./media/batch6/99/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "A Man Of Memes",
+                "post_url": "https://x.com/RickyDoggin/status/1861458288879268188",
+                "date_posted": "2024-11-26 17:13:34",
+                "topic": "Entertainment",
+                "error_category": "Incorrectly Captioned Images",
+                "label": false
+            }
+        },
+        "flagging_tweet": [
+            {
+                "text": "This is not a real scenario, this is just an edit from a video game like Microsoft Flight Simulator or X-Plane. You can tell by the physics of the surroundings.The simulators nowadays got better 4k graphics and ultra-realistic texture and details. ",
+                "metadata": {
+                    "evidence": [
+                        "https://youtu.be/rvzlC4iCtns"
+                    ],
+                    "author_id": "Helpful Community Notes",
+                    "post_url": "https://x.com/i/birdwatch/n/1861571818135453911",
+                    "date_posted": "2024-11-28 00:54:59"
+                }
+            }
+        ]
+    },
+    {
+        "tweet_id": "100",
+        "ooc_tweet": {
+            "text": "Israelis' reality in the last hours:",
+            "images": [
+                "./media/batch6/100/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Israel Defense Forces",
+                "post_url": "https://x.com/Shayan86/status/1779317154539536730/photo/1",
+                "date_posted": "2024-04-14 01:27:18",
+                "topic": "Politics-Warfare-Middle-East-Conflict",
+                "error_category": "Incorrectly Captioned Images",
+                "label": false
+            }
+        },
+        "flagging_tweet": [
+            {
+                "text": "The IDF has just posted this video compilation showing some clips of Iran's retaliatory drone and missile attack against it.\n\nWhile most of the clips are indeed from tonight, this one at the end is an old clip of a Russian Grad rocket launcher from nearly 10 years ago. https://t.co/Twh4xxLWlF",
+                "metadata": {
+                    "evidence": [
+                        "https://pbs.twimg.com/media/GLFmaIsXIAESnz8.jpg",
+                        "https://pbs.twimg.com/media/GLFngOFX0AAsMlH.jpg"
+                    ],
+                    "author_id": "Shayan Sardarizadeh",
+                    "post_url": "https://x.com/Shayan86/status/1779317154539536730",
+                    "date_posted": "2024-04-14 01:14:02"
+                }
+            }
+        ]
+    }
+]

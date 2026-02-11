@@ -1,0 +1,1602 @@
+[
+    {
+        "tweet_id": "1",
+        "ooc_tweet": {
+            "text": "Election set to overshadow British-Irish meeting ",
+            "images": [
+                "./media/batch7/1/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1863843380897149148",
+                "date_posted": "2024-12-03 07:11:05",
+                "topic": "Politics-other",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "2",
+        "ooc_tweet": {
+            "text": "The Justice Department under Trump secretly obtained phone records of his current FBI pick Kash Patel during leak investigation, watchdog finds ",
+            "images": [
+                "./media/batch7/2/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "CNN",
+                "post_url": "https://x.com/CNN/status/1866514622267740484",
+                "date_posted": "2024-12-10 16:05:38",
+                "topic": "Politics-other",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "3",
+        "ooc_tweet": {
+            "text": "'We lived in constant fear of Taliban kidnap' ",
+            "images": [
+                "./media/batch7/3/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1868902384430190928",
+                "date_posted": "2024-12-17 06:13:45",
+                "topic": "Politics-other",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "4",
+        "ooc_tweet": {
+            "text": "Canadian police have made arrests in the 2023 killing of a prominent Sikh separatist that sparked a diplomatic row between India and Canada ",
+            "images": [
+                "./media/batch7/4/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "CNN",
+                "post_url": "https://x.com/CNN/status/1786480701136605622",
+                "date_posted": "2024-05-03 19:39:25",
+                "topic": "Politics-other",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "5",
+        "ooc_tweet": {
+            "text": "Pelosi has hip replacement surgery after fall in Luxembourg ",
+            "images": [
+                "./media/batch7/5/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1868655412808958285",
+                "date_posted": "2024-12-16 13:52:23",
+                "topic": "Politics-other",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "6",
+        "ooc_tweet": {
+            "text": "US deportations under Biden surpass Trump's record ",
+            "images": [
+                "./media/batch7/6/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1870122084833042860",
+                "date_posted": "2024-12-20 15:00:24",
+                "topic": "Politics-other",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "7",
+        "ooc_tweet": {
+            "text": "Canada's NDP leader says he will vote to topple Trudeau's Liberals ",
+            "images": [
+                "./media/batch7/7/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1870153745117426131",
+                "date_posted": "2024-12-20 17:06:13",
+                "topic": "Politics-other",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "8",
+        "ooc_tweet": {
+            "text": "Romania case against Tate brothers sent back by court ",
+            "images": [
+                "./media/batch7/8/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1869782726863163827",
+                "date_posted": "2024-12-19 16:31:55",
+                "topic": "Politics-other",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "9",
+        "ooc_tweet": {
+            "text": "5 things to know about a looming US government shutdown ",
+            "images": [
+                "./media/batch7/9/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1869924325203046640",
+                "date_posted": "2024-12-20 01:54:35",
+                "topic": "Politics-other",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "10",
+        "ooc_tweet": {
+            "text": "Opinion | To win without war, State Department reform is necessary ",
+            "images": [
+                "./media/batch7/10/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1867949501387800857",
+                "date_posted": "2024-12-14 15:07:20",
+                "topic": "Politics-other",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "11",
+        "ooc_tweet": {
+            "text": "The House has voted to avert a shutdown as Speaker Mike Johnson used Democrats' help to pass a stopgap funding bill despite GOP defections. The bill must now pass the Senate. ",
+            "images": [
+                "./media/batch7/11/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "CNN",
+                "post_url": "https://x.com/CNN/status/1839042402033496151",
+                "date_posted": "2024-09-25 20:40:51",
+                "topic": "Politics-other",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "12",
+        "ooc_tweet": {
+            "text": "People across the country and the world are reflecting on former President Jimmy Carter and his life, which was full of achievements. ",
+            "images": [
+                "./media/batch7/12/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1873493717669007821",
+                "date_posted": "2024-12-29 22:18:04",
+                "topic": "Politics-other",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "13",
+        "ooc_tweet": {
+            "text": "Former governor spots mystery drones in Maryland, blasts feds for lack of transparency ",
+            "images": [
+                "./media/batch7/13/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1867912684487774707",
+                "date_posted": "2024-12-14 12:41:02",
+                "topic": "Politics-other",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "14",
+        "ooc_tweet": {
+            "text": "Pope assassination plot foiled by UK intelligence ",
+            "images": [
+                "./media/batch7/14/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1869253521134010834",
+                "date_posted": "2024-12-18 05:29:03",
+                "topic": "Politics-other",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "15",
+        "ooc_tweet": {
+            "text": "Canadians say US ties strong despite Trump jabs ",
+            "images": [
+                "./media/batch7/15/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1869301251415888001",
+                "date_posted": "2024-12-18 08:38:42",
+                "topic": "Politics-other",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "16",
+        "ooc_tweet": {
+            "text": "Los Zetas cartel boss re-arrested in Mexico after US jail time ",
+            "images": [
+                "./media/batch7/16/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1869026691319796157",
+                "date_posted": "2024-12-17 14:27:42",
+                "topic": "Politics-other",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "17",
+        "ooc_tweet": {
+            "text": "Washington Post columnist attacks paper trying to reach out to 'MAGA readers': 'Logical fallacy' ",
+            "images": [
+                "./media/batch7/17/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1873890414001881237",
+                "date_posted": "2024-12-31 00:34:24",
+                "topic": "Politics-other",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "18",
+        "ooc_tweet": {
+            "text": "US makes third interest rate cut despite inflation risk ",
+            "images": [
+                "./media/batch7/18/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1869461641550508186",
+                "date_posted": "2024-12-18 19:16:02",
+                "topic": "Politics-other",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "19",
+        "ooc_tweet": {
+            "text": "Five revelations from the House ethics report on Matt Gaetz ",
+            "images": [
+                "./media/batch7/19/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1871310411326255545",
+                "date_posted": "2024-12-23 21:42:23",
+                "topic": "Politics-other",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "20",
+        "ooc_tweet": {
+            "text": "Honda and Nissan join forces to take on China in cars ",
+            "images": [
+                "./media/batch7/20/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1871277393609998485",
+                "date_posted": "2024-12-23 19:31:11",
+                "topic": "Politics-other",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "21",
+        "ooc_tweet": {
+            "text": "Wall Street Journal's Evan Gershkovich reveals shadowy Kremlin figure behind imprisonment in Russia ",
+            "images": [
+                "./media/batch7/21/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1867603151336906863",
+                "date_posted": "2024-12-13 16:11:04",
+                "topic": "Politics-other",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "22",
+        "ooc_tweet": {
+            "text": "JD Vance confirms Daniel Penny will attend Army-Navy game after acquittal in subway chokehold trial ",
+            "images": [
+                "./media/batch7/22/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1867596018168062370",
+                "date_posted": "2024-12-13 15:42:43",
+                "topic": "Politics-other",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "23",
+        "ooc_tweet": {
+            "text": "Rapper Toomaj Salehi sentenced to death for his involvement in the 2022 protests that swept Iran, his lawyer said ",
+            "images": [
+                "./media/batch7/23/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "CNN",
+                "post_url": "https://x.com/CNN/status/1783512697096503532",
+                "date_posted": "2024-04-25 15:05:37",
+                "topic": "Politics-other",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "24",
+        "ooc_tweet": {
+            "text": "Speaker Mike Johnson says he will request the House Ethics Committee not release a report on allegations related to Trump attorney general pick Matt Gaetz ",
+            "images": [
+                "./media/batch7/24/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "CNN",
+                "post_url": "https://x.com/CNN/status/1857476240199852119",
+                "date_posted": "2024-11-15 17:30:20",
+                "topic": "Politics-other",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "25",
+        "ooc_tweet": {
+            "text": "US temporarily bans drones in parts of New Jersey ",
+            "images": [
+                "./media/batch7/25/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1869769874911756508",
+                "date_posted": "2024-12-19 15:40:51",
+                "topic": "Politics-other",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "26",
+        "ooc_tweet": {
+            "text": "Opinion | What Jimmy Carter can teach us about life and our legacy ",
+            "images": [
+                "./media/batch7/26/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1873931432264904763",
+                "date_posted": "2024-12-31 03:17:24",
+                "topic": "Politics-other",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "27",
+        "ooc_tweet": {
+            "text": "Luigi Mangione's extradition to New York explained in 73 seconds ",
+            "images": [
+                "./media/batch7/27/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1869897477303710125",
+                "date_posted": "2024-12-20 00:07:54",
+                "topic": "Politics-other",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "28",
+        "ooc_tweet": {
+            "text": "Russian ship under US sanctions sinks after engine room blast ",
+            "images": [
+                "./media/batch7/28/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1871485621107060984",
+                "date_posted": "2024-12-24 09:18:37",
+                "topic": "Politics-other",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "29",
+        "ooc_tweet": {
+            "text": "Nigeria denies colluding with France to destabilise Niger ",
+            "images": [
+                "./media/batch7/29/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1872654351358918996",
+                "date_posted": "2024-12-27 14:42:44",
+                "topic": "Politics-other",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "30",
+        "ooc_tweet": {
+            "text": "'Beacon of selflessness': ISIS victim Kayla Mueller honored at congressman's swearing-in 10 years after death ",
+            "images": [
+                "./media/batch7/30/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1875315496708407363",
+                "date_posted": "2025-01-03 22:57:10",
+                "topic": "Politics-other",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "31",
+        "ooc_tweet": {
+            "text": "Blair was urged to delay work rights for eastern Europeans, files reveal ",
+            "images": [
+                "./media/batch7/31/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1873922350984380576",
+                "date_posted": "2024-12-31 02:41:18",
+                "topic": "Politics-other",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "32",
+        "ooc_tweet": {
+            "text": "Mozambique opposition leader calls for unity ahead of renewed protests ",
+            "images": [
+                "./media/batch7/32/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1874085371518095499",
+                "date_posted": "2024-12-31 13:29:06",
+                "topic": "Politics-other",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "33",
+        "ooc_tweet": {
+            "text": "These 21st-century demagogues aren’t mavericks – they’ve repeated on us throughout history | George Monbiot ",
+            "images": [
+                "./media/batch7/33/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "The Guardian",
+                "post_url": "https://x.com/guardian/status/1831963844660318482",
+                "date_posted": "2024-09-06 07:53:11",
+                "topic": "Politics-other",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "34",
+        "ooc_tweet": {
+            "text": "House passes Antisemitism Awareness Act, a vote that comes as pro-Palestinian protests spring up on college campuses across the country.\n",
+            "images": [
+                "./media/batch7/34/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "CNN",
+                "post_url": "https://x.com/CNN/status/1785779994452451756",
+                "date_posted": "2024-05-01 21:15:03",
+                "topic": "Politics-other",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "35",
+        "ooc_tweet": {
+            "text": "Trump selects Jared Kushner's father, Charles Kushner, for ambassador to France ",
+            "images": [
+                "./media/batch7/35/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "CNN",
+                "post_url": "https://x.com/CNN/status/1862936028287295859",
+                "date_posted": "2024-11-30 19:05:35",
+                "topic": "Politics-other",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "36",
+        "ooc_tweet": {
+            "text": "Prime Minister Benjamin Netanyahu of Israel is accused of bribery, fraud and breach of trust in a trial that began four years ago. On Tuesday, in a courtroom in Tel Aviv, he took the stand for the first time in the case. ",
+            "images": [
+                "./media/batch7/36/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "The New York Times",
+                "post_url": "https://x.com/nytimes/status/1866517007430004776",
+                "date_posted": "2024-12-10 16:15:07",
+                "topic": "Politics-other",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "37",
+        "ooc_tweet": {
+            "text": "Suspect behind Cybertruck that exploded at Trump hotel identified as active-duty U.S. Army soldier ",
+            "images": [
+                "./media/batch7/37/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1874869166278062100",
+                "date_posted": "2025-01-02 17:23:37",
+                "topic": "Politics-other",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "38",
+        "ooc_tweet": {
+            "text": "New York City Mayor Eric Adams has been charged with bribery, wire fraud and taking donations from foreign nationals, according to unsealed indictment\n",
+            "images": [
+                "./media/batch7/38/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "CNN",
+                "post_url": "https://x.com/CNN/status/1839321057028628636",
+                "date_posted": "2024-09-26 15:08:07",
+                "topic": "Politics-other",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "39",
+        "ooc_tweet": {
+            "text": "Sen. Tammy Baldwin will win her reelection bid over Republican Eric Hovde in Wisconsin, CNN projects.\n",
+            "images": [
+                "./media/batch7/39/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "CNN",
+                "post_url": "https://x.com/CNN/status/1854248760731168875",
+                "date_posted": "2024-11-06 19:45:29",
+                "topic": "Politics-other",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "40",
+        "ooc_tweet": {
+            "text": "Canadian premier threatens to cut off energy imports to US if Trump imposes tariff on country ",
+            "images": [
+                "./media/batch7/40/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1867635503459176870",
+                "date_posted": "2024-12-13 18:19:37",
+                "topic": "Politics-other",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "41",
+        "ooc_tweet": {
+            "text": "Romania hit by major election influence campaign, amid Russian cyber-attacks ",
+            "images": [
+                "./media/batch7/41/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1864438311495835763",
+                "date_posted": "2024-12-04 22:35:07",
+                "topic": "Politics-other",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "42",
+        "ooc_tweet": {
+            "text": "Final seats to be filled in Irish general election ",
+            "images": [
+                "./media/batch7/42/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1863374890327212084",
+                "date_posted": "2024-12-02 00:09:28",
+                "topic": "Politics-other",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "43",
+        "ooc_tweet": {
+            "text": "Opinion | ASRA NOMANI: Islamists' familiar 'Triple D' strategy follows Bourbon Street terror attack ",
+            "images": [
+                "./media/batch7/43/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1875245398563922009",
+                "date_posted": "2025-01-03 18:18:38",
+                "topic": "Politics-other",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "44",
+        "ooc_tweet": {
+            "text": "FBI declines to say whether it will fire, discipline agent who said attack was 'not a terrorist event' ",
+            "images": [
+                "./media/batch7/44/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1875206364798038249",
+                "date_posted": "2025-01-03 15:43:31",
+                "topic": "Politics-other",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "45",
+        "ooc_tweet": {
+            "text": "GOP lawmaker, 81, receives medical attention after fall at US Capitol ",
+            "images": [
+                "./media/batch7/45/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1875341831057056025",
+                "date_posted": "2025-01-04 00:41:49",
+                "topic": "Politics-other",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "46",
+        "ooc_tweet": {
+            "text": "Opinion | 3 top takeaways from Speaker Johnson's re-election ",
+            "images": [
+                "./media/batch7/46/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1875322965044126055",
+                "date_posted": "2025-01-03 23:26:51",
+                "topic": "Politics-other",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "47",
+        "ooc_tweet": {
+            "text": "US TikTok ban: When could the app be banned and will Trump save it? ",
+            "images": [
+                "./media/batch7/47/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1874115889215213660",
+                "date_posted": "2024-12-31 15:30:22",
+                "topic": "Politics-other",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "48",
+        "ooc_tweet": {
+            "text": "Department of Justice spent over $100 million on DEI education programs over last four years: report ",
+            "images": [
+                "./media/batch7/48/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1875021981667487760",
+                "date_posted": "2025-01-03 03:30:51",
+                "topic": "Politics-other",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "49",
+        "ooc_tweet": {
+            "text": "Far-right candidate takes shock lead in Romania presidential election ",
+            "images": [
+                "./media/batch7/49/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1860857305564115391",
+                "date_posted": "2024-11-25 01:25:29",
+                "topic": "Politics-other",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "50",
+        "ooc_tweet": {
+            "text": "New York Gov. Kathy Hochul seeks expanded involuntary commitment laws over violent crimes on subway ",
+            "images": [
+                "./media/batch7/50/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1875486895662088229",
+                "date_posted": "2025-01-04 10:18:15",
+                "topic": "Politics-other",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "51",
+        "ooc_tweet": {
+            "text": "South Korean investigators call off an attempt to arrest President Yoon for insurrection, after a standoff with his security team in Seoul\n",
+            "images": [
+                "./media/batch7/51/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC Breaking News",
+                "post_url": "https://x.com/BBCBreaking/status/1875048495591149672",
+                "date_posted": "2025-01-03 05:16:12",
+                "topic": "Politics-other",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "52",
+        "ooc_tweet": {
+            "text": "China's BYD closes in on Tesla as sales jump ",
+            "images": [
+                "./media/batch7/52/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1874660193134358957",
+                "date_posted": "2025-01-02 03:33:14",
+                "topic": "Politics-other",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "53",
+        "ooc_tweet": {
+            "text": "Fury as Filipino officials pose with 'China spy mayor' ",
+            "images": [
+                "./media/batch7/53/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1831933585093279955",
+                "date_posted": "2024-09-06 05:52:57",
+                "topic": "Politics-other",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "54",
+        "ooc_tweet": {
+            "text": "Uganda protest organisers playing with fire, president says ",
+            "images": [
+                "./media/batch7/54/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1814993333682393177",
+                "date_posted": "2024-07-21 11:58:26",
+                "topic": "Politics-other",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "55",
+        "ooc_tweet": {
+            "text": "Somaliland opposition leader wins presidential election ",
+            "images": [
+                "./media/batch7/55/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1858886626182647880",
+                "date_posted": "2024-11-19 14:54:42",
+                "topic": "Politics-other",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "56",
+        "ooc_tweet": {
+            "text": "Supreme Court Chief Justice Roberts issues warning on 'judicial independence' weeks before Trump inauguration ",
+            "images": [
+                "./media/batch7/56/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1874485711539241083",
+                "date_posted": "2025-01-01 15:59:54",
+                "topic": "Politics-other",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "57",
+        "ooc_tweet": {
+            "text": "Brazil arrests soldiers suspected of 2022 plot to kill President Lula ",
+            "images": [
+                "./media/batch7/57/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1858876033002275083",
+                "date_posted": "2024-11-19 14:12:37",
+                "topic": "Politics-other",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "58",
+        "ooc_tweet": {
+            "text": "Far-right candidate takes shock lead in Romania presidential election ",
+            "images": [
+                "./media/batch7/58/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1860857305564115391",
+                "date_posted": "2024-11-25 01:25:29",
+                "topic": "Politics-other",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "59",
+        "ooc_tweet": {
+            "text": "'Powerful yet so humble' - Americans gather to say goodbye to Jimmy Carter ",
+            "images": [
+                "./media/batch7/59/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1875685983242326263",
+                "date_posted": "2025-01-04 23:29:21",
+                "topic": "Politics-other",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "60",
+        "ooc_tweet": {
+            "text": "Why is it so hard to arrest S Korea's impeached president? ",
+            "images": [
+                "./media/batch7/60/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1875155514641781138",
+                "date_posted": "2025-01-03 12:21:28",
+                "topic": "Politics-other",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "61",
+        "ooc_tweet": {
+            "text": "President-elect Donald Trump’s pick to lead the Drug Enforcement Administration has withdrawn from consideration ",
+            "images": [
+                "./media/batch7/61/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "CNN",
+                "post_url": "https://x.com/CNN/status/1864082350562316362",
+                "date_posted": "2024-12-03 23:00:40",
+                "topic": "Politics-other",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "62",
+        "ooc_tweet": {
+            "text": "Opinion | REBECCA GRANT: America has a drone problem, and no one is in charge ",
+            "images": [
+                "./media/batch7/62/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1868051371145998338",
+                "date_posted": "2024-12-14 21:52:08",
+                "topic": "Politics-other",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "63",
+        "ooc_tweet": {
+            "text": "Melania Trump confirms her support for abortion rights and a woman's \"individual freedom,\" a stance that puts her at odds with her husband ",
+            "images": [
+                "./media/batch7/63/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "CNN",
+                "post_url": "https://x.com/CNN/status/1841827003885920514",
+                "date_posted": "2024-10-03 13:05:51",
+                "topic": "Politics-other",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "64",
+        "ooc_tweet": {
+            "text": "Trump's pledge against 'forever wars' could be tested with Syria in hands of jihadist factions ",
+            "images": [
+                "./media/batch7/64/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1867619666950017300",
+                "date_posted": "2024-12-13 17:16:41",
+                "topic": "Politics-other",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "65",
+        "ooc_tweet": {
+            "text": "Israeli PM Benjamin Netanyahu completes prostate surgery after UTI diagnosis ",
+            "images": [
+                "./media/batch7/65/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1873710805864055256",
+                "date_posted": "2024-12-30 12:40:42",
+                "topic": "Politics-other",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "66",
+        "ooc_tweet": {
+            "text": "A federal judge has rejected a plea agreement between Boeing and the US government after the company said it would plead guilty to deceiving the FAA prior to two fatal 737 Max crashes. ",
+            "images": [
+                "./media/batch7/66/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "CNN",
+                "post_url": "https://x.com/CNN/status/1864742415053078622",
+                "date_posted": "2024-12-05 18:43:31",
+                "topic": "Politics-other",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "67",
+        "ooc_tweet": {
+            "text": "GOP Rep. Marjorie Taylor Greene files a motion to oust Mike Johnson from the speakership, in anger about the government funding bill that just passed ",
+            "images": [
+                "./media/batch7/67/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "CNN",
+                "post_url": "https://x.com/CNN/status/1771209104817561657",
+                "date_posted": "2024-03-22 16:15:32",
+                "topic": "Politics-other",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "68",
+        "ooc_tweet": {
+            "text": "US to hold national day of mourning for Jimmy Carter ",
+            "images": [
+                "./media/batch7/68/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1873776017627582472",
+                "date_posted": "2024-12-30 16:59:50",
+                "topic": "Politics-other",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "69",
+        "ooc_tweet": {
+            "text": "Ethics report into Matt Gaetz expected to be released ",
+            "images": [
+                "./media/batch7/69/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1871180621914964064",
+                "date_posted": "2024-12-23 13:06:39",
+                "topic": "Politics-other",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "70",
+        "ooc_tweet": {
+            "text": "Canada's finance minister resigns, citing dispute with Trudeau ",
+            "images": [
+                "./media/batch7/70/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1868678275246989341",
+                "date_posted": "2024-12-16 15:23:13",
+                "topic": "Politics-other",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "71",
+        "ooc_tweet": {
+            "text": "Jimmy Carter nears the top of America's 'Most Admired Man' list, according to Gallup ",
+            "images": [
+                "./media/batch7/71/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1873881020547662214",
+                "date_posted": "2024-12-30 23:57:04",
+                "topic": "Politics-other",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "72",
+        "ooc_tweet": {
+            "text": "Washington Post cartoonist quits after paper pulls her cartoon depicting Post owner Bezos groveling to Trump ",
+            "images": [
+                "./media/batch7/72/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1875571127222718620",
+                "date_posted": "2025-01-04 15:52:57",
+                "topic": "Politics-other",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "73",
+        "ooc_tweet": {
+            "text": "Venezuela offers reward for candidate's arrest ",
+            "images": [
+                "./media/batch7/73/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1875052116554678344",
+                "date_posted": "2025-01-03 05:30:36",
+                "topic": "Politics-other",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "74",
+        "ooc_tweet": {
+            "text": "Prosecutors deliver opening statements in their historic criminal hush money case against former President Donald Trump. Follow live updates. ",
+            "images": [
+                "./media/batch7/74/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "CNN",
+                "post_url": "https://x.com/CNN/status/1782421370552373605",
+                "date_posted": "2024-04-22 14:49:05",
+                "topic": "Politics-other",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "75",
+        "ooc_tweet": {
+            "text": "Who is City minister Tulip Siddiq? ",
+            "images": [
+                "./media/batch7/75/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1869811432541323632",
+                "date_posted": "2024-12-19 18:25:59",
+                "topic": "Politics-other",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "76",
+        "ooc_tweet": {
+            "text": "Carter feuded with successor presidents, once had shouting match with Bill Clinton ",
+            "images": [
+                "./media/batch7/76/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1873758987046306121",
+                "date_posted": "2024-12-30 15:52:09",
+                "topic": "Politics-other",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "77",
+        "ooc_tweet": {
+            "text": "Snap Sri Lankan election poses test for new leader ",
+            "images": [
+                "./media/batch7/77/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1856881723466031172",
+                "date_posted": "2024-11-14 02:07:56",
+                "topic": "Politics-other",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "78",
+        "ooc_tweet": {
+            "text": "Biden to announce clemency for around 1,500 people – including pardons for 39 convicted of non-violent crimes ",
+            "images": [
+                "./media/batch7/78/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "CNN",
+                "post_url": "https://x.com/CNN/status/1867158582703108275",
+                "date_posted": "2024-12-12 10:44:30",
+                "topic": "Politics-other",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "79",
+        "ooc_tweet": {
+            "text": "Watch: Georgia election chief doused with paint ",
+            "images": [
+                "./media/batch7/79/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1858057238612496455",
+                "date_posted": "2024-11-17 07:59:01",
+                "topic": "Politics-other",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "80",
+        "ooc_tweet": {
+            "text": "FBI finds largest explosive cache on a Virginia farm ",
+            "images": [
+                "./media/batch7/80/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1874232466610790704",
+                "date_posted": "2024-12-31 23:13:36",
+                "topic": "Politics-other",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "81",
+        "ooc_tweet": {
+            "text": "Opinion | DAVID MARCUS: Biden gives Liz Cheney the Presidential Medal of Insufferability ",
+            "images": [
+                "./media/batch7/81/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1875192650141196558",
+                "date_posted": "2025-01-03 14:49:01",
+                "topic": "Politics-other",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "82",
+        "ooc_tweet": {
+            "text": "‘This is personal’: Reeves reveals her motivation and relishes moment in history ",
+            "images": [
+                "./media/batch7/82/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "The Guardian",
+                "post_url": "https://x.com/guardian/status/1850353406512185364",
+                "date_posted": "2024-10-27 01:46:44",
+                "topic": "Politics-other",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "83",
+        "ooc_tweet": {
+            "text": "NASA's Martian helicopter promises unprecedented views of the red planet ",
+            "images": [
+                "./media/batch7/83/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1875698300961112065",
+                "date_posted": "2025-01-05 00:18:18",
+                "topic": "Science",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "84",
+        "ooc_tweet": {
+            "text": "Bird flu patient had virus mutations, sparking concern about human spread ",
+            "images": [
+                "./media/batch7/84/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1873823798195089517",
+                "date_posted": "2024-12-30 20:09:42",
+                "topic": "Science",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "85",
+        "ooc_tweet": {
+            "text": "Bird flu uptick in US has CDC on alert for pandemic 'red flags': report ",
+            "images": [
+                "./media/batch7/85/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1874088175838101821",
+                "date_posted": "2024-12-31 13:40:14",
+                "topic": "Science",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "86",
+        "ooc_tweet": {
+            "text": "Cooking oil linked to colon cancer in early study, tied to inflammation ",
+            "images": [
+                "./media/batch7/86/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1867710871142617204",
+                "date_posted": "2024-12-13 23:19:06",
+                "topic": "Science",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "87",
+        "ooc_tweet": {
+            "text": "US prepares to deorbit International Space Station amid China competition ",
+            "images": [
+                "./media/batch7/87/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1874255681659834672",
+                "date_posted": "2025-01-01 00:45:51",
+                "topic": "Science",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "88",
+        "ooc_tweet": {
+            "text": "Chlamydia could make koalas extinct. Can a vaccine save them in time? ",
+            "images": [
+                "./media/batch7/88/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1873400064070004867",
+                "date_posted": "2024-12-29 16:05:56",
+                "topic": "Science",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "89",
+        "ooc_tweet": {
+            "text": "A partial eclipse is now visible in Mexico. Watch and follow live updates as the celestial event also crosses the United States and Canada. ",
+            "images": [
+                "./media/batch7/89/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "CNN",
+                "post_url": "https://x.com/CNN/status/1777383068782743683",
+                "date_posted": "2024-04-08 17:08:40",
+                "topic": "Science",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "90",
+        "ooc_tweet": {
+            "text": "30 years ago Tomorrow's World predicted 2025 - how did it do? ",
+            "images": [
+                "./media/batch7/90/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1874340239671439596",
+                "date_posted": "2025-01-01 06:21:51",
+                "topic": "Science",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "91",
+        "ooc_tweet": {
+            "text": "Drone experts rule out US government experiment, unsure of other New Jersey drone phenomenon theories ",
+            "images": [
+                "./media/batch7/91/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1867670177761931742",
+                "date_posted": "2024-12-13 20:37:24",
+                "topic": "Science",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "92",
+        "ooc_tweet": {
+            "text": "Apple urged to axe AI feature after false headline ",
+            "images": [
+                "./media/batch7/92/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1869721927796822379",
+                "date_posted": "2024-12-19 12:30:19",
+                "topic": "Science",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "93",
+        "ooc_tweet": {
+            "text": "The FDA has approved updated Covid-19 vaccines from Moderna and Pfizer/BioNTech as a summer wave of the coronavirus spreads through the US ",
+            "images": [
+                "./media/batch7/93/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "CNN",
+                "post_url": "https://x.com/CNN/status/1826676171204952571",
+                "date_posted": "2024-08-22 17:41:51",
+                "topic": "Science",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "94",
+        "ooc_tweet": {
+            "text": "Disrupted sleep, plus nightmares could be linked to autoimmune diseases, experts say ",
+            "images": [
+                "./media/batch7/94/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1793360964554826173",
+                "date_posted": "2024-05-22 19:19:07",
+                "topic": "Science",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "95",
+        "ooc_tweet": {
+            "text": "China unveils its first full-size electric running humanoid robot ",
+            "images": [
+                "./media/batch7/95/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1793277943453487530",
+                "date_posted": "2024-05-22 13:49:13",
+                "topic": "Science",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "96",
+        "ooc_tweet": {
+            "text": "Bird flu causes deaths of cats and zoo animals as virus spreads in US ",
+            "images": [
+                "./media/batch7/96/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1868070367660585161",
+                "date_posted": "2024-12-14 23:07:37",
+                "topic": "Science",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "97",
+        "ooc_tweet": {
+            "text": "SpaceX's Polaris Dawn crew, made up of four civilians, begins historic commercial spacewalk attempt ",
+            "images": [
+                "./media/batch7/97/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "CNN",
+                "post_url": "https://x.com/CNN/status/1834175913866502275",
+                "date_posted": "2024-09-12 10:23:09",
+                "topic": "Science",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "98",
+        "ooc_tweet": {
+            "text": "Alcohol linked to cancer risk in US surgeon general's new advisory ",
+            "images": [
+                "./media/batch7/98/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1875185581031841809",
+                "date_posted": "2025-01-03 14:20:56",
+                "topic": "Science",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "99",
+        "ooc_tweet": {
+            "text": "AI-powered robot sinks seemingly impossible basketball hoops ",
+            "images": [
+                "./media/batch7/99/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News AI",
+                "post_url": "https://x.com/FoxNewsAI/status/1872631758698565672",
+                "date_posted": "2024-12-27 13:12:57",
+                "topic": "Science",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "100",
+        "ooc_tweet": {
+            "text": "Amphibious mouse among 27 new species discovered in Peru ",
+            "images": [
+                "./media/batch7/100/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1870102801033883881",
+                "date_posted": "2024-12-20 13:43:47",
+                "topic": "Science",
+                "label": true
+            }
+        }
+    }
+]

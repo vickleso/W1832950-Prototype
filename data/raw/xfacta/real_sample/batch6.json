@@ -1,0 +1,1602 @@
+[
+    {
+        "tweet_id": "1",
+        "ooc_tweet": {
+            "text": "Opinion | The seeds of today’s Middle East strife were planted in Beirut ",
+            "images": [
+                "./media/batch6/1/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1841442794323239098",
+                "date_posted": "2024-10-02 11:39:09",
+                "topic": "Politics-Warfare-Middle-East-Conflict",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "2",
+        "ooc_tweet": {
+            "text": "News Analysis: The cease-fire in Lebanon was the easy part. The obstacles to a broader peace in the Middle East are formidable, and any regional realignment is likely to fall to President-elect Trump, our correspondent writes. ",
+            "images": [
+                "./media/batch6/2/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "The New York Times",
+                "post_url": "https://x.com/nytimes/status/1862447681995485634",
+                "date_posted": "2024-11-29 10:45:04",
+                "topic": "Politics-Warfare-Middle-East-Conflict",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "3",
+        "ooc_tweet": {
+            "text": "Trump will give Israel ‘blank check’ which may mean all-out war with Iran, says ex-CIA chief ",
+            "images": [
+                "./media/batch6/3/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "The Guardian",
+                "post_url": "https://x.com/guardian/status/1854700777136164913",
+                "date_posted": "2024-11-08 01:41:38",
+                "topic": "Politics-Warfare-Middle-East-Conflict",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "4",
+        "ooc_tweet": {
+            "text": "Israel braces for another Iranian attack after threats from leaders in Tehran ",
+            "images": [
+                "./media/batch6/4/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "The Guardian",
+                "post_url": "https://x.com/guardian/status/1853656530253463832",
+                "date_posted": "2024-11-05 04:32:10",
+                "topic": "Politics-Warfare-Middle-East-Conflict",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "5",
+        "ooc_tweet": {
+            "text": "Middle East crisis live: Leaks from Netanyahu’s office may have compromised peace deal, Israeli court finds – as it happened ",
+            "images": [
+                "./media/batch6/5/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "The Guardian",
+                "post_url": "https://x.com/guardian/status/1853580041667448885",
+                "date_posted": "2024-11-04 23:28:14",
+                "topic": "Politics-Warfare-Middle-East-Conflict",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "6",
+        "ooc_tweet": {
+            "text": "Biden and Netanyahu speak as Gallant warns of ‘deadly’ surprise attack on Iran ",
+            "images": [
+                "./media/batch6/6/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "The Guardian",
+                "post_url": "https://x.com/guardian/status/1844153171901354300",
+                "date_posted": "2024-10-09 23:09:13",
+                "topic": "Politics-Warfare-Middle-East-Conflict",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "7",
+        "ooc_tweet": {
+            "text": "Syria mass graves: Grim task of searching and naming the dead ",
+            "images": [
+                "./media/batch6/7/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1869135245263380652",
+                "date_posted": "2024-12-17 21:39:03",
+                "topic": "Politics-Warfare-Middle-East-Conflict",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "8",
+        "ooc_tweet": {
+            "text": "Israel has begun retaliatory strikes on Iran following an attack from Tehran earlier this month, a source says ",
+            "images": [
+                "./media/batch6/8/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "CNN",
+                "post_url": "https://x.com/CNN/status/1849957128443707715",
+                "date_posted": "2024-10-25 23:32:04",
+                "topic": "Politics-Warfare-Middle-East-Conflict",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "9",
+        "ooc_tweet": {
+            "text": "Israel eyes Iran nuke sites amid reports Trump mulls moves to block Tehran atomic program ",
+            "images": [
+                "./media/batch6/9/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1867641124535324972",
+                "date_posted": "2024-12-13 18:41:57",
+                "topic": "Politics-Warfare-Middle-East-Conflict",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "10",
+        "ooc_tweet": {
+            "text": "US, Turkey and Arab officials back peaceful transition in Syria ",
+            "images": [
+                "./media/batch6/10/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1868020536724406525",
+                "date_posted": "2024-12-14 19:49:36",
+                "topic": "Politics-Warfare-Middle-East-Conflict",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "11",
+        "ooc_tweet": {
+            "text": "Obama State Dept blocked FBI from arresting supporters of Iran nuclear program in US: Emails ",
+            "images": [
+                "./media/batch6/11/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1793358692999422086",
+                "date_posted": "2024-05-22 19:10:06",
+                "topic": "Politics-Warfare-Middle-East-Conflict",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "12",
+        "ooc_tweet": {
+            "text": "Inside the abandoned homes of Assad's ruthless enforcers ",
+            "images": [
+                "./media/batch6/12/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1870440575406682596",
+                "date_posted": "2024-12-21 12:05:58",
+                "topic": "Politics-Warfare-Middle-East-Conflict",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "13",
+        "ooc_tweet": {
+            "text": "Houthis vow to continue attacking Israel despite strikes on Yemen ",
+            "images": [
+                "./media/batch6/13/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1872935436261212545",
+                "date_posted": "2024-12-28 09:19:40",
+                "topic": "Politics-Warfare-Middle-East-Conflict",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "14",
+        "ooc_tweet": {
+            "text": "UK in 'diplomatic contact' with Syrian rebels, says Lammy ",
+            "images": [
+                "./media/batch6/14/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1868340850234696022",
+                "date_posted": "2024-12-15 17:02:25",
+                "topic": "Politics-Warfare-Middle-East-Conflict",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "15",
+        "ooc_tweet": {
+            "text": "The Defense Department identifies the three US soldiers killed in an attack in Jordan ",
+            "images": [
+                "./media/batch6/15/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "CNN",
+                "post_url": "https://x.com/CNN/status/1752060147940082067",
+                "date_posted": "2024-01-29 20:04:25",
+                "topic": "Politics-Warfare-Middle-East-Conflict",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "16",
+        "ooc_tweet": {
+            "text": "Watch: BBC speaks to Syrian rebel leader Ahmed al-Sharaa ",
+            "images": [
+                "./media/batch6/16/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1869514187400958421",
+                "date_posted": "2024-12-18 22:44:50",
+                "topic": "Politics-Warfare-Middle-East-Conflict",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "17",
+        "ooc_tweet": {
+            "text": "Senior US officials currently believe that an attack by Iran targeting Israeli or American assets in the region is \"inevitable\" after Monday's Israeli strike in Damascus that killed top Iranian commanders, a US official said. Read more: ",
+            "images": [
+                "./media/batch6/17/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "CNN",
+                "post_url": "https://x.com/CNN/status/1776363855767085425",
+                "date_posted": "2024-04-05 21:38:41",
+                "topic": "Politics-Warfare-Middle-East-Conflict",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "18",
+        "ooc_tweet": {
+            "text": "UK special forces face possible Syria war crimes charges ",
+            "images": [
+                "./media/batch6/18/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1874176259627827353",
+                "date_posted": "2024-12-31 19:30:15",
+                "topic": "Politics-Warfare-Middle-East-Conflict",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "19",
+        "ooc_tweet": {
+            "text": "Turkey seeks to purge pro-US Kurdish force that helped defeat Islamic State in Syria ",
+            "images": [
+                "./media/batch6/19/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1867784107482132496",
+                "date_posted": "2024-12-14 04:10:07",
+                "topic": "Politics-Warfare-Middle-East-Conflict",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "20",
+        "ooc_tweet": {
+            "text": "'Tears of joy' - Sudan capital gets first aid convoy since war began ",
+            "images": [
+                "./media/batch6/20/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1872597856948769196",
+                "date_posted": "2024-12-27 10:58:14",
+                "topic": "Politics-Warfare-Middle-East-Conflict",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "21",
+        "ooc_tweet": {
+            "text": "Israel plans to expand Golan settlements after fall of Assad ",
+            "images": [
+                "./media/batch6/21/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1868332752216395990",
+                "date_posted": "2024-12-15 16:30:14",
+                "topic": "Politics-Warfare-Middle-East-Conflict",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "22",
+        "ooc_tweet": {
+            "text": "American freed from Syrian prison after Assad's overthrow taken out of country by US military ",
+            "images": [
+                "./media/batch6/22/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1867791497447272566",
+                "date_posted": "2024-12-14 04:39:29",
+                "topic": "Politics-Warfare-Middle-East-Conflict",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "23",
+        "ooc_tweet": {
+            "text": "Syrian army withdraws from strategic city of Hama, another major gain for the rebel coalition that captured Aleppo last week\n",
+            "images": [
+                "./media/batch6/23/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "CNN",
+                "post_url": "https://x.com/CNN/status/1864652312645435448",
+                "date_posted": "2024-12-05 12:45:29",
+                "topic": "Politics-Warfare-Middle-East-Conflict",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "24",
+        "ooc_tweet": {
+            "text": "Middle East crisis live: ‘After we attack Iran, everyone will understand your preparations,’ Israeli defence minister tells troops ",
+            "images": [
+                "./media/batch6/24/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "The Guardian",
+                "post_url": "https://x.com/guardian/status/1849096328044798213",
+                "date_posted": "2024-10-23 14:31:33",
+                "topic": "Politics-Warfare-Middle-East-Conflict",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "25",
+        "ooc_tweet": {
+            "text": "Israel said Tuesday that it had destroyed Syria’s navy in overnight airstrikes, as it continued to pound targets in Syria despite warnings that its operations there could ignite new conflict and jeopardize the transition of power to an interim government. ",
+            "images": [
+                "./media/batch6/25/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "The New York Times",
+                "post_url": "https://x.com/nytimes/status/1866539653043470513",
+                "date_posted": "2024-12-10 17:45:06",
+                "topic": "Politics-Warfare-Middle-East-Conflict",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "26",
+        "ooc_tweet": {
+            "text": "Jeremy Bowen: Syria's new ruler is politically astute - but can he keep his promises? ",
+            "images": [
+                "./media/batch6/26/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1869814367895585065",
+                "date_posted": "2024-12-19 18:37:39",
+                "topic": "Politics-Warfare-Middle-East-Conflict",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "27",
+        "ooc_tweet": {
+            "text": "'Assad's fall opened years of my husband's past I knew nothing about' ",
+            "images": [
+                "./media/batch6/27/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1872810734029095253",
+                "date_posted": "2024-12-28 01:04:08",
+                "topic": "Politics-Warfare-Middle-East-Conflict",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "28",
+        "ooc_tweet": {
+            "text": "Assad loyalists kill 14 in clash with Syria's new ruling forces ",
+            "images": [
+                "./media/batch6/28/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1872246242568294786",
+                "date_posted": "2024-12-26 11:41:03",
+                "topic": "Politics-Warfare-Middle-East-Conflict",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "29",
+        "ooc_tweet": {
+            "text": "Jake Sullivan, Biden discussed possibility of hitting Iran nuclear program: report ",
+            "images": [
+                "./media/batch6/29/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1875410872073408565",
+                "date_posted": "2025-01-04 05:16:10",
+                "topic": "Politics-Warfare-Middle-East-Conflict",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "30",
+        "ooc_tweet": {
+            "text": "National Guard soldier dies days after Christmas in 'non-combat' related incident in Iraq ",
+            "images": [
+                "./media/batch6/30/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1873888111538618707",
+                "date_posted": "2024-12-31 00:25:15",
+                "topic": "Politics-Warfare-Middle-East-Conflict",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "31",
+        "ooc_tweet": {
+            "text": "Syria's rebel leaders say they've broken with their jihadist past - can they be trusted? ",
+            "images": [
+                "./media/batch6/31/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1869920797948547090",
+                "date_posted": "2024-12-20 01:40:34",
+                "topic": "Politics-Warfare-Middle-East-Conflict",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "32",
+        "ooc_tweet": {
+            "text": "'We have to be more bold': Syria's musicians await future under new Islamist leaders ",
+            "images": [
+                "./media/batch6/32/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1870362257269375446",
+                "date_posted": "2024-12-21 06:54:46",
+                "topic": "Politics-Warfare-Middle-East-Conflict",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "33",
+        "ooc_tweet": {
+            "text": "Fear of a reckoning simmers in Assad's Alawite heartland ",
+            "images": [
+                "./media/batch6/33/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1868722327195672951",
+                "date_posted": "2024-12-16 18:18:16",
+                "topic": "Politics-Warfare-Middle-East-Conflict",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "34",
+        "ooc_tweet": {
+            "text": "Opinion | Iran beware: US moves these 6 top of the line strike options into position in the Middle East ",
+            "images": [
+                "./media/batch6/34/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1823220422621421588",
+                "date_posted": "2024-08-13 04:49:57",
+                "topic": "Politics-Warfare-Middle-East-Conflict",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "35",
+        "ooc_tweet": {
+            "text": "Congress grants $380 million in border security funding to Middle Eastern countries ",
+            "images": [
+                "./media/batch6/35/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1774793386005852354",
+                "date_posted": "2024-04-01 13:38:11",
+                "topic": "Politics-Warfare-Middle-East-Conflict",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "36",
+        "ooc_tweet": {
+            "text": "Middle East live: More than 100 UN member states sign letter of support for UN chief after Israel declares him ‘persona non grata’ ",
+            "images": [
+                "./media/batch6/36/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "The Guardian",
+                "post_url": "https://x.com/guardian/status/1845244017983868991",
+                "date_posted": "2024-10-12 23:23:51",
+                "topic": "Politics-Warfare-Middle-East-Conflict",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "37",
+        "ooc_tweet": {
+            "text": "Waves of air strikes hit cities in Yemen - reports ",
+            "images": [
+                "./media/batch6/37/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1872291575549640757",
+                "date_posted": "2024-12-26 14:41:11",
+                "topic": "Politics-Warfare-Middle-East-Conflict",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "38",
+        "ooc_tweet": {
+            "text": "Protests erupt in Syria over the burning of a Christmas tree, prompting calls for the new Islamist rulers to protect minorities ",
+            "images": [
+                "./media/batch6/38/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC Breaking News",
+                "post_url": "https://x.com/BBCBreaking/status/1871496349251698972",
+                "date_posted": "2024-12-24 10:01:15",
+                "topic": "Politics-Warfare-Middle-East-Conflict",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "39",
+        "ooc_tweet": {
+            "text": "Rebels appear to have entered the Syrian capital of Damascus, a resident says, as the Assad regime's defenses collapse. ",
+            "images": [
+                "./media/batch6/39/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "CNN",
+                "post_url": "https://x.com/CNN/status/1865557921452495065",
+                "date_posted": "2024-12-08 00:44:03",
+                "topic": "Politics-Warfare-Middle-East-Conflict",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "40",
+        "ooc_tweet": {
+            "text": "How a commander's defection led to a massacre in Sudan ",
+            "images": [
+                "./media/batch6/40/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1870995792552436057",
+                "date_posted": "2024-12-23 00:52:13",
+                "topic": "Politics-Warfare-Middle-East-Conflict",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "41",
+        "ooc_tweet": {
+            "text": "Iran has accused Israel of killing a top commander in its Revolutionary Guard in an airstrike on its consulate building in Syria ",
+            "images": [
+                "./media/batch6/41/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "CNN",
+                "post_url": "https://x.com/CNN/status/1774851758491123911",
+                "date_posted": "2024-04-01 17:30:09",
+                "topic": "Politics-Warfare-Middle-East-Conflict",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "42",
+        "ooc_tweet": {
+            "text": "US officials in 'direct contact' with victorious Syria rebels ",
+            "images": [
+                "./media/batch6/42/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1868655401509540138",
+                "date_posted": "2024-12-16 13:52:20",
+                "topic": "Politics-Warfare-Middle-East-Conflict",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "43",
+        "ooc_tweet": {
+            "text": "UK in 'diplomatic contact' with Syrian rebels, says Lammy ",
+            "images": [
+                "./media/batch6/43/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1868340850234696022",
+                "date_posted": "2024-12-15 17:02:25",
+                "topic": "Politics-Warfare-Middle-East-Conflict",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "44",
+        "ooc_tweet": {
+            "text": "Middle East crisis live: US military strikes Houthi targets in Yemen – Pentagon ",
+            "images": [
+                "./media/batch6/44/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "The Guardian",
+                "post_url": "https://x.com/guardian/status/1846756078119203278",
+                "date_posted": "2024-10-17 03:32:14",
+                "topic": "Politics-Warfare-Middle-East-Conflict",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "45",
+        "ooc_tweet": {
+            "text": "Israel strikes military targets in Iran in reprisal attack ",
+            "images": [
+                "./media/batch6/45/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "The Guardian",
+                "post_url": "https://x.com/guardian/status/1850057851441447151",
+                "date_posted": "2024-10-26 06:12:18",
+                "topic": "Politics-Warfare-Middle-East-Conflict",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "46",
+        "ooc_tweet": {
+            "text": "Garage CCTV shows moment earthquake hits Vanuatu ",
+            "images": [
+                "./media/batch6/46/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1869073265907339619",
+                "date_posted": "2024-12-17 17:32:46",
+                "topic": "Nature",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "47",
+        "ooc_tweet": {
+            "text": "Hurricane Helene is now forecast to be a catastrophic Category 4 by the time it makes landfall in Florida. Storm surge could reach 20 feet. ",
+            "images": [
+                "./media/batch6/47/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "CNN",
+                "post_url": "https://x.com/CNN/status/1839055423434903887",
+                "date_posted": "2024-09-25 21:32:35",
+                "topic": "Nature",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "48",
+        "ooc_tweet": {
+            "text": "Several hundred feared dead after Mayotte cyclone ",
+            "images": [
+                "./media/batch6/48/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1868394967888007344",
+                "date_posted": "2024-12-15 20:37:28",
+                "topic": "Nature",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "49",
+        "ooc_tweet": {
+            "text": "New Year's Eve storm could make Northern Lights visible in US as Americans ring in 2025 ",
+            "images": [
+                "./media/batch6/49/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1874214403819630799",
+                "date_posted": "2024-12-31 22:01:49",
+                "topic": "Nature",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "50",
+        "ooc_tweet": {
+            "text": "Malibu fires drove Jane Seymour from her home with barely more than the clothes on her back ",
+            "images": [
+                "./media/batch6/50/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1867759936249176484",
+                "date_posted": "2024-12-14 02:34:04",
+                "topic": "Nature",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "51",
+        "ooc_tweet": {
+            "text": "Tropical Storm Sara has formed and is closing in on Central America where it is set to unleash disastrous flooding rain with \"life-threatening\" impact ",
+            "images": [
+                "./media/batch6/51/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "CNN",
+                "post_url": "https://x.com/CNN/status/1857121668814012774",
+                "date_posted": "2024-11-14 18:01:24",
+                "topic": "Nature",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "52",
+        "ooc_tweet": {
+            "text": "Bird flu outbreak expands, more Michigan poultry facilities exposed to virus ",
+            "images": [
+                "./media/batch6/52/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1873878678221844869",
+                "date_posted": "2024-12-30 23:47:46",
+                "topic": "Nature",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "53",
+        "ooc_tweet": {
+            "text": "1,300 Florida gas stations have run out of fuel. Hurricane Milton could cause even more trouble. ",
+            "images": [
+                "./media/batch6/53/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "CNN",
+                "post_url": "https://x.com/CNN/status/1843748878887063951",
+                "date_posted": "2024-10-08 20:22:42",
+                "topic": "Nature",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "54",
+        "ooc_tweet": {
+            "text": "Francine is now a Category 1 hurricane with 75 mph winds and is forecast to keep strengthening ahead of landfall along the Louisiana coast Wednesday ",
+            "images": [
+                "./media/batch6/54/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "CNN",
+                "post_url": "https://x.com/CNN/status/1833653147832549576",
+                "date_posted": "2024-09-10 23:45:52",
+                "topic": "Nature",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "55",
+        "ooc_tweet": {
+            "text": "Illegal trade booms in South Africa's 'super-strange looking' plants ",
+            "images": [
+                "./media/batch6/55/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1872196410264756352",
+                "date_posted": "2024-12-26 08:23:02",
+                "topic": "Nature",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "56",
+        "ooc_tweet": {
+            "text": "Dozens have been killed and many others are missing after a dam burst in southern Kenya, sweeping away homes and vehicles as the country grapples with weeks of heavy rains and devastating flash floods. ",
+            "images": [
+                "./media/batch6/56/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "CNN",
+                "post_url": "https://x.com/CNN/status/1784882103911379102",
+                "date_posted": "2024-04-29 09:47:09",
+                "topic": "Nature",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "57",
+        "ooc_tweet": {
+            "text": "Several hundred feared dead after Mayotte cyclone ",
+            "images": [
+                "./media/batch6/57/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1868394967888007344",
+                "date_posted": "2024-12-15 20:37:28",
+                "topic": "Nature",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "58",
+        "ooc_tweet": {
+            "text": "JUST IN: Tropical Storm Rafael has formed in the Caribbean and could threaten the US Gulf Coast by this weekend ",
+            "images": [
+                "./media/batch6/58/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "CNN",
+                "post_url": "https://x.com/CNN/status/1853543632634020201",
+                "date_posted": "2024-11-04 21:03:33",
+                "topic": "Nature",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "59",
+        "ooc_tweet": {
+            "text": "Watch: Snow-battered rescuers save three on Scottish hilltop ",
+            "images": [
+                "./media/batch6/59/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1875276696019927081",
+                "date_posted": "2025-01-03 20:22:59",
+                "topic": "Nature",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "60",
+        "ooc_tweet": {
+            "text": "Fog disrupts life and travel in northern India ",
+            "images": [
+                "./media/batch6/60/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1875078224348086576",
+                "date_posted": "2025-01-03 07:14:20",
+                "topic": "Nature",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "61",
+        "ooc_tweet": {
+            "text": "Ethiopia villagers flee volcanic activity 'in panic' ",
+            "images": [
+                "./media/batch6/61/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1875219836227158207",
+                "date_posted": "2025-01-03 16:37:03",
+                "topic": "Nature",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "62",
+        "ooc_tweet": {
+            "text": "Twelve dead from carbon monoxide poisoning at Georgia ski resort ",
+            "images": [
+                "./media/batch6/62/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1868572673942450194",
+                "date_posted": "2024-12-16 08:23:36",
+                "topic": "Nature",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "63",
+        "ooc_tweet": {
+            "text": "Dozens in Mozambique killed by 'intense' cyclone ",
+            "images": [
+                "./media/batch6/63/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1869021561010676172",
+                "date_posted": "2024-12-17 14:07:19",
+                "topic": "Nature",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "64",
+        "ooc_tweet": {
+            "text": "Strong 7.3 magnitude earthquake hits Vanuatu ",
+            "images": [
+                "./media/batch6/64/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1868882313569776075",
+                "date_posted": "2024-12-17 04:54:00",
+                "topic": "Nature",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "65",
+        "ooc_tweet": {
+            "text": "Exceptional natural disaster declared in Mayotte after cyclone ",
+            "images": [
+                "./media/batch6/65/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1869724882956653041",
+                "date_posted": "2024-12-19 12:42:04",
+                "topic": "Nature",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "66",
+        "ooc_tweet": {
+            "text": "'Surviving a tsunami has given me purpose in life' ",
+            "images": [
+                "./media/batch6/66/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1872366693730730260",
+                "date_posted": "2024-12-26 19:39:41",
+                "topic": "Nature",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "67",
+        "ooc_tweet": {
+            "text": "Australian towns evacuated over Christmas as fires rage ",
+            "images": [
+                "./media/batch6/67/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1871392538818437324",
+                "date_posted": "2024-12-24 03:08:44",
+                "topic": "Nature",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "68",
+        "ooc_tweet": {
+            "text": "Typhoon Kong-rey made landfall as Taiwan braces for its largest storm in nearly three decades. ",
+            "images": [
+                "./media/batch6/68/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "CNN",
+                "post_url": "https://x.com/CNN/status/1851911635125805370",
+                "date_posted": "2024-10-31 08:58:35",
+                "topic": "Nature",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "69",
+        "ooc_tweet": {
+            "text": "Did bird strike contribute to South Korea plane crash? What we know so far ",
+            "images": [
+                "./media/batch6/69/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1873380440767156482",
+                "date_posted": "2024-12-29 14:47:57",
+                "topic": "Nature",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "70",
+        "ooc_tweet": {
+            "text": "Flood warnings in place ahead of more heavy rain ",
+            "images": [
+                "./media/batch6/70/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1874446294023905460",
+                "date_posted": "2025-01-01 13:23:16",
+                "topic": "Nature",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "71",
+        "ooc_tweet": {
+            "text": "Bereaved whale spotted pushing another dead calf ",
+            "images": [
+                "./media/batch6/71/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1875067037761900996",
+                "date_posted": "2025-01-03 06:29:53",
+                "topic": "Nature",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "72",
+        "ooc_tweet": {
+            "text": "Polar vortex to bring freezing weather to US ",
+            "images": [
+                "./media/batch6/72/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1874800750041211140",
+                "date_posted": "2025-01-02 12:51:45",
+                "topic": "Nature",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "73",
+        "ooc_tweet": {
+            "text": "Ocean gives up hundreds of rare Lego treasures ",
+            "images": [
+                "./media/batch6/73/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1873362548495442115",
+                "date_posted": "2024-12-29 13:36:51",
+                "topic": "Nature",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "74",
+        "ooc_tweet": {
+            "text": "US faces deadly surf conditions and tornadoes during holidays ",
+            "images": [
+                "./media/batch6/74/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1872431509455417527",
+                "date_posted": "2024-12-26 23:57:14",
+                "topic": "Nature",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "75",
+        "ooc_tweet": {
+            "text": "Flight delays and cancellations continue at some UK airports, including Gatwick, after fog ",
+            "images": [
+                "./media/batch6/75/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC Breaking News",
+                "post_url": "https://x.com/BBCBreaking/status/1872923018474713169",
+                "date_posted": "2024-12-28 08:30:19",
+                "topic": "Nature",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "76",
+        "ooc_tweet": {
+            "text": "Twelve dead in Turkey ammunition factory blast ",
+            "images": [
+                "./media/batch6/76/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1871468326641164332",
+                "date_posted": "2024-12-24 08:09:53",
+                "topic": "Nature",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "77",
+        "ooc_tweet": {
+            "text": "Eight people killed in Serbia after a railway station roof collapses, according to the country's interior minister\n",
+            "images": [
+                "./media/batch6/77/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "CNN",
+                "post_url": "https://x.com/CNN/status/1852358760993341794",
+                "date_posted": "2024-11-01 14:35:18",
+                "topic": "Nature",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "78",
+        "ooc_tweet": {
+            "text": "SEE IT: Small plane crash in California leaves gaping hole in roof, pilot killed ",
+            "images": [
+                "./media/batch6/78/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1874987380052013535",
+                "date_posted": "2025-01-03 01:13:21",
+                "topic": "Nature",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "79",
+        "ooc_tweet": {
+            "text": "An earthquake with a preliminary magnitude of 7.0 occurred off the Northern California coast. A tsunami warning has been issued. ",
+            "images": [
+                "./media/batch6/79/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "CNN",
+                "post_url": "https://x.com/CNN/status/1864749848638947453",
+                "date_posted": "2024-12-05 19:13:03",
+                "topic": "Nature",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "80",
+        "ooc_tweet": {
+            "text": "Fourteen dead as Vanuatu searches for earthquake survivors ",
+            "images": [
+                "./media/batch6/80/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1869196152597348455",
+                "date_posted": "2024-12-18 01:41:05",
+                "topic": "Nature",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "81",
+        "ooc_tweet": {
+            "text": "Trouble in Arctic town as polar bears and people face warming world ",
+            "images": [
+                "./media/batch6/81/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1869277190673633649",
+                "date_posted": "2024-12-18 07:03:06",
+                "topic": "Nature",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "82",
+        "ooc_tweet": {
+            "text": "Rolling hills are now barren: BBC sees destruction in cyclone-hit Mayotte ",
+            "images": [
+                "./media/batch6/82/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1869722054452195766",
+                "date_posted": "2024-12-19 12:30:50",
+                "topic": "Nature",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "83",
+        "ooc_tweet": {
+            "text": "At least three people are dead, including an infant, after a tornado outbreak in Oklahoma overnight. The threat of severe storms continues today. ",
+            "images": [
+                "./media/batch6/83/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "CNN",
+                "post_url": "https://x.com/CNN/status/1784637455913591232",
+                "date_posted": "2024-04-28 17:35:01",
+                "topic": "Nature",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "84",
+        "ooc_tweet": {
+            "text": "At least seven people were killed Saturday after part of a ferry dock collapsed on Georgia’s Sapelo Island, The Associated Press reported, citing a spokesperson for the Georgia Department of Natural Resources.",
+            "images": [
+                "./media/batch6/84/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "CNN",
+                "post_url": "https://x.com/CNN/status/1847791068344881390",
+                "date_posted": "2024-10-20 00:04:55",
+                "topic": "Nature",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "85",
+        "ooc_tweet": {
+            "text": "Watch: Hawaii's Kilauea volcano sends jets of lava into the air ",
+            "images": [
+                "./media/batch6/85/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1871346838168637857",
+                "date_posted": "2024-12-24 00:07:08",
+                "topic": "Nature",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "86",
+        "ooc_tweet": {
+            "text": "For some riding out Hurricane Milton, \"the alternatives weren't too inviting.\" For others, another evacuation two weeks after Helene was simply too much. ",
+            "images": [
+                "./media/batch6/86/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "CNN",
+                "post_url": "https://x.com/CNN/status/1844104404468637774",
+                "date_posted": "2024-10-09 19:55:26",
+                "topic": "Nature",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "87",
+        "ooc_tweet": {
+            "text": "Two people have been rescued from the water after a Baltimore bridge collapse. The city's fire chief says it remains a search-and-rescue effort. ",
+            "images": [
+                "./media/batch6/87/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "CNN",
+                "post_url": "https://x.com/CNN/status/1772578368875016468",
+                "date_posted": "2024-03-26 10:56:30",
+                "topic": "Nature",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "88",
+        "ooc_tweet": {
+            "text": "At least 51 people are dead and 20 injured after a gas explosion in a coal mine in eastern Iran ",
+            "images": [
+                "./media/batch6/88/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "CNN",
+                "post_url": "https://x.com/CNN/status/1837797522019930148",
+                "date_posted": "2024-09-22 10:14:08",
+                "topic": "Nature",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "89",
+        "ooc_tweet": {
+            "text": "A CNN investigation reveals how deceptive political fundraisers have misled hundreds of elderly Americans into giving away millions of dollars ",
+            "images": [
+                "./media/batch6/89/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "CNN",
+                "post_url": "https://x.com/CNN/status/1848778040639181275",
+                "date_posted": "2024-10-22 17:26:48",
+                "topic": "Politics-other",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "90",
+        "ooc_tweet": {
+            "text": "The Speaker’s Lobby: The Hitchhiker’s Guide to Electing a House Speaker ",
+            "images": [
+                "./media/batch6/90/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1874648196879708371",
+                "date_posted": "2025-01-02 02:45:34",
+                "topic": "Politics-other",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "91",
+        "ooc_tweet": {
+            "text": "Voters to take to the polls in Irish general election ",
+            "images": [
+                "./media/batch6/91/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1862286377133498665",
+                "date_posted": "2024-11-29 00:04:06",
+                "topic": "Politics-other",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "92",
+        "ooc_tweet": {
+            "text": "Georgian police clear protesters challenging 'stolen' election ",
+            "images": [
+                "./media/batch6/92/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1858787354284060918",
+                "date_posted": "2024-11-19 08:20:14",
+                "topic": "Politics-other",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "93",
+        "ooc_tweet": {
+            "text": "San Francisco mayor-elect promises worried resident that he'll clean up city, address homelessness crisis ",
+            "images": [
+                "./media/batch6/93/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1874852550433792338",
+                "date_posted": "2025-01-02 16:17:35",
+                "topic": "Politics-other",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "94",
+        "ooc_tweet": {
+            "text": "'Legal authority': Senate Dems demand Biden extend protections for illegal immigrants ahead of Trump admin ",
+            "images": [
+                "./media/batch6/94/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1867627384242872588",
+                "date_posted": "2024-12-13 17:47:21",
+                "topic": "Politics-other",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "95",
+        "ooc_tweet": {
+            "text": "A dawn standoff, a human wall and a failed arrest: S Korea enters uncharted territory ",
+            "images": [
+                "./media/batch6/95/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1875127872911769747",
+                "date_posted": "2025-01-03 10:31:37",
+                "topic": "Politics-other",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "96",
+        "ooc_tweet": {
+            "text": "South Korean President Yoon Suk Yeol, facing an impeachment vote, apologizes for declaring martial law in live TV address ",
+            "images": [
+                "./media/batch6/96/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "CNN",
+                "post_url": "https://x.com/CNN/status/1865205286530687250",
+                "date_posted": "2024-12-07 01:22:48",
+                "topic": "Politics-other",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "97",
+        "ooc_tweet": {
+            "text": "Biden blocks Nippon Steel from buying US Steel ",
+            "images": [
+                "./media/batch6/97/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1875170618858983913",
+                "date_posted": "2025-01-03 13:21:29",
+                "topic": "Politics-other",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "98",
+        "ooc_tweet": {
+            "text": "Who is Yoon Suk Yeol, South Korea's scandal-hit president? ",
+            "images": [
+                "./media/batch6/98/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1875088236361494701",
+                "date_posted": "2025-01-03 07:54:07",
+                "topic": "Politics-other",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "99",
+        "ooc_tweet": {
+            "text": "BBC finds evidence of Russian meddling in Moldova ",
+            "images": [
+                "./media/batch6/99/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1848330036572553264",
+                "date_posted": "2024-10-21 11:46:35",
+                "topic": "Politics-other",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "100",
+        "ooc_tweet": {
+            "text": "'Anger and frustration' on streets of Georgia after appointment of a new president ",
+            "images": [
+                "./media/batch6/100/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1868223724916277657",
+                "date_posted": "2024-12-15 09:17:00",
+                "topic": "Politics-other",
+                "label": true
+            }
+        }
+    }
+]

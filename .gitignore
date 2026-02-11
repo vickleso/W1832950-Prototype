@@ -1,0 +1,18 @@
+# --- Python / FastAPI backend ---
+__pycache__/
+*.pyc
+*.log
+.pytest_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+dist/
+build/ 
+
+# --- VS Code ---
+.vscode/
+
+# --- Other files ---
+models/Qwen3-VL-4B-Thinking/
+
+

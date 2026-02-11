@@ -1,0 +1,1602 @@
+[
+    {
+        "tweet_id": "1",
+        "ooc_tweet": {
+            "text": "US stocks rocketed higher Wednesday following a decisive and consequential victory for former President Donald Trump in Tuesday’s US presidential election. ",
+            "images": [
+                "./media/batch2/1/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "CNN",
+                "post_url": "https://x.com/CNN/status/1854276709480124649",
+                "date_posted": "2024-11-06 21:36:32",
+                "topic": "Politics-United-States-Presidential-Election",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "2",
+        "ooc_tweet": {
+            "text": "Opinion | DAVID MARCUS: MAGA’s H-1B ‘civil war’ is exactly how politics is supposed to work ",
+            "images": [
+                "./media/batch2/2/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1873395664429744570",
+                "date_posted": "2024-12-29 15:48:27",
+                "topic": "Politics-United-States-Presidential-Election",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "3",
+        "ooc_tweet": {
+            "text": "Scott Jennings clashes with CNN host over criticism of Musk’s foreign dealings ",
+            "images": [
+                "./media/batch2/3/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1874193686608662894",
+                "date_posted": "2024-12-31 20:39:30",
+                "topic": "Politics-United-States-Presidential-Election",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "4",
+        "ooc_tweet": {
+            "text": "Kathy Griffin tells fans to see her before she's placed in Trump's 'internment camps' ",
+            "images": [
+                "./media/batch2/4/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1874623600323412023",
+                "date_posted": "2025-01-02 01:07:49",
+                "topic": "Politics-United-States-Presidential-Election",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "5",
+        "ooc_tweet": {
+            "text": "Putin hails 'courageous' Trump after election win ",
+            "images": [
+                "./media/batch2/5/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1854652230709727525",
+                "date_posted": "2024-11-07 22:28:44",
+                "topic": "Politics-United-States-Presidential-Election",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "6",
+        "ooc_tweet": {
+            "text": "Biden tries to clarify 'garbage' comment after fresh US election row ",
+            "images": [
+                "./media/batch2/6/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1851594196337004998",
+                "date_posted": "2024-10-30 11:57:12",
+                "topic": "Politics-United-States-Presidential-Election",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "7",
+        "ooc_tweet": {
+            "text": "Trump seizes on drone controversy to mock Chris Christie ",
+            "images": [
+                "./media/batch2/7/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1868064934526910721",
+                "date_posted": "2024-12-14 22:46:02",
+                "topic": "Politics-United-States-Presidential-Election",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "8",
+        "ooc_tweet": {
+            "text": "Mark Chavez, one of the two doctors charged in connection with “Friends” star Matthew Perry’s death, has pleaded guilty to one count of conspiracy to distribute ketamine as part of a plea agreement ",
+            "images": [
+                "./media/batch2/8/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "CNN",
+                "post_url": "https://x.com/CNN/status/1841581966413402452",
+                "date_posted": "2024-10-02 20:52:10",
+                "topic": "Entertainment",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "9",
+        "ooc_tweet": {
+            "text": "The best restaurants in the US for New Year's Eve, according to AI ",
+            "images": [
+                "./media/batch2/9/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News AI",
+                "post_url": "https://x.com/FoxNewsAI/status/1872602614904291358",
+                "date_posted": "2024-12-27 11:17:09",
+                "topic": "Entertainment",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "10",
+        "ooc_tweet": {
+            "text": "Top New Year's Eve cities to celebrate in US: Did yours make the list? ",
+            "images": [
+                "./media/batch2/10/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1874156003689730055",
+                "date_posted": "2024-12-31 18:09:46",
+                "topic": "Entertainment",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "11",
+        "ooc_tweet": {
+            "text": "Chess grand master Magnus Carlsen sports jeans in return to championship following dress code controversy ",
+            "images": [
+                "./media/batch2/11/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1874144077849002102",
+                "date_posted": "2024-12-31 17:22:22",
+                "topic": "Entertainment",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "12",
+        "ooc_tweet": {
+            "text": "Emicida, a rapper on a mission to recover Brazil's black history ",
+            "images": [
+                "./media/batch2/12/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "The Guardian",
+                "post_url": "https://x.com/guardian/status/1351035206975811590",
+                "date_posted": "2021-01-18 05:14:29",
+                "topic": "Entertainment",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "13",
+        "ooc_tweet": {
+            "text": "Meghan Markle returns to social media after five-year hiatus ",
+            "images": [
+                "./media/batch2/13/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1874585710226726970",
+                "date_posted": "2025-01-01 22:37:16",
+                "topic": "Entertainment",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "14",
+        "ooc_tweet": {
+            "text": "‘Seinfeld,’ ‘Ace Ventura’ actor John Capodice dead at 83 ",
+            "images": [
+                "./media/batch2/14/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1875198376284766588",
+                "date_posted": "2025-01-03 15:11:47",
+                "topic": "Entertainment",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "15",
+        "ooc_tweet": {
+            "text": "HGTV star Christina Hall's tense fight with estranged husband Josh caught on camera ",
+            "images": [
+                "./media/batch2/15/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1875213036866167157",
+                "date_posted": "2025-01-03 16:10:02",
+                "topic": "Entertainment",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "16",
+        "ooc_tweet": {
+            "text": "New York Times fires back at actor Justin Baldoni on heels of $250 million libel lawsuit ",
+            "images": [
+                "./media/batch2/16/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1875237462684860795",
+                "date_posted": "2025-01-03 17:47:05",
+                "topic": "Entertainment",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "17",
+        "ooc_tweet": {
+            "text": "Dolly Parton says she's 'ready for a diet' after eating everything she wants for the holidays ",
+            "images": [
+                "./media/batch2/17/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1874941705255809350",
+                "date_posted": "2025-01-02 22:11:51",
+                "topic": "Entertainment",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "18",
+        "ooc_tweet": {
+            "text": "Brad Pitt, Angelina Jolie reach divorce settlement after bitter 8-year legal battle ",
+            "images": [
+                "./media/batch2/18/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1874173031016173666",
+                "date_posted": "2024-12-31 19:17:25",
+                "topic": "Entertainment",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "19",
+        "ooc_tweet": {
+            "text": "Jelly Roll, Jessica Simpson, Kathy Bates showed off dramatic 100-pound weight loss in 2024 ",
+            "images": [
+                "./media/batch2/19/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1874382481413062865",
+                "date_posted": "2025-01-01 09:09:42",
+                "topic": "Entertainment",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "20",
+        "ooc_tweet": {
+            "text": "Comedian roasts CNN over Don Lemon firing when offered a New Year's Eve shot ",
+            "images": [
+                "./media/batch2/20/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1874446091636072781",
+                "date_posted": "2025-01-01 13:22:28",
+                "topic": "Entertainment",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "21",
+        "ooc_tweet": {
+            "text": "David Letterman says showbiz made him a 'worse person,' found humanity living quiet life in Indiana ",
+            "images": [
+                "./media/batch2/21/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1874028786011750523",
+                "date_posted": "2024-12-31 09:44:15",
+                "topic": "Entertainment",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "22",
+        "ooc_tweet": {
+            "text": "Cara Delevingne plays Elton John in music video ",
+            "images": [
+                "./media/batch2/22/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1869582944207036583",
+                "date_posted": "2024-12-19 03:18:03",
+                "topic": "Entertainment",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "23",
+        "ooc_tweet": {
+            "text": "Paramount Global ousts chief Bob Bakish as the media conglomerate's future hangs in the balance. ",
+            "images": [
+                "./media/batch2/23/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "CNN",
+                "post_url": "https://x.com/CNN/status/1785041054606966995",
+                "date_posted": "2024-04-29 20:18:46",
+                "topic": "Entertainment",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "24",
+        "ooc_tweet": {
+            "text": "Winter pot roast recipe is big game dish with 'tender' taste ",
+            "images": [
+                "./media/batch2/24/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1867879701810753654",
+                "date_posted": "2024-12-14 10:29:59",
+                "topic": "Entertainment",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "25",
+        "ooc_tweet": {
+            "text": "Sabrina Carpenter, 'America's Got Talent' winner Richard Goodall among breakout music stars of 2024 ",
+            "images": [
+                "./media/batch2/25/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1873365514497491244",
+                "date_posted": "2024-12-29 13:48:38",
+                "topic": "Entertainment",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "26",
+        "ooc_tweet": {
+            "text": "A photograph of a beaming Princess Charlotte has been released by the Prince and Princess of Wales to mark her ninth birthday  ",
+            "images": [
+                "./media/batch2/26/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "CNN",
+                "post_url": "https://x.com/CNN/status/1785966413145882691",
+                "date_posted": "2024-05-02 09:35:49",
+                "topic": "Entertainment",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "27",
+        "ooc_tweet": {
+            "text": "Magnus Carlsen quits chess championship after being told to change jeans ",
+            "images": [
+                "./media/batch2/27/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1872982494150045996",
+                "date_posted": "2024-12-28 12:26:39",
+                "topic": "Entertainment",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "28",
+        "ooc_tweet": {
+            "text": "Meghan announces new Netflix lifestyle show ",
+            "images": [
+                "./media/batch2/28/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1874916069590045128",
+                "date_posted": "2025-01-02 20:29:59",
+                "topic": "Entertainment",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "29",
+        "ooc_tweet": {
+            "text": "Charles Dolan, TV pioneer who founded HBO and Cablevision, dies at 98 ",
+            "images": [
+                "./media/batch2/29/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1873420391990894993",
+                "date_posted": "2024-12-29 17:26:42",
+                "topic": "Entertainment",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "30",
+        "ooc_tweet": {
+            "text": "Morgan Wallen gets hit with underwear, Lainey Wilson’s bell-bottoms split: 2024’s wild on-stage mishaps ",
+            "images": [
+                "./media/batch2/30/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1873717734392898021",
+                "date_posted": "2024-12-30 13:08:14",
+                "topic": "Entertainment",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "31",
+        "ooc_tweet": {
+            "text": "Opinion | 5 major celebrity trials that dominated media in 2024 ",
+            "images": [
+                "./media/batch2/31/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1873674704310948209",
+                "date_posted": "2024-12-30 10:17:15",
+                "topic": "Entertainment",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "32",
+        "ooc_tweet": {
+            "text": "Keanu Reeves' stolen luxury watches recovered in Chile: report ",
+            "images": [
+                "./media/batch2/32/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1873476074052386921",
+                "date_posted": "2024-12-29 21:07:58",
+                "topic": "Entertainment",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "33",
+        "ooc_tweet": {
+            "text": "Elton John calls marijuana legalization 'one of the greatest mistakes of all time' after addiction struggles ",
+            "images": [
+                "./media/batch2/33/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1867916210664325334",
+                "date_posted": "2024-12-14 12:55:03",
+                "topic": "Entertainment",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "34",
+        "ooc_tweet": {
+            "text": "Man on vacation goes viral for blunt answer to question: 'No, I'm not having fun' ",
+            "images": [
+                "./media/batch2/34/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1873456740471115828",
+                "date_posted": "2024-12-29 19:51:08",
+                "topic": "Entertainment",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "35",
+        "ooc_tweet": {
+            "text": "Taylor Swift will only get $10 birthday present from Travis Kelce's dad ",
+            "images": [
+                "./media/batch2/35/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1867723767062921661",
+                "date_posted": "2024-12-14 00:10:21",
+                "topic": "Entertainment",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "36",
+        "ooc_tweet": {
+            "text": "Chita Rivera, an iconic performer of stage and screen with credits including \"Chicago,\" \"Kiss of the Spider Woman\" and \"Sweet Charity,\" has died. She was 91.  ",
+            "images": [
+                "./media/batch2/36/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "CNN",
+                "post_url": "https://x.com/CNN/status/1752426559548366881",
+                "date_posted": "2024-01-30 20:20:24",
+                "topic": "Entertainment",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "37",
+        "ooc_tweet": {
+            "text": "Hounded South African beauty queen wins Nigeria contest ",
+            "images": [
+                "./media/batch2/37/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1830189459867926547",
+                "date_posted": "2024-09-01 10:22:25",
+                "topic": "Entertainment",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "38",
+        "ooc_tweet": {
+            "text": "Youtuber MrBeast announces engagement ",
+            "images": [
+                "./media/batch2/38/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1874762629299798153",
+                "date_posted": "2025-01-02 10:20:16",
+                "topic": "Entertainment",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "39",
+        "ooc_tweet": {
+            "text": "Jamie Foxx injured in altercation at his birthday dinner ",
+            "images": [
+                "./media/batch2/39/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1868301961667186702",
+                "date_posted": "2024-12-15 14:27:53",
+                "topic": "Entertainment",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "40",
+        "ooc_tweet": {
+            "text": "Romeo and Juliet actress Olivia Hussey dies aged 73 ",
+            "images": [
+                "./media/batch2/40/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1872927855849394491",
+                "date_posted": "2024-12-28 08:49:32",
+                "topic": "Entertainment",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "41",
+        "ooc_tweet": {
+            "text": "Swedish rapper Gaboro shot dead in car park - reports ",
+            "images": [
+                "./media/batch2/41/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1870177342791754188",
+                "date_posted": "2024-12-20 18:39:59",
+                "topic": "Entertainment",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "42",
+        "ooc_tweet": {
+            "text": "Bob Harris announces Johnnie Walker's death live on Radio 2 ",
+            "images": [
+                "./media/batch2/42/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1874221914517815388",
+                "date_posted": "2024-12-31 22:31:40",
+                "topic": "Entertainment",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "43",
+        "ooc_tweet": {
+            "text": "Five charged in connection with Liam Payne's death, reports say ",
+            "images": [
+                "./media/batch2/43/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1873690397299314743",
+                "date_posted": "2024-12-30 11:19:36",
+                "topic": "Entertainment",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "44",
+        "ooc_tweet": {
+            "text": "From Squid Game to Blackpink, how South Korea became culture powerhouse ",
+            "images": [
+                "./media/batch2/44/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1873144624891490677",
+                "date_posted": "2024-12-28 23:10:54",
+                "topic": "Entertainment",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "45",
+        "ooc_tweet": {
+            "text": "Chai with Bill Gates, Ambani wedding and other 2024 viral moments from India ",
+            "images": [
+                "./media/batch2/45/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1873934360795079045",
+                "date_posted": "2024-12-31 03:29:02",
+                "topic": "Entertainment",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "46",
+        "ooc_tweet": {
+            "text": "Elon Musk changes his name to Kekius Maximus on X ",
+            "images": [
+                "./media/batch2/46/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1874341070747648401",
+                "date_posted": "2025-01-01 06:25:09",
+                "topic": "Entertainment",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "47",
+        "ooc_tweet": {
+            "text": "Watch: London welcomes 2025 with huge fireworks display ",
+            "images": [
+                "./media/batch2/47/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1874252435859894499",
+                "date_posted": "2025-01-01 00:32:57",
+                "topic": "Entertainment",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "48",
+        "ooc_tweet": {
+            "text": "Hollywood stars Angelina Jolie and Brad Pitt have reached a divorce settlement after eight years, her lawyer tells media\n",
+            "images": [
+                "./media/batch2/48/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC Breaking News",
+                "post_url": "https://x.com/BBCBreaking/status/1873961415918207016",
+                "date_posted": "2024-12-31 05:16:32",
+                "topic": "Entertainment",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "49",
+        "ooc_tweet": {
+            "text": "Slicing veggies, baking cakes - will Meghan's rebrand work? ",
+            "images": [
+                "./media/batch2/49/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1875705235894628562",
+                "date_posted": "2025-01-05 00:45:51",
+                "topic": "Entertainment",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "50",
+        "ooc_tweet": {
+            "text": "Elton John calls marijuana legalization 'one of the greatest mistakes of all time' after addiction struggles ",
+            "images": [
+                "./media/batch2/50/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1867632778356953195",
+                "date_posted": "2024-12-13 18:08:47",
+                "topic": "Entertainment",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "51",
+        "ooc_tweet": {
+            "text": "'Star Wars' actor Angus MacInnes dead at 77 ",
+            "images": [
+                "./media/batch2/51/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1874183436945986044",
+                "date_posted": "2024-12-31 19:58:46",
+                "topic": "Entertainment",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "52",
+        "ooc_tweet": {
+            "text": "John Stamos' wife jokes he 'went through everyone else' before he married her ",
+            "images": [
+                "./media/batch2/52/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1874093526163521674",
+                "date_posted": "2024-12-31 14:01:30",
+                "topic": "Entertainment",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "53",
+        "ooc_tweet": {
+            "text": "Meghan Markle's 'cringe-worthy' return to spotlight kicks off second attempt at Netflix stardom ",
+            "images": [
+                "./media/batch2/53/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1875116992404824519",
+                "date_posted": "2025-01-03 09:48:23",
+                "topic": "Entertainment",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "54",
+        "ooc_tweet": {
+            "text": "'Home Improvement' actor Zachery Ty Bryan arrested again for domestic violence ",
+            "images": [
+                "./media/batch2/54/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1875243262828511271",
+                "date_posted": "2025-01-03 18:10:08",
+                "topic": "Entertainment",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "55",
+        "ooc_tweet": {
+            "text": "The 2024 Nobel Prize in literature goes to South Korean author Han Kang \"for her intense poetic prose that confronts historical traumas\"\n",
+            "images": [
+                "./media/batch2/55/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "CNN",
+                "post_url": "https://x.com/CNN/status/1844335776395329990",
+                "date_posted": "2024-10-10 11:14:49",
+                "topic": "Entertainment",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "56",
+        "ooc_tweet": {
+            "text": "Jude Law gets a star on Hollywood Walk of Fame ",
+            "images": [
+                "./media/batch2/56/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1868653727013392750",
+                "date_posted": "2024-12-16 13:45:41",
+                "topic": "Entertainment",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "57",
+        "ooc_tweet": {
+            "text": "Top true-crime series that captivated America in 2024 ",
+            "images": [
+                "./media/batch2/57/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1873871674996588983",
+                "date_posted": "2024-12-30 23:19:56",
+                "topic": "Entertainment",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "58",
+        "ooc_tweet": {
+            "text": "Jennifer Aniston's secrets to staying fit at 55 include strength training, burgers and martinis ",
+            "images": [
+                "./media/batch2/58/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1875479542996910563",
+                "date_posted": "2025-01-04 09:49:02",
+                "topic": "Entertainment",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "59",
+        "ooc_tweet": {
+            "text": "Aubrey Plaza’s director, writer husband Jeff Baena dead at 47 ",
+            "images": [
+                "./media/batch2/59/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1875587688461443301",
+                "date_posted": "2025-01-04 16:58:46",
+                "topic": "Entertainment",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "60",
+        "ooc_tweet": {
+            "text": "BREAKING: Aubrey Plaza's director, writer husband Jeff Baena dead at 47\n",
+            "images": [
+                "./media/batch2/60/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1875585873925865925",
+                "date_posted": "2025-01-04 16:51:33",
+                "topic": "Entertainment",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "61",
+        "ooc_tweet": {
+            "text": "Paul and Ringo get back together at London gig ",
+            "images": [
+                "./media/batch2/61/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1869957990633144567",
+                "date_posted": "2024-12-20 04:08:21",
+                "topic": "Entertainment",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "62",
+        "ooc_tweet": {
+            "text": "Swimming santa and dazzling dancers: Africa's top shots ",
+            "images": [
+                "./media/batch2/62/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1870013250126934492",
+                "date_posted": "2024-12-20 07:47:56",
+                "topic": "Entertainment",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "63",
+        "ooc_tweet": {
+            "text": "'Shōgun' becomes the first non-English language series to win for best drama, and there's a surprise winner for best comedy. Here's what happened.\n",
+            "images": [
+                "./media/batch2/63/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "CNN",
+                "post_url": "https://x.com/CNN/status/1835526760877703594",
+                "date_posted": "2024-09-16 03:50:56",
+                "topic": "Entertainment",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "64",
+        "ooc_tweet": {
+            "text": "Watch: Gavin &amp; Stacey cast recall filming first episode nightclub scene ",
+            "images": [
+                "./media/batch2/64/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1871188649737417068",
+                "date_posted": "2024-12-23 13:38:33",
+                "topic": "Entertainment",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "65",
+        "ooc_tweet": {
+            "text": "Indian show renews interest in 1970s dance style from America's gay clubs ",
+            "images": [
+                "./media/batch2/65/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1872428091844206901",
+                "date_posted": "2024-12-26 23:43:39",
+                "topic": "Entertainment",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "66",
+        "ooc_tweet": {
+            "text": "How old English sea shanties inspired Cape Verdean singer ",
+            "images": [
+                "./media/batch2/66/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1872832345239179723",
+                "date_posted": "2024-12-28 02:30:01",
+                "topic": "Entertainment",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "67",
+        "ooc_tweet": {
+            "text": "Baby Driver teenage actor dies after falling from moving vehicle ",
+            "images": [
+                "./media/batch2/67/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1872334665723298166",
+                "date_posted": "2024-12-26 17:32:25",
+                "topic": "Entertainment",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "68",
+        "ooc_tweet": {
+            "text": "Quiz of the Year, Part 3: Which dance moves made Raygun famous? ",
+            "images": [
+                "./media/batch2/68/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1872958023347400969",
+                "date_posted": "2024-12-28 10:49:25",
+                "topic": "Entertainment",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "69",
+        "ooc_tweet": {
+            "text": "Five jailed for covering up murder of rapper Canserbero ",
+            "images": [
+                "./media/batch2/69/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1869356722105536567",
+                "date_posted": "2024-12-18 12:19:08",
+                "topic": "Entertainment",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "70",
+        "ooc_tweet": {
+            "text": "Tom Cruise honoured with US Navy's highest civilian award ",
+            "images": [
+                "./media/batch2/70/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1869055145574531374",
+                "date_posted": "2024-12-17 16:20:46",
+                "topic": "Entertainment",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "71",
+        "ooc_tweet": {
+            "text": "Satirical news site The Onion has won the auction to acquire conspiracy theorist Alex Jones' Infowars\n",
+            "images": [
+                "./media/batch2/71/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "CNN",
+                "post_url": "https://x.com/CNN/status/1857067488397197376",
+                "date_posted": "2024-11-14 14:26:06",
+                "topic": "Entertainment",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "72",
+        "ooc_tweet": {
+            "text": "Jana Kramer avoids New Year's resolutions, prefers this technique for self improvement ",
+            "images": [
+                "./media/batch2/72/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1873936337897693460",
+                "date_posted": "2024-12-31 03:36:53",
+                "topic": "Entertainment",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "73",
+        "ooc_tweet": {
+            "text": "Dungeons &amp; Dragons causes controversy with rule change over identity ",
+            "images": [
+                "./media/batch2/73/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1873857992921055724",
+                "date_posted": "2024-12-30 22:25:34",
+                "topic": "Entertainment",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "74",
+        "ooc_tweet": {
+            "text": "Remembering the man who became Indian music's global ambassador ",
+            "images": [
+                "./media/batch2/74/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1868563473585623049",
+                "date_posted": "2024-12-16 07:47:02",
+                "topic": "Entertainment",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "75",
+        "ooc_tweet": {
+            "text": "Legendary Indian tabla player Zakir Hussain dies at 73 ",
+            "images": [
+                "./media/batch2/75/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1868493836936241167",
+                "date_posted": "2024-12-16 03:10:20",
+                "topic": "Entertainment",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "76",
+        "ooc_tweet": {
+            "text": "'Star Wars' child actor Jake Lloyd shares health update amid schizophrenia diagnosis ",
+            "images": [
+                "./media/batch2/76/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1875773449567613339",
+                "date_posted": "2025-01-05 05:16:55",
+                "topic": "Entertainment",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "77",
+        "ooc_tweet": {
+            "text": "Whoopi accuses RFK, Jr. of fat shaming, gets shredded on 'Outnumbered': 'How stupid do you have to be?' ",
+            "images": [
+                "./media/batch2/77/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1867726224681844757",
+                "date_posted": "2024-12-14 00:20:07",
+                "topic": "Entertainment",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "78",
+        "ooc_tweet": {
+            "text": "Will Smith denies participating in Sean 'Diddy' Combs' alleged 'freak offs,' says any speculation is a 'lie' ",
+            "images": [
+                "./media/batch2/78/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1867745252666175661",
+                "date_posted": "2024-12-14 01:35:43",
+                "topic": "Entertainment",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "79",
+        "ooc_tweet": {
+            "text": "Mariah Carey forced to cancel two more Christmas shows due to flu: 'I'm really devastated about it' ",
+            "images": [
+                "./media/batch2/79/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1868146183643750629",
+                "date_posted": "2024-12-15 04:08:53",
+                "topic": "Entertainment",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "80",
+        "ooc_tweet": {
+            "text": "Sports radio legend Mike Francesa scrutinizes Jimmy Carter while remembering of former president ",
+            "images": [
+                "./media/batch2/80/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1874068267389567338",
+                "date_posted": "2024-12-31 12:21:08",
+                "topic": "Entertainment",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "81",
+        "ooc_tweet": {
+            "text": "Hottest mugshots of 2024 ",
+            "images": [
+                "./media/batch2/81/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1874231649833005364",
+                "date_posted": "2024-12-31 23:10:21",
+                "topic": "Entertainment",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "82",
+        "ooc_tweet": {
+            "text": "Bruce Willis' wife shares emotional 17th anniversary post amid his dementia battle: 'I'd do it all over again' ",
+            "images": [
+                "./media/batch2/82/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1874251406833566040",
+                "date_posted": "2025-01-01 00:28:51",
+                "topic": "Entertainment",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "83",
+        "ooc_tweet": {
+            "text": "Gwyneth Paltrow reflects on what she 'let go of' in 2024: 'Some people who were not right for me' ",
+            "images": [
+                "./media/batch2/83/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1874227292186046518",
+                "date_posted": "2024-12-31 22:53:02",
+                "topic": "Entertainment",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "84",
+        "ooc_tweet": {
+            "text": "Ryan Seacrest hopes to achieve one mega 'Wheel of Fortune' goal in 2025 ",
+            "images": [
+                "./media/batch2/84/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1874132744432668980",
+                "date_posted": "2024-12-31 16:37:20",
+                "topic": "Entertainment",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "85",
+        "ooc_tweet": {
+            "text": "Jay-Z's sexual assault accuser speaks out, admits to making 'some mistakes' in lawsuit of alleged rape ",
+            "images": [
+                "./media/batch2/85/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1867762379015995824",
+                "date_posted": "2024-12-14 02:43:47",
+                "topic": "Entertainment",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "86",
+        "ooc_tweet": {
+            "text": "'Shazam!' star Zachary Levi compares AI to biblical disaster ",
+            "images": [
+                "./media/batch2/86/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1875076691896230062",
+                "date_posted": "2025-01-03 07:08:15",
+                "topic": "Entertainment",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "87",
+        "ooc_tweet": {
+            "text": "Fox News Digital's News Quiz: January 3, 2024 ",
+            "images": [
+                "./media/batch2/87/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1875147124708413603",
+                "date_posted": "2025-01-03 11:48:07",
+                "topic": "Entertainment",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "88",
+        "ooc_tweet": {
+            "text": "Country star Lainey Wilson ‘might have to propose’ to boyfriend of 3 years ",
+            "images": [
+                "./media/batch2/88/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1875303549527118210",
+                "date_posted": "2025-01-03 22:09:42",
+                "topic": "Entertainment",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "89",
+        "ooc_tweet": {
+            "text": "Angel Reese shows off revealing New Year's Eve outfit, deletes Instagram account ",
+            "images": [
+                "./media/batch2/89/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1875031195467067837",
+                "date_posted": "2025-01-03 04:07:28",
+                "topic": "Entertainment",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "90",
+        "ooc_tweet": {
+            "text": "Dry January iconic mocktail 'Shirley Temple' has fascinating history: 'Fun to sip' ",
+            "images": [
+                "./media/batch2/90/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1875122384987901998",
+                "date_posted": "2025-01-03 10:09:49",
+                "topic": "Entertainment",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "91",
+        "ooc_tweet": {
+            "text": "Chefs go viral for salt and pasta water debate: 'Wild, right?' ",
+            "images": [
+                "./media/batch2/91/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1874955765024166078",
+                "date_posted": "2025-01-02 23:07:44",
+                "topic": "Entertainment",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "92",
+        "ooc_tweet": {
+            "text": "Jamie Foxx hit in the mouth by thrown glass during Beverly Hills birthday dinner, 'had to get stitches': reps ",
+            "images": [
+                "./media/batch2/92/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "Fox News",
+                "post_url": "https://x.com/FoxNews/status/1868095607820156987",
+                "date_posted": "2024-12-15 00:47:55",
+                "topic": "Entertainment",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "93",
+        "ooc_tweet": {
+            "text": "Jamie Foxx injured in altercation at his birthday dinner ",
+            "images": [
+                "./media/batch2/93/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1868655404529389738",
+                "date_posted": "2024-12-16 13:52:21",
+                "topic": "Entertainment",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "94",
+        "ooc_tweet": {
+            "text": "Dame Judi reveals apple tribute to Maggie Smith ",
+            "images": [
+                "./media/batch2/94/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1872944779710878201",
+                "date_posted": "2024-12-28 09:56:47",
+                "topic": "Entertainment",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "95",
+        "ooc_tweet": {
+            "text": "Blake Lively accuses co-star Justin Baldoni of smear campaign ",
+            "images": [
+                "./media/batch2/95/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1870756047582855326",
+                "date_posted": "2024-12-22 08:59:33",
+                "topic": "Entertainment",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "96",
+        "ooc_tweet": {
+            "text": "The crocodile from Crocodile Dundee dies in Australia ",
+            "images": [
+                "./media/batch2/96/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1871157188455977293",
+                "date_posted": "2024-12-23 11:33:32",
+                "topic": "Entertainment",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "97",
+        "ooc_tweet": {
+            "text": "Blake Lively's claims against co-star Justin Baldoni put spotlight on 'hostile' Hollywood tactics ",
+            "images": [
+                "./media/batch2/97/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1871646718715969603",
+                "date_posted": "2024-12-24 19:58:45",
+                "topic": "Entertainment",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "98",
+        "ooc_tweet": {
+            "text": "Rosita Missoni, co-founder of Italian label, dies aged 93 ",
+            "images": [
+                "./media/batch2/98/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1874920609265733797",
+                "date_posted": "2025-01-02 20:48:02",
+                "topic": "Entertainment",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "99",
+        "ooc_tweet": {
+            "text": "Arundhati Roy wins PEN Pinter Prize for 'powerful voice' ",
+            "images": [
+                "./media/batch2/99/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1806241953668833570",
+                "date_posted": "2024-06-27 08:23:34",
+                "topic": "Entertainment",
+                "label": true
+            }
+        }
+    },
+    {
+        "tweet_id": "100",
+        "ooc_tweet": {
+            "text": "'I shall treasure it': Dame Jacqueline Wilson reacts to New Year's honour ",
+            "images": [
+                "./media/batch2/100/images/img0.jpeg"
+            ],
+            "metadata": {
+                "author_id": "BBC News (World)",
+                "post_url": "https://x.com/BBCWorld/status/1874052077049057690",
+                "date_posted": "2024-12-31 11:16:48",
+                "topic": "Entertainment",
+                "label": true
+            }
+        }
+    }
+]
