@@ -10,9 +10,9 @@
 
 - Then in terminal cd into the project directory and activate
 ```
-cd Final-Year-Project
-python3 -m venv .env
-.env\Scripts\activate
+
+python3 -m venv .venv
+.venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
