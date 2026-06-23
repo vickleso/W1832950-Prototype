@@ -6,7 +6,10 @@ import torch
 from PIL import Image
 import requests
 from dotenv import load_dotenv
-from transformers import AutoProcessor, Qwen3VLForConditionalGeneration, BitsAndBytesConfig
+from transformers import (
+    AutoProcessor, Qwen3VLForConditionalGeneration, BitsAndBytesConfig,
+    AutoTokenizer, AutoModelForSequenceClassification
+)
 from peft import PeftModel
 
 load_dotenv()
@@ -14,6 +17,7 @@ load_dotenv()
 # Environment / paths
 ENV_MODEL_NAME = os.getenv("MODEL_NAME", "Qwen/Qwen3-VL-4B-Thinking")
 LOCAL_MODEL_DIR = Path(os.getenv("MODEL_DIR", "../../models/qwen_finetuned/final"))
+TWHIN_MODEL_DIR = Path(os.getenv("TWHIN_MODEL_DIR", "../../TwHIN-BERT-Misinformation-Classifier"))
 
 class Detector:
     def __init__(self, use_finetuned=True):
@@ -144,4 +148,108 @@ class Detector:
             'raw': result,
             'explanation': explanation
         }
+
+
+class TwHINDetector:
+    """
+    TwHIN-BERT Misinformation Classifier
+    Specialized for Twitter/X text misinformation detection
+    F1 Score: 0.9829 on evaluation set
+    """
+    
+    def __init__(self):
+        print("Loading TwHIN-BERT model...")
+        try:
+            if not TWHIN_MODEL_DIR.exists():
+                raise FileNotFoundError(f"TwHIN model directory not found: {TWHIN_MODEL_DIR}")
+            
+            print(f"Loading from: {TWHIN_MODEL_DIR}")
+            
+            # Load tokenizer and model
+            self.tokenizer = AutoTokenizer.from_pretrained(str(TWHIN_MODEL_DIR))
+            self.model = AutoModelForSequenceClassification.from_pretrained(str(TWHIN_MODEL_DIR))
+            
+            # Move to GPU if available
+            self.device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+            self.model = self.model.to(self.device)
+            self.model.eval()
+            
+            # Load label mapping from model config
+            self.label_map = self.model.config.id2label
+            print(f"[TwHIN DEBUG] Label mapping: {self.label_map}")
+            
+            print(f"TwHIN model loaded on {self.device}\n")
+            
+        except Exception as e:
+            print(f"Error loading TwHIN model: {e}")
+            traceback.print_exc()
+            raise
+
+    def analyse(self, text):
+        """
+        Classify text as Factual or Misinformation and provide a short paragraph explanation of the reasoning behind the classification.
+        
+        Args:
+            text: The text to classify
+            
+        Returns:
+            dict with classification, confidence, and details
+        """
+        if not text or not isinstance(text, str):
+            return {
+                'classification': 'Error',
+                'confidence': 0.0,
+                'raw': 'Invalid input'
+            }
+        
+        try:
+            # Tokenize
+            inputs = self.tokenizer(
+                text,
+                return_tensors="pt",
+                truncation=True,
+                max_length=512,
+                padding=True
+            )
+            
+            # Move to device
+            inputs = {k: v.to(self.device) for k, v in inputs.items()}
+            
+            # Inference
+            with torch.no_grad():
+                outputs = self.model(**inputs)
+            
+            # Get predictions
+            logits = outputs.logits
+            print(f"[TwHIN DEBUG] Raw logits: {logits}")
+            
+            probabilities = torch.softmax(logits, dim=1)
+            print(f"[TwHIN DEBUG] Probabilities: {probabilities}")
+            
+            predicted_class = torch.argmax(logits, dim=1).item()
+            confidence = probabilities[0][predicted_class].item()
+            
+            print(f"[TwHIN DEBUG] Predicted class: {predicted_class}, Confidence: {confidence:.4f}")
+            print(f"[TwHIN DEBUG] Text preview: {text[:100]}...")
+            
+            classification = self.label_map.get(predicted_class, "Unknown")
+            
+            return {
+                'classification': classification,
+                'confidence': round(confidence, 4),
+                'raw': f"{classification} (confidence: {confidence:.2%})",
+                'details': {
+                    'factual_prob': round(probabilities[0][0].item(), 4),
+                    'misinformation_prob': round(probabilities[0][1].item(), 4)
+                }
+            }
+            
+        except Exception as e:
+            print(f"Error in TwHIN inference: {e}")
+            traceback.print_exc()
+            return {
+                'classification': 'Error',
+                'confidence': 0.0,
+                'raw': str(e)
+            }
 

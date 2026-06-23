@@ -42,14 +42,15 @@ class XFactaDataset(Dataset):
         example = self.data[idx]
         
         text = example['text']
+        images = example.get('images', [])
         label = example['label']
         
         # Create the answer
-        answer = "Real" if label == 1 else "Misinformation"
+        answer = "Real" if label == True else "Misinformation"
         
         # Create a conversation (how Qwen3-VL expects input)
         conversation = [
-            {"role": "user", "content": f"Is this misinformation?\n{text}"},
+            {"role": "user", "content": f"You are a misinformation detection assistant, you are to detect if the following text is real or misinformation:\n{text}"},
             {"role": "assistant", "content": answer}
         ]
         
