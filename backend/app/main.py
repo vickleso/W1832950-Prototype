@@ -1,7 +1,7 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
-from inference import Detector, TwHINDetector
+from inference import Detector, TwHINDetector, QwenVLDetector
 from x_api_handler import XAPIHandler
 
 app = FastAPI()
@@ -18,17 +18,30 @@ app.add_middleware(
 try:
     # Try to load TwHIN model (lighter, faster)
     twhin_detector = TwHINDetector()
-    detector = None  # Keep Qwen as fallback
+    qwen_detector = None
     print("[INIT] ✓ TwHIN-BERT model loaded successfully")
 except Exception as e:
     print(f"[INIT] ✗ Could not load TwHIN model: {e}")
     twhin_detector = None
     try:
-        detector = Detector()
-        print("[INIT] ✓ Qwen3-VL model loaded as fallback")
+        qwen_detector = QwenVLDetector()
+        print("[INIT] ✓ Qwen3-VL fine-tuned model loaded")
     except Exception as e2:
         print(f"[INIT] ✗ Could not load Qwen model: {e2}")
+        qwen_detector = None
+
+# Fallback for older Qwen loader if needed
+if not qwen_detector:
+    try:
+        detector = Detector()
+        qwen_detector = detector
+        print("[INIT] ✓ Qwen3-VL fallback model loaded")
+    except Exception as e3:
+        print(f"[INIT] ✗ Could not load Qwen fallback model: {e3}")
         detector = None
+        qwen_detector = None
+else:
+    detector = qwen_detector
 
 try:
     x_api = XAPIHandler()
@@ -38,6 +51,7 @@ except Exception as e:
 
 class AnalyzeRequest(BaseModel):
     url: str
+    model: str | None = None
 
 @app.post("/analyse")
 async def analyse(request: AnalyzeRequest):
@@ -45,7 +59,7 @@ async def analyse(request: AnalyzeRequest):
         if not x_api:
             return {'error': 'X API handler not initialized'}
         
-        if not twhin_detector and not detector:
+        if not twhin_detector and not qwen_detector:
             return {'error': 'No models loaded (TwHIN and Qwen unavailable)'}
         
         print(f"\n{'='*60}")
@@ -68,33 +82,57 @@ async def analyse(request: AnalyzeRequest):
         if not post.get('text'):
             return {'error': 'Tweet has no text content'}
         
-        # Use TwHIN for fast, accurate text classification
-        if twhin_detector:
+        # Determine which model to use
+        requested = (request.model or '').strip().lower()
+        if requested == 'qwen' and qwen_detector:
+            print(f"\n[MAIN] Using Qwen3-VL as requested by client...")
+            image_url = post['media_urls'][0] if post.get('media_urls') else None #The use image analysis, only done by Qwen
+            result = qwen_detector.analyse(post['text'], image_url)
+            model_used = "Qwen3-VL"
+        elif requested == 'twhin' and twhin_detector:
+            print(f"\n[MAIN] Using TwHIN-BERT as requested by client...")
+            result = twhin_detector.analyse(post['text'])
+            model_used = "TwHIN-BERT"
+        elif twhin_detector:
             print(f"\n[MAIN] Using TwHIN-BERT for analysis...")
             result = twhin_detector.analyse(post['text'])
             model_used = "TwHIN-BERT"
-        else:
-            # Fallback to Qwen if TwHIN unavailable
+        elif qwen_detector:
             print(f"\n[MAIN] TwHIN unavailable, using Qwen3-VL for analysis...")
             image_url = post['media_urls'][0] if post.get('media_urls') else None
-            result = detector.analyse(post['text'], image_url)
+            result = qwen_detector.analyse(post['text'], image_url)
             model_used = "Qwen3-VL"
+        else:
+            return {'error': 'Requested model not available'}
         
         print("[MAIN] Model response:")
         print(f"  - Classification: {result['classification']}")
         print(f"  - Confidence: {result['confidence']}\n")
         
         # Return results
+        rag_used = result.get('status') == 'unsure'
         response = {
             'url': request.url,
             'author': post.get('author', 'Unknown'),
             'text': post.get('text', ''),
             'classification': result['classification'],
             'confidence': result['confidence'],
+            'verdict': result.get('verdict', 'Unsure'),
+            'status': result.get('status', 'unsure'),
             'model': model_used,
-            'likes': post.get('metrics', {}).get('like_count', 0),
-            'retweets': post.get('metrics', {}).get('retweet_count', 0)
+            'reasoning': result.get('reasoning') or result.get('explanation') or result.get('raw'),
+            'rag_used': rag_used,
+            'likes': post.get('metrics', {}).get('like_count'),
+            'retweets': post.get('metrics', {}).get('retweet_count'),
+            'reply_count': post.get('metrics', {}).get('reply_count'),
+            'quote_count': post.get('metrics', {}).get('quote_count'),
+            'bookmark_count': post.get('metrics', {}).get('bookmark_count'),
+            'impression_count': post.get('metrics', {}).get('impression_count'),
         }
+
+        if rag_used:
+            response['rag_document'] = 'docs/rag-failsafe.md'
+            response['highlight_word'] = 'rag'
         
         # Add details if available
         if 'details' in result:
@@ -114,7 +152,7 @@ async def health():
     models_loaded = []
     if twhin_detector:
         models_loaded.append("TwHIN-BERT")
-    if detector:
+    if qwen_detector:
         models_loaded.append("Qwen3-VL")
     
     return {
@@ -122,3 +160,6 @@ async def health():
         'models': models_loaded,
         'primary_model': models_loaded[0] if models_loaded else 'none'
     }
+
+"""
+"""

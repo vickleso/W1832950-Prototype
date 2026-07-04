@@ -6,7 +6,10 @@
 ### How to run project
 
 - To clone this repository run
-``` git clone https://github.com/vickleso/Final-Year-Project.git ```
+``` git clone https://github.com/vickleso/W1832950-Prototype.git ```
+
+- When inside the repository run, this will add the secondary petrained model to the project
+```git clone https://huggingface.co/roupenminassian/TwHIN-BERT-Misinformation-Classifier ```
 
 - Then in terminal cd into the project directory and activate
 ```
@@ -16,7 +19,7 @@ python3 -m venv .venv
 pip install -r requirements.txt
 ```
 
-- Once done open another terminal (personal reccommendation) and run:
+- Once done open another terminal and run:
 ```
 cd frontend
 npm init
