@@ -64,6 +64,28 @@ body {
   margin-bottom: 15px;
 }
 
+.model-select-label {
+  display: block;
+  margin-bottom: 6px;
+  color: #333;
+  font-weight: 600;
+}
+
+.model-select {
+  width: 100%;
+  padding: 12px;
+  font-size: 16px;
+  border: 2px solid #ddd;
+  border-radius: 6px;
+  margin-bottom: 15px;
+  background: white;
+}
+
+.model-select:focus {
+  outline: none;
+  border-color: #1DA1F2;
+}
+
 .url-input:focus {
   outline: none;
   border-color: #1DA1F2;
@@ -183,6 +205,16 @@ body {
   display: inline-block;
   padding: 8px 20px;
   background-color: #19692d;
+  color: white;
+  border-radius: 20px;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.badge-unsure {
+  display: inline-block;
+  padding: 8px 20px;
+  background-color: #c77a00;
   color: white;
   border-radius: 20px;
   font-weight: bold;

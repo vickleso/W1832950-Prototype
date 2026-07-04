@@ -9,6 +9,7 @@ load_dotenv()
 X_BEARER_TOKEN = os.getenv("X_BEARER_TOKEN")
 
 class XAPIHandler:
+    # This class fetches post details from the X API so the backend can analyse the content and media for misinformation detection.
     def __init__(self):
         self.bearer_token = X_BEARER_TOKEN
         self.headers = {"Authorization": f"Bearer {self.bearer_token}"} if self.bearer_token else {}
@@ -20,6 +21,7 @@ class XAPIHandler:
         print(f"XAPIHandler initialized (token length: {len(self.bearer_token)})")
 
     def get_tweet_id(self, url):
+        # This method extracts a tweet identifier from a public X URL so the backend can fetch the correct post.
         print(f"[XAPI] get_tweet_id: url={url}")
         match = re.search(r'/status/(\d+)', url)
         tweet_id = match.group(1) if match else None
@@ -39,6 +41,7 @@ class XAPIHandler:
         return None
 
     def fetch_post(self, tweet_id):
+        # This method requests the tweet payload and structures its author, text, metrics, and media fields for analysis.
         print(f"[XAPI] fetch_post: id={tweet_id}")
         params = {
             "expansions": "author_id,attachments.media_keys",
@@ -111,9 +114,11 @@ class XAPIHandler:
         return result
 
     def analyze_url(self, url):
+        # This method controls the full URL-to-post lookup process.
         print(f"[XAPI] analyze_url: {url}")
         tweet_id = self.get_tweet_id(url)
         if not tweet_id:
             raise ValueError("Invalid X URL - couldn't extract tweet id.")
         return self.fetch_post(tweet_id)
 
+"""Was adapted from examples at https://docs.x.com/x-api/introduction (Platform, no date)"""

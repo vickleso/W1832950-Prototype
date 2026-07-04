@@ -4,6 +4,7 @@ import axios from 'axios'
 
 function App() {
   const [tweetUrl, setTweetUrl] = useState('')
+  const [selectedModel, setSelectedModel] = useState('auto')
   const [loading, setLoading] = useState(false)
   const [result, setResult] = useState(null)
   const [error, setError] = useState(null)
@@ -20,7 +21,8 @@ function App() {
 
     try {
       const response = await axios.post('http://localhost:8000/analyse', {
-        url: tweetUrl
+        url: tweetUrl,
+        model: selectedModel === 'auto' ? null : selectedModel
       })
 
       setResult(response.data)
@@ -35,6 +37,21 @@ function App() {
     if (e.key === 'Enter') {
       analyzeTweet()
     }
+  }
+
+  const getBadgeClass = () => {
+    if (!result?.status) return 'badge-unsure'
+
+    if (result.status === 'misinformation') return 'badge-fake'
+    if (result.status === 'true') return 'badge-real'
+    return 'badge-unsure'
+  }
+
+  const getBadgeLabel = () => {
+    if (result?.verdict) return result.verdict
+    if (result?.classification === 'Misinformation') return 'Likely misinformation'
+    if (result?.classification === 'Real') return 'Likely true'
+    return 'Unsure'
   }
 
   return (
@@ -57,6 +74,17 @@ function App() {
             onChange={(e) => setTweetUrl(e.target.value)}
             onKeyDown={handleKeyPress}
           />
+
+          <label className="model-select-label">Model</label>
+          <select
+            className="model-select"
+            value={selectedModel}
+            onChange={(e) => setSelectedModel(e.target.value)}
+          >
+            <option value="auto">Auto (TwHIN preferred)</option>
+            <option value="twhin">TwHIN-BERT</option>
+            <option value="qwen">Qwen3-VL</option>
+          </select>
 
           <button 
             className="analyse-btn" 
@@ -87,8 +115,8 @@ function App() {
           {result && !loading && (
             <div className="result-content">
               <div className="classification-badge">
-                <span className={result.classification === 'Misinformation' ? 'badge-fake' : 'badge-real'}>
-                  {result.classification}
+                <span className={getBadgeClass()}>
+                  {getBadgeLabel()}
                 </span>
                 <span className="confidence">
                   Confidence: {(result.confidence * 100).toFixed(0)}%
@@ -108,12 +136,20 @@ function App() {
               </div>
 
               <div className="result-section">
-                <h3>Explanation</h3>
+                <h3>Reasoning</h3>
                 <p className="explanation">
-                  {result.classification === 'Misinformation' 
-                    ? 'This post has been classified as potentially misleading or false based on analysis of its content.'
-                    : 'This post appears to contain factual information based on the analysis.'}
+                  {result.reasoning}
                 </p>
+                {result.rag_used && (
+                  <>
+                    <p className="rag-note">
+                      Fallback document: <strong>{result.rag_document}</strong>
+                    </p>
+                    <p className="rag-highlight">
+                      Fallback used, keyword: <strong>{result.highlight_word}</strong>
+                    </p>
+                  </>
+                )}
               </div>
             </div>
           )}
@@ -130,3 +166,9 @@ function App() {
 }
 
 export default App
+/* 
+Was adapted from examples at:
+- https://react.dev/learn (Quick Start – React, no date)
+- https://axios.rest/pages/getting-started/first-steps (First steps | axios | Promise based HTTP client, no date)
+- https://docs.x.com/x-api/introduction (Platform, no date)
+*/
