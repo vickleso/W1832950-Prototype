@@ -360,6 +360,9 @@ class TwHINDetector:
             "fake_likelihood": round(fake_likelihood, 4),
         }
 
+class Detector(QwenVLDetector):
+    """Legacy alias for QwenVLDetector."""
+    pass
 
 """
 In this file I used Github Copilot to help write the code for the QwenVLDetector and TwHINDetector classes. 

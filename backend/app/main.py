@@ -1,12 +1,10 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
-from inference import TwHINDetector, QwenVLDetector
+from inference import Detector, TwHINDetector, QwenVLDetector
 from x_api_handler import XAPIHandler
 
 app = FastAPI()
-
-# This FastAPI app exposes the misinformation analysis workflow to the frontend and handles model selection at runtime.
 
 # Add CORS
 app.add_middleware(
@@ -32,14 +30,18 @@ except Exception as e:
         print(f"[INIT] ✗ Could not load Qwen model: {e2}")
         qwen_detector = None
 
-# Fallback to load the Qwen detector directly if the primary path fails.
+# Fallback for older Qwen loader if needed
 if not qwen_detector:
     try:
-        qwen_detector = QwenVLDetector()
+        detector = Detector()
+        qwen_detector = detector
         print("[INIT] ✓ Qwen3-VL fallback model loaded")
     except Exception as e3:
         print(f"[INIT] ✗ Could not load Qwen fallback model: {e3}")
+        detector = None
         qwen_detector = None
+else:
+    detector = qwen_detector
 
 try:
     x_api = XAPIHandler()
