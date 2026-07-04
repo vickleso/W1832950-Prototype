@@ -22,7 +22,7 @@ SAVE_DIR.mkdir(parents=True, exist_ok=True)
 
 
 def add_lora(model):
-    """Make model trainable with fewer parameters"""
+    # Uses LoRA so the fine-tuning process is more efficient.
     config = LoraConfig(
         r=8,
         lora_alpha=16,
@@ -43,6 +43,7 @@ def add_lora(model):
 
 
 def train():
+    # This function trains the Qwen model on the processed misinformation dataset and saves checkpoints for later inference.
     print("\nTRAINING STARTED\n")
     
     # Load model
@@ -114,3 +115,9 @@ def train():
 
 if __name__ == "__main__":
     train()
+
+"""
+Was adapted from examples found at:
+- https://unsloth.ai/docs (Unsloth Docs | Unsloth Documentation, 2026)
+
+"""

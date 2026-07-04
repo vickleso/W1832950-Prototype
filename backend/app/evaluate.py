@@ -17,9 +17,7 @@ from tqdm import tqdm
 
 from inference import QwenVLDetector, TwHINDetector
 
-# =========================
-# 3. Paths
-# =========================
+# These constants point the evaluation script to the test data and designates where the output files used for model comparison will be saved.
 ROOT_DIR = Path(__file__).resolve().parents[2]
 TEST_JSON_PATH = ROOT_DIR / "test.json"
 IMAGE_ROOT = Path(os.getenv("IMAGE_ROOT", ""))
@@ -28,6 +26,7 @@ OUTPUT_CSV = OUTPUT_DIR / "qwen3vl_eval_predictions.csv"
 
 
 def normalize_prediction(text):
+    # This helper standardises model output labels into a simple binary format for evaluation scoring.
     if text is None:
         return None
 
@@ -79,12 +78,14 @@ def load_first_existing_image(images, image_root):
 
 
 def predict_one(detector, image_path, post_text):
+    # This function routes a single example to the selected detector so the evaluation loop can compare models uniformly.
     if isinstance(detector, TwHINDetector):
         return detector.analyse(post_text)
     return detector.analyse(post_text, image_path)
 
 
 def build_dataset(json_path, image_root):
+    # This function loads and filters evaluation examples so each sample can be scored consistently.
     with open(json_path, "r", encoding="utf-8") as f:
         examples = json.load(f)
 
@@ -119,6 +120,7 @@ def build_dataset(json_path, image_root):
 
 
 def evaluate_dataframe(detector, df, limit=None):
+    # This function runs the dataset through a detector and collects predictions for metric computation.
     y_true = []
     y_pred = []
     raw_outputs = []
@@ -150,6 +152,7 @@ def evaluate_dataframe(detector, df, limit=None):
 
 
 def print_metrics(y_true, y_pred):
+    # This function calculates and posts the main performance metrics.
     print("Evaluation results")
     print("==================")
     print(f"Evaluated samples: {len(y_true)}")
@@ -174,6 +177,7 @@ def print_metrics(y_true, y_pred):
 
 
 def save_predictions(df, raw_outputs, path):
+    # This function writes the raw model outputs to CSV files.
     out_rows = []
     for idx, row in enumerate(df.itertuples(index=False)):
         if idx >= len(raw_outputs):
@@ -192,6 +196,7 @@ def save_predictions(df, raw_outputs, path):
 
 
 def main():
+    # This CLI entry point allows the user more control the evaluation process and helps iron out some potential issues.
     parser = argparse.ArgumentParser(description="Evaluate TwHIN and Qwen models on the dataset.")
     parser.add_argument(
         "--test-file",
@@ -245,6 +250,6 @@ if __name__ == "__main__":
 """
 This script was written with the assistance of Github Copilot. It is designed to evaluate the performance of TwHIN and Qwen3-VL models on a given dataset. 
 The script loads a test dataset from a JSON file, processes the data, and evaluates the models' predictions against the true labels. 
-It computes various metrics such as accuracy, precision, recall, F1 score, confusion matrix, and classification report. \
+It computes various metrics such as accuracy, precision, recall, F1 score, confusion matrix, and classification report.
 The predictions are saved to CSV files for further analysis.
 """

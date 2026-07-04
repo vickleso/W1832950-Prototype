@@ -7,7 +7,7 @@ from transformers import AutoProcessor
 
 
 class XFactaDataset(Dataset):
-    """Simple dataset that loads JSONL files with text, images, and labels"""
+    # This dataset class loads processed JSONL examples into the format expected by the Qwen fine-tuning pipeline.
     
     def __init__(self, data_dir, max_samples=500):
         # Load the processor that prepares data for the model
@@ -94,7 +94,8 @@ class XFactaDataset(Dataset):
 
 
 def pad_batch(batch):
-    """Make all examples in a batch the same length by adding padding"""
+    # This helper pads batches so the so they are all equal lengths for the model to train on.
+    
     
     result = {}
 
@@ -126,7 +127,7 @@ def pad_batch(batch):
 
 
 def get_loader(data_dir, batch_size, max_samples=500):
-    """Create a data loader that feeds batches to the model"""
+    # A training loader that feeds the data into the fine-tuning loop.
     dataset = XFactaDataset(data_dir, max_samples)
     
     if len(dataset) == 0:
@@ -140,3 +141,9 @@ def get_loader(data_dir, batch_size, max_samples=500):
         drop_last=True,
         num_workers=0,
     )
+
+"""
+Was adapted from example found at :
+- https://unsloth.ai/docs (Unsloth Docs | Unsloth Documentation, 2026)
+- https://huggingface.co/docs (Hugging Face - Documentation, no date)
+"""

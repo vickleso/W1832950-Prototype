@@ -1,10 +1,12 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
-from inference import Detector, TwHINDetector, QwenVLDetector
+from inference import TwHINDetector, QwenVLDetector
 from x_api_handler import XAPIHandler
 
 app = FastAPI()
+
+# This FastAPI app exposes the misinformation analysis workflow to the frontend and handles model selection at runtime.
 
 # Add CORS
 app.add_middleware(
@@ -30,18 +32,14 @@ except Exception as e:
         print(f"[INIT] ✗ Could not load Qwen model: {e2}")
         qwen_detector = None
 
-# Fallback for older Qwen loader if needed
+# Fallback to load the Qwen detector directly if the primary path fails.
 if not qwen_detector:
     try:
-        detector = Detector()
-        qwen_detector = detector
+        qwen_detector = QwenVLDetector()
         print("[INIT] ✓ Qwen3-VL fallback model loaded")
     except Exception as e3:
         print(f"[INIT] ✗ Could not load Qwen fallback model: {e3}")
-        detector = None
         qwen_detector = None
-else:
-    detector = qwen_detector
 
 try:
     x_api = XAPIHandler()
@@ -50,11 +48,13 @@ except Exception as e:
     x_api = None
 
 class AnalyzeRequest(BaseModel):
+    # This request schema defines the payload the web UI sends when a user submits a post URL for analysis.
     url: str
     model: str | None = None
 
 @app.post("/analyse")
 async def analyse(request: AnalyzeRequest):
+    # This endpoint coordinates the full analysis flow from X post retrieval to model inference and response formatting.
     try:
         if not x_api:
             return {'error': 'X API handler not initialized'}
@@ -149,6 +149,7 @@ async def analyse(request: AnalyzeRequest):
 
 @app.get("/health")
 async def health():
+    # This health endpoint reports which detectors are available so the frontend can show the backend status.
     models_loaded = []
     if twhin_detector:
         models_loaded.append("TwHIN-BERT")
@@ -162,4 +163,8 @@ async def health():
     }
 
 """
+Was adapted from examples at:
+
+- https://fastapi.tiangolo.com/ (FastAPI - FastAPI, no date)
+- https://docs.x.com/x-api/introduction (Platform, no date)
 """

@@ -22,6 +22,7 @@ load_dotenv()
 
 REPO_ROOT = Path(__file__).resolve().parents[2]
 
+# These helpers designate the local model paths so the backend can load trained weights from the repository.
 
 def _resolve_repo_path(env_name, default_path):
     env_value = os.getenv(env_name)
@@ -42,6 +43,7 @@ TWHIN_MODEL_DIR = _resolve_repo_path(
 
 
 def _safe_load_image(image_url):
+    # This utility loads the images of the post from URLs so the vision model can analyse the attached media when available.
     if not image_url:
         return Image.new("RGB", (448, 448), color=(200, 200, 200))
 
@@ -61,6 +63,7 @@ def _safe_load_image(image_url):
 
 
 def _build_verdict(classification, confidence=0.0, misinformation_prob=None):
+    # This helper translates the raw model scores into a verdict and status for the API response.
     if misinformation_prob is not None:
         fake_likelihood = float(misinformation_prob)
     elif classification == "Real":
@@ -84,6 +87,7 @@ def _build_verdict(classification, confidence=0.0, misinformation_prob=None):
 
 
 def _build_reasoning(classification, confidence, model_name, factual_prob=None, misinformation_prob=None):
+    # This helper creates a short explanation for the classification given.
     score = int(confidence * 100)
     if classification == "Misinformation":
         return (
@@ -107,6 +111,7 @@ def _build_reasoning(classification, confidence, model_name, factual_prob=None, 
 
 
 def _parse_qwen_output(output_text):
+    # This helper extracts labels, confidence, and explanations from the Qwen model's text output.
     label = None
     confidence = None
     explanation = None
@@ -152,6 +157,7 @@ def _parse_qwen_output(output_text):
 
 
 class QwenVLDetector:
+    # This class allows the Qwen vision model to classify posts and generate a short explanation for the misinformation results.
     """
     Qwen3-VL model for misinformation detection.
 
@@ -265,6 +271,7 @@ class QwenVLDetector:
 
 
 class TwHINDetector:
+    # This class wraps the text-only TwHIN model for fast misinformation classification so that it can analyse the post without images.
     """
     TwHIN-BERT model for text-only misinformation detection.
 
@@ -354,10 +361,6 @@ class TwHINDetector:
         }
 
 
-class Detector(QwenVLDetector):
-    """Legacy alias for QwenVLDetector."""
-    pass
-
 """
 In this file I used Github Copilot to help write the code for the QwenVLDetector and TwHINDetector classes. 
 The code was generated based on the requirements of loading the models, processing inputs, and generating outputs. 
@@ -368,5 +371,9 @@ I reviewed and modified the generated code to ensure it met our specific needs f
 - "What is a good way to structure my how my two models work that generalises a big portion of the code and makes it easier to maintain?"
 
 - "How do I make my model explanation more detailed and dynamic, reflecting the reasoning behind the classification?"
+
+The code was also adapted from examples found at: 
+- https://unsloth.ai/docs (Unsloth Docs | Unsloth Documentation, 2026)
+- https://huggingface.co/docs (Hugging Face - Documentation, no date)
 
 """

@@ -166,3 +166,9 @@ function App() {
 }
 
 export default App
+/* 
+Was adapted from examples at:
+- https://react.dev/learn (Quick Start – React, no date)
+- https://axios.rest/pages/getting-started/first-steps (First steps | axios | Promise based HTTP client, no date)
+- https://docs.x.com/x-api/introduction (Platform, no date)
+*/
