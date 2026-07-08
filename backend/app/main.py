@@ -168,5 +168,5 @@ async def health():
 Was adapted from examples at:
 
 - https://fastapi.tiangolo.com/ (FastAPI - FastAPI, no date)
-- https://docs.x.com/x-api/introduction (Platform, no date)
+- https://docs.x.com/x-api/introduction (X API - X, no date))
 """

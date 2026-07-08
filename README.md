@@ -44,6 +44,5 @@ uvicorn main:app --reload
 - Quick Start – React. (no date). Available from https://react.dev/learn [Accessed 21 June 2026].
 - roupenminassian/TwHIN-BERT-Misinformation-Classifier · Hugging Face. (2024). Available from https://huggingface.co/roupenminassian/TwHIN-BERT-Misinformation-Classifier [Accessed 20 June 2026].
 - Unsloth Docs | Unsloth Documentation. (2026). Available from https://unsloth.ai/docs [Accessed 4 July 2026].
+- X API - X. (no date). X Developer Platform. Available from https://docs.x.com/x-api/introduction [Accessed 4 July 2026].
 - Xiao, Y. et al. (2025). XFacta: Contemporary, Real-World Dataset and Evaluation for Multimodal Misinformation Detection with Multimodal LLMs. Available from https://doi.org/10.48550/ARXIV.2508.09999 [Accessed 3 November 2025].
-
-
