@@ -158,12 +158,6 @@ def _parse_qwen_output(output_text):
 
 class QwenVLDetector:
     # This class allows the Qwen vision model to classify posts and generate a short explanation for the misinformation results.
-    """
-    Qwen3-VL model for misinformation detection.
-
-    This class loads the fine-tuned Qwen model and predicts whether a post is
-    misinformation or real. It also produces a short reasoning sentence.
-    """
 
     def __init__(self):
         print("Loading Qwen3-VL model...")
@@ -272,12 +266,6 @@ class QwenVLDetector:
 
 class TwHINDetector:
     # This class wraps the text-only TwHIN model for fast misinformation classification so that it can analyse the post without images.
-    """
-    TwHIN-BERT model for text-only misinformation detection.
-
-    This class loads a sequence classification model and returns a short
-    natural-language explanation of the score.
-    """
 
     def __init__(self):
         print("Loading TwHIN-BERT model...")
@@ -360,6 +348,9 @@ class TwHINDetector:
             "fake_likelihood": round(fake_likelihood, 4),
         }
 
+class Detector(QwenVLDetector):
+    """Legacy alias for QwenVLDetector."""
+    pass
 
 """
 In this file I used Github Copilot to help write the code for the QwenVLDetector and TwHINDetector classes. 

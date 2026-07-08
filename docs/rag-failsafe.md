@@ -7,4 +7,4 @@ Use this document as a backup when the classification result is unsure. It is de
 - Watch for emotionally charged language and unverified assertions.
 - If the post is uncertain, treat it as potentially misleading until verified.
 
-This document exists so that your system has a fallback explanation path if direct model classification is not decisive or if a manual review is needed.
+This document exists so that the system has a fallback explanation path if direct model classification is not decisive or if a manual review is needed.

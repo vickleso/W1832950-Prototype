@@ -121,4 +121,4 @@ class XAPIHandler:
             raise ValueError("Invalid X URL - couldn't extract tweet id.")
         return self.fetch_post(tweet_id)
 
-"""Was adapted from examples at https://docs.x.com/x-api/introduction (Platform, no date)"""
+"""Was adapted from examples at https://docs.x.com/x-api/introduction (X API - X, no date)"""
