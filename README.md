@@ -3,16 +3,16 @@
 ## Minsinformation Detection Software on X
 
 This is a Final Year Project Designed and coded by Victor Okafor (w1832950).
----
+----------------------------------------------------------------------------
+
 ### How to run project
 
 - To clone this repository run
-``` git clone https://github.com/vickleso/W1832950-Prototype.git ```
-
+  ``git clone https://github.com/vickleso/W1832950-Prototype.git``
 - When inside the repository run, this will add the secondary petrained model to the project
-```git clone https://huggingface.co/roupenminassian/TwHIN-BERT-Misinformation-Classifier ```
-
+  ``git clone https://huggingface.co/roupenminassian/TwHIN-BERT-Misinformation-Classifier ``
 - Then in terminal cd into the project directory and activate
+
 ```
 
 python3 -m venv .venv
@@ -21,6 +21,7 @@ pip install -r requirements.txt
 ```
 
 - Once done open another terminal and run:
+
 ```
 cd frontend
 npm init
@@ -33,9 +34,10 @@ cd backend/app
 uvicorn main:app --reload
 ```
 
-- Open your browser and go to http://localhost:5173/ and have fun :smile:
+- Open your browser and go to http://localhost:5173/ and have fun 😄
 
 #### References
+
 - FastAPI - FastAPI. (no date). Available from https://fastapi.tiangolo.com/ [Accessed 4 July 2026].
 - First steps | axios | Promise based HTTP client. (no date). Available from https://axios.rest/pages/getting-started/first-steps [Accessed 4 July 2026].
 - Hugging Face - Documentation. (no date). Available from https://huggingface.co/docs [Accessed 4 July 2026].

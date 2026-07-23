@@ -163,20 +163,16 @@ class QwenVLDetector:
         print("Loading Qwen3-VL model...")
         try:
             base_model_name = "Qwen/Qwen3-VL-4B-Thinking"
-            bnb_config = BitsAndBytesConfig(
-                load_in_8bit=True,
-                bnb_8bit_compute_dtype=torch.float16,
-            )
-
+    
             self.model = Qwen3VLForConditionalGeneration.from_pretrained(
                 base_model_name,
-                quantization_config=bnb_config,
-                device_map="auto",
+                torch_dtype=torch.float32,
+                device_map="cpu",
                 trust_remote_code=True,
             )
 
             if LOCAL_MODEL_DIR.exists():
-                self.model = PeftModel.from_pretrained(self.model, LOCAL_MODEL_DIR)
+                self.model = PeftModel.from_pretrained(self.model, LOCAL_MODEL_DIR, device_map="cpu")
             else:
                 raise FileNotFoundError(f"Missing fine-tuned model at {LOCAL_MODEL_DIR}")
 
@@ -232,7 +228,7 @@ class QwenVLDetector:
         inputs = {k: v.to(device) if torch.is_tensor(v) else v for k, v in inputs.items()}
 
         with torch.no_grad():
-            outputs = self.model.generate(
+            outputs = self.model.generate( # type: ignore
                 input_ids=inputs.get("input_ids"),
                 attention_mask=inputs.get("attention_mask"),
                 pixel_values=inputs.get("pixel_values"),
@@ -277,7 +273,7 @@ class TwHINDetector:
             self.model = AutoModelForSequenceClassification.from_pretrained(
                 str(TWHIN_MODEL_DIR)
             )
-            self.device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+            self.device = torch.device("cpu")
             self.model = self.model.to(self.device)
             self.model.eval()
 
